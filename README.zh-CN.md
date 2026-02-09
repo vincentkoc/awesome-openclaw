@@ -9,31 +9,34 @@
 
 OpenClaw 是一个开源、自托管的 AI Agent 框架，可将大模型与工具、消息通道和记忆系统连接起来，让 Agent 执行真实工作流。它曾使用 Moltbot 和 Clawdbot 名称，并通过技能、插件与生态集成实现可扩展性。
 
-## Navigation
+<a id="navigation"></a>
+## 导航
 
-- [Alternative Architectures](#alternative-architectures)
-- [Community Channels](#community-channels)
-- [Contributing](#contributing)
-- [Curated Collections](#curated-collections)
-- [Developer Tooling and Observability](#developer-tooling-and-observability)
-- [Deployment and Operations](#deployment-and-operations)
-- [License](#license)
-- [Localization and Regional Forks](#localization-and-regional-forks)
-- [MCP and Tool Servers](#mcp-and-tool-servers)
-- [Media and Papers](#media-and-papers)
-- [Memory and Context Systems](#memory-and-context-systems)
-- [Official Resources](#official-resources)
-- [Plugins and Integrations](#plugins-and-integrations)
-- [Skills and Skill Indexes](#skills-and-skill-indexes)
+- [替代架构](#alternative-architectures)
+- [社区渠道](#community-channels)
+- [贡献](#contributing)
+- [精选集合](#curated-collections)
+- [开发工具与可观测性](#developer-tooling-and-observability)
+- [部署与运维](#deployment-and-operations)
+- [许可证](#license)
+- [本地化与区域分支](#localization-and-regional-forks)
+- [MCP 与工具服务器](#mcp-and-tool-servers)
+- [媒体与论文](#media-and-papers)
+- [记忆与上下文系统](#memory-and-context-systems)
+- [官方资源](#official-resources)
+- [插件与集成](#plugins-and-integrations)
+- [技能与索引](#skills-and-skill-indexes)
 
-## Status Markers
+<a id="status-markers"></a>
+## 状态标记
 
 - 🎖️ 由 OpenClaw 官方维护（组织仓库、官方文档或官方渠道）。
 - 💵 通常需要付费服务或付费套餐。
 
 ---
 
-## Community Channels
+<a id="community-channels"></a>
+## 社区渠道
 
 - [4claw.org](https://www.4claw.org) - 4chan-style image board for autonomous agent conversations.
 - [Clawk](https://clawk.ai) - Twitter-style social network where agents post, follow, like, and repost short-form updates.
@@ -48,7 +51,8 @@ OpenClaw 是一个开源、自托管的 AI Agent 框架，可将大模型与工�
 - [Moltx](https://moltx.io/) - X-style social feed for agents with timeline replies, likes, and follows.
 - [Shellmates](https://www.shellmates.app) - Matching platform that pairs agents for short- and long-term correspondence.
 
-## Alternative Architectures
+<a id="alternative-architectures"></a>
+## 替代架构
 
 - [gavrielc/nanoclaw](https://github.com/gavrielc/nanoclaw) - Lightweight alternative architecture/framework in the OpenClaw ecosystem. ![GitHub stars](https://img.shields.io/github/stars/gavrielc/nanoclaw?style=social)
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Ultra-lightweight personal AI assistant implementation. ![GitHub stars](https://img.shields.io/github/stars/HKUDS/nanobot?style=social)
@@ -56,7 +60,8 @@ OpenClaw 是一个开源、自托管的 AI Agent 框架，可将大模型与工�
 - [puremachinery/carapace](https://github.com/puremachinery/carapace) - Security-focused assistant with sandboxing and plugin isolation. ![GitHub stars](https://img.shields.io/github/stars/puremachinery/carapace?style=social)
 - [ysz/nanoClaw](https://github.com/ysz/nanoClaw) - Lightweight secure assistant with rapid setup. ![GitHub stars](https://img.shields.io/github/stars/ysz/nanoClaw?style=social)
 
-## Official Resources
+<a id="official-resources"></a>
+## 官方资源
 
 - [OpenClaw Website](https://openclaw.ai) - Product and project homepage. 🎖️
 - [OpenClaw Docs](https://docs.openclaw.ai) - Main documentation portal. 🎖️
@@ -67,13 +72,15 @@ OpenClaw 是一个开源、自托管的 AI Agent 框架，可将大模型与工�
 - [openclaw/clawhub](https://github.com/openclaw/clawhub) - Official skill registry source. 🎖️ ![GitHub stars](https://img.shields.io/github/stars/openclaw/clawhub?style=social)
 - [openclaw/skills](https://github.com/openclaw/skills) - Archived historical skill versions. 🎖️ ![GitHub stars](https://img.shields.io/github/stars/openclaw/skills?style=social)
 
-## Curated Collections
+<a id="curated-collections"></a>
+## 精选集合
 
 - [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) - Real-world usage patterns and domain examples. ![GitHub stars](https://img.shields.io/github/stars/hesamsheikh/awesome-openclaw-usecases?style=social)
 - [jensrot/awesome-openclaw](https://github.com/jensrot/awesome-openclaw) - Curated OpenClaw ecosystem resources and tooling references. ![GitHub stars](https://img.shields.io/github/stars/jensrot/awesome-openclaw?style=social)
 - [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - Major community index of OpenClaw skills with rename-lineage context. ![GitHub stars](https://img.shields.io/github/stars/VoltAgent/awesome-openclaw-skills?style=social)
 
-## Skills and Skill Indexes
+<a id="skills-and-skill-indexes"></a>
+## 技能与索引
 
 - [BankrBot/openclaw-skills](https://github.com/BankrBot/openclaw-skills) - Community skill library focused on automation and finance. ![GitHub stars](https://img.shields.io/github/stars/BankrBot/openclaw-skills?style=social)
 - [clawdbot/skills](https://github.com/clawdbot/skills) - Legacy alias path to historical skill archive content. ![GitHub stars](https://img.shields.io/github/stars/clawdbot/skills?style=social)
@@ -85,7 +92,8 @@ OpenClaw 是一个开源、自托管的 AI Agent 框架，可将大模型与工�
 - [Skills.sh OpenClaw Directory](https://skills.sh/openclaw/openclaw) - Third-party OpenClaw skill discovery directory.
 - [Virtual-Protocol/openclaw-acp](https://github.com/Virtual-Protocol/openclaw-acp) - Agent Commerce Protocol skill pack for commerce flows. ![GitHub stars](https://img.shields.io/github/stars/Virtual-Protocol/openclaw-acp?style=social)
 
-## Plugins and Integrations
+<a id="plugins-and-integrations"></a>
+## 插件与集成
 
 - [11haonb/wecom-openclaw-plugin](https://github.com/11haonb/wecom-openclaw-plugin) - WeCom (WeChat Work) enterprise messaging plugin. ![GitHub stars](https://img.shields.io/github/stars/11haonb/wecom-openclaw-plugin?style=social)
 - [AlexAnys/feishu-openclaw](https://github.com/AlexAnys/feishu-openclaw) - Feishu/Lark integration plugin with streamlined self-hosted setup. ![GitHub stars](https://img.shields.io/github/stars/AlexAnys/feishu-openclaw?style=social)
@@ -101,17 +109,20 @@ OpenClaw 是一个开源、自托管的 AI Agent 框架，可将大模型与工�
 - [soimy/openclaw-channel-dingtalk](https://github.com/soimy/openclaw-channel-dingtalk) - DingTalk enterprise channel plugin with stream support. ![GitHub stars](https://img.shields.io/github/stars/soimy/openclaw-channel-dingtalk?style=social)
 - [techartdev/OpenClawHomeAssistant](https://github.com/techartdev/OpenClawHomeAssistant) - Home Assistant add-on with entity-level integration. ![GitHub stars](https://img.shields.io/github/stars/techartdev/OpenClawHomeAssistant?style=social)
 
-## MCP and Tool Servers
+<a id="mcp-and-tool-servers"></a>
+## MCP 与工具服务器
 
 - [androidStern-personal/openclaw-mcp-adapter](https://github.com/androidStern-personal/openclaw-mcp-adapter) - adapter for native OpenClaw tool access. ![GitHub stars](https://img.shields.io/github/stars/androidStern-personal/openclaw-mcp-adapter?style=social)
 - [Enderfga/openclaw-claude-code-skill](https://github.com/Enderfga/openclaw-claude-code-skill) - Claude Code skill integration via MCP for OpenClaw. ![GitHub stars](https://img.shields.io/github/stars/Enderfga/openclaw-claude-code-skill?style=social)
 - [Helms-AI/openclaw-mcp-server](https://github.com/Helms-AI/openclaw-mcp-server) - MCP server exposing OpenClaw Gateway tools. ![GitHub stars](https://img.shields.io/github/stars/Helms-AI/openclaw-mcp-server?style=social)
 
-## Media and Papers
+<a id="media-and-papers"></a>
+## 媒体与论文
 
 - [Clawdbot Showed Me What the Future of Personal AI Assistants Looks Like](https://www.macstories.net/stories/clawdbot-showed-me-what-the-future-of-personal-ai-assistants-looks-like/) - MacStories coverage of early Clawdbot/OpenClaw personal-agent workflows.
 
-## Memory and Context Systems
+<a id="memory-and-context-systems"></a>
+## 记忆与上下文系统
 
 - [Mem0 persistent OpenClaw memory](https://docs.mem0.ai/integrations/openclaw) - Integration docs for persistent memory with Mem0. 💵
 - [memovai/memov](https://github.com/memovai/memov) - Memory layer and retrieval toolkit for persistent OpenClaw context. ![GitHub stars](https://img.shields.io/github/stars/memovai/memov?style=social)
@@ -124,7 +135,8 @@ OpenClaw 是一个开源、自托管的 AI Agent 框架，可将大模型与工�
 - [supermemoryai/openclaw-supermemory](https://github.com/supermemoryai/openclaw-supermemory) - Supermemory-backed long-term memory plugin. 💵 ![GitHub stars](https://img.shields.io/github/stars/supermemoryai/openclaw-supermemory?style=social)
 - [tobi/qmd](https://github.com/tobi/qmd) - Markdown-native memory and knowledge workflows for persistent agent context. ![GitHub stars](https://img.shields.io/github/stars/tobi/qmd?style=social)
 
-## Developer Tooling and Observability
+<a id="developer-tooling-and-observability"></a>
+## 开发工具与可观测性
 
 - [bokonon23/clawdbot-cost-monitor](https://github.com/bokonon23/clawdbot-cost-monitor) - Cost and spending monitor for OpenClaw/Clawdbot usage. ![GitHub stars](https://img.shields.io/github/stars/bokonon23/clawdbot-cost-monitor?style=social)
 - [ClawFOMO](https://clawfomo.com) - Real-time trend and sentiment monitor for ecosystem activity.
@@ -147,7 +159,8 @@ OpenClaw 是一个开源、自托管的 AI Agent 框架，可将大模型与工�
 - [refly-ai/refly](https://github.com/refly-ai/refly) - Skills and workflow builder ecosystem with overlap for agent tooling. ![GitHub stars](https://img.shields.io/github/stars/refly-ai/refly?style=social)
 - [shanselman/openclaw-windows-hub](https://github.com/shanselman/openclaw-windows-hub) - Windows companion hub for desktop intergration. ![GitHub stars](https://img.shields.io/github/stars/shanselman/openclaw-windows-hub?style=social)
 
-## Deployment and Operations
+<a id="deployment-and-operations"></a>
+## 部署与运维
 
 - [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - Self-hosted server panel often used for OpenClaw deployments. ![GitHub stars](https://img.shields.io/github/stars/1Panel-dev/1Panel?style=social)
 - [badrisnarayanan/antigravity-claude-proxy](https://github.com/badrisnarayanan/antigravity-claude-proxy) - Proxy and routing support for model access in assistant workflows. ![GitHub stars](https://img.shields.io/github/stars/badrisnarayanan/antigravity-claude-proxy?style=social)
@@ -178,12 +191,14 @@ OpenClaw 是一个开源、自托管的 AI Agent 框架，可将大模型与工�
 - [vincentkoc/natilius](https://github.com/vincentkoc/natilius) - Automated one-click macOS engineering environment setup for rebuilding research, sandbox, and agent machines. ![GitHub stars](https://img.shields.io/github/stars/vincentkoc/natilius?style=social)
 - [willbullen/openclaw-docker](https://github.com/willbullen/openclaw-docker) - Production-focused Docker Compose setup with security hardening. ![GitHub stars](https://img.shields.io/github/stars/willbullen/openclaw-docker?style=social)
 
-## Localization and Regional Forks
+<a id="localization-and-regional-forks"></a>
+## 本地化与区域分支
 
 - [1186258278/OpenClawChineseTranslation](https://github.com/1186258278/OpenClawChineseTranslation) - Translation-focused setup repository. ![GitHub stars](https://img.shields.io/github/stars/1186258278/OpenClawChineseTranslation?style=social)
 - [jiulingyun/openclaw-cn](https://github.com/jiulingyun/openclaw-cn) - Chinese-oriented OpenClaw adaptation. ![GitHub stars](https://img.shields.io/github/stars/jiulingyun/openclaw-cn?style=social)
 
-## Contributing
+<a id="contributing"></a>
+## 贡献
 
 欢迎提交 PR：
 
@@ -193,7 +208,8 @@ OpenClaw 是一个开源、自托管的 AI Agent 框架，可将大模型与工�
 
 Please include a short relevance note when submitting a new entry.
 
-## License
+<a id="license"></a>
+## 许可证
 
 MIT. See [`LICENSE`](LICENSE).
 
