@@ -228,3 +228,4 @@ MIT. See [`LICENSE`](LICENSE).
 ---
 
 Made with 💙 by <a href="https://github.com/vincentkoc">Vincent Koc</a> · <a href="LICENSE">MIT</a>
+- [ClawdTalk](https://github.com/team-telnyx/clawdtalk-client) - Phone calling and SMS for OpenClaw with deep tool integration for calendar, Jira, web search, and more. Powered by Telnyx. ![GitHub stars](https://img.shields.io/github/stars/team-telnyx/clawdtalk-client?style=social)
