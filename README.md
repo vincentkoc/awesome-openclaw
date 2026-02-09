@@ -19,222 +19,200 @@ A curated list of high-signal resources for **OpenClaw** (formerly **Moltbot**, 
 - [Plugins and Integrations](#plugins-and-integrations)
 - [Security Notes](#security-notes)
 - [Skills and Skill Indexes](#skills-and-skill-indexes)
-- [Tag Legend](#tag-legend)
+- [Status Markers](#status-markers)
 - [Use-Case Libraries](#use-case-libraries)
 
-## Tag Legend
+## Status Markers
 
-- `Alias` - Legacy naming continuity (Moltbot/Clawdbot).
-- `Archived` - Historical archive or legacy storage.
-- `Catalog` - Index/list of many resources.
-- `Community` - Community-maintained project.
-- `Docs` - Documentation, integration guide, or technical write-up.
-- `Infra` - Deployment, packaging, or infrastructure.
-- `MCP` - Model Context Protocol related.
-- `Paid` - Requires paid plan or commercial subscription for full use.
-- `Official` - Maintained by OpenClaw org or official docs/site.
-- `OSS` - Open-source code.
-- `Plugins` - Focused on OpenClaw plugin discovery or implementation.
-- `Skills` - Focused on OpenClaw skill discovery or implementation.
+- 🎖️ Official OpenClaw-maintained resource (org repo, official docs, or official channels).
+- 💵 Paid service or paid tier commonly required for full functionality.
 
 ## Canonical Project and Aliases
 
-- [clawdbot/clawdbot](https://github.com/clawdbot/clawdbot) - Legacy alias URL redirecting to the canonical repository. `Alias` ![GitHub stars](https://img.shields.io/github/stars/clawdbot/clawdbot?style=social)
-- [moltbot/moltbot](https://github.com/moltbot/moltbot) - Legacy alias URL redirecting to the canonical repository. `Alias` ![GitHub stars](https://img.shields.io/github/stars/moltbot/moltbot?style=social)
-- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Core project. `Official` `OSS` ![GitHub stars](https://img.shields.io/github/stars/openclaw/openclaw?style=social)
+- [clawdbot/clawdbot](https://github.com/clawdbot/clawdbot) - Legacy alias URL redirecting to the canonical repository. ![GitHub stars](https://img.shields.io/github/stars/clawdbot/clawdbot?style=social)
+- [moltbot/moltbot](https://github.com/moltbot/moltbot) - Legacy alias URL redirecting to the canonical repository. ![GitHub stars](https://img.shields.io/github/stars/moltbot/moltbot?style=social)
+- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Core project. 🎖️ ![GitHub stars](https://img.shields.io/github/stars/openclaw/openclaw?style=social)
 
 ## Community Channels
 
-- [GitHub Discussions](https://github.com/openclaw/openclaw/discussions) - Community discussion forum for help, ideas, and showcase posts. `Official`
-- [GitHub Issues](https://github.com/openclaw/openclaw/issues) - Bug reports and feature requests for OpenClaw core. `Official`
-- [MoltBook](https://moltbook.com) - Agent-first social platform connected to the broader Molt ecosystem. `Community`
+- [GitHub Discussions](https://github.com/openclaw/openclaw/discussions) - Community discussion forum for help, ideas, and showcase posts. 🎖️
+- [GitHub Issues](https://github.com/openclaw/openclaw/issues) - Bug reports and feature requests for OpenClaw core. 🎖️
+- [MoltBook](https://moltbook.com) - Agent-first social platform connected to the broader Molt ecosystem.
 
 ## Alternative Architectures
 
-- [gavrielc/nanoclaw](https://github.com/gavrielc/nanoclaw) - Lightweight alternative architecture/framework in the OpenClaw ecosystem. `Community` `OSS` ![GitHub stars](https://img.shields.io/github/stars/gavrielc/nanoclaw?style=social)
-- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Ultra-lightweight OpenClaw-inspired personal AI assistant implementation. `Community` `OSS` ![GitHub stars](https://img.shields.io/github/stars/HKUDS/nanobot?style=social)
-- [microclaw/microclaw](https://github.com/microclaw/microclaw) - Rust-based OpenClaw-inspired assistant with tool execution and session resume. `Community` `OSS` ![GitHub stars](https://img.shields.io/github/stars/microclaw/microclaw?style=social)
-- [puremachinery/carapace](https://github.com/puremachinery/carapace) - Security-focused OpenClaw-inspired assistant with sandboxing and plugin isolation. `Community` `OSS` ![GitHub stars](https://img.shields.io/github/stars/puremachinery/carapace?style=social)
-- [puretensor/hal-claude](https://github.com/puretensor/hal-claude) - Minimal OpenClaw-style alternative emphasizing small code footprint. `Community` `OSS` ![GitHub stars](https://img.shields.io/github/stars/puretensor/hal-claude?style=social)
-- [ysz/nanoClaw](https://github.com/ysz/nanoClaw) - Lightweight secure OpenClaw-inspired assistant with rapid setup. `Community` `OSS` ![GitHub stars](https://img.shields.io/github/stars/ysz/nanoClaw?style=social)
+- [gavrielc/nanoclaw](https://github.com/gavrielc/nanoclaw) - Lightweight alternative architecture/framework in the OpenClaw ecosystem. ![GitHub stars](https://img.shields.io/github/stars/gavrielc/nanoclaw?style=social)
+- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Ultra-lightweight OpenClaw-inspired personal AI assistant implementation. ![GitHub stars](https://img.shields.io/github/stars/HKUDS/nanobot?style=social)
+- [microclaw/microclaw](https://github.com/microclaw/microclaw) - Rust-based OpenClaw-inspired assistant with tool execution and session resume. ![GitHub stars](https://img.shields.io/github/stars/microclaw/microclaw?style=social)
+- [puremachinery/carapace](https://github.com/puremachinery/carapace) - Security-focused OpenClaw-inspired assistant with sandboxing and plugin isolation. ![GitHub stars](https://img.shields.io/github/stars/puremachinery/carapace?style=social)
+- [puretensor/hal-claude](https://github.com/puretensor/hal-claude) - Minimal OpenClaw-style alternative emphasizing small code footprint. ![GitHub stars](https://img.shields.io/github/stars/puretensor/hal-claude?style=social)
+- [ysz/nanoClaw](https://github.com/ysz/nanoClaw) - Lightweight secure OpenClaw-inspired assistant with rapid setup. ![GitHub stars](https://img.shields.io/github/stars/ysz/nanoClaw?style=social)
 
 ## Official Resources
 
-- [AGENTS.md](https://github.com/openclaw/openclaw/blob/main/AGENTS.md) - Agent workspace and behavior configuration reference. `Official` `Docs`
-- [CHANGELOG.md](https://github.com/openclaw/openclaw/blob/main/CHANGELOG.md) - Core release notes and change history. `Official` `Docs`
-- [Channels](https://docs.openclaw.ai/channels) - Official channel integrations and messaging surfaces. `Official`
-- [ClawHub](https://clawhub.ai) - Official skill registry and discovery portal. `Official` `Skills`
-- [Discord](https://discord.gg/clawd) - Community chat and support server. `Official`
-- [Docker Install](https://docs.openclaw.ai/install/docker) - Containerized install guide. `Official` `Infra`
-- [FAQ](https://docs.openclaw.ai/start/faq) - Frequently asked questions. `Official`
-- [Gateway Security](https://docs.openclaw.ai/gateway/security) - Security controls and hardening notes. `Official`
-- [Getting Started](https://docs.openclaw.ai/start/getting-started) - Fastest path to a working setup. `Official`
-- [Onboarding Wizard](https://docs.openclaw.ai/start/wizard) - Guided setup flow. `Official`
-- [OpenClaw Docs](https://docs.openclaw.ai) - Main documentation portal. `Official`
-- [OpenClaw Releases](https://github.com/openclaw/openclaw/releases) - Tagged release builds and changelog snapshots. `Official`
-- [OpenClaw Website](https://openclaw.ai) - Product and project homepage. `Official`
-- [Plugin Agent Tools](https://docs.openclaw.ai/plugins/agent-tools) - Official reference for adding plugin-provided agent tools. `Official` `Docs` `Plugins`
-- [Plugin Docs](https://docs.openclaw.ai/plugin) - Official plugin authoring and runtime guide. `Official` `Docs` `Plugins`
-- [openclaw/clawgo](https://github.com/openclaw/clawgo) - Go implementation for Clawd node infrastructure. `Official` `OSS` ![GitHub stars](https://img.shields.io/github/stars/openclaw/clawgo?style=social)
-- [openclaw/nix-openclaw](https://github.com/openclaw/nix-openclaw) - Nix packaging and setup resources. `Official` `OSS` `Infra` ![GitHub stars](https://img.shields.io/github/stars/openclaw/nix-openclaw?style=social)
-- [openclaw/openclaw.ai](https://github.com/openclaw/openclaw.ai) - Official website repository. `Official` `OSS` ![GitHub stars](https://img.shields.io/github/stars/openclaw/openclaw.ai?style=social)
-- [Showcase](https://docs.openclaw.ai/start/showcase) - Example usage and demos. `Official`
-- [Skills Docs](https://docs.openclaw.ai/tools/skills) - Official skill model and usage docs. `Official` `Skills`
+- [OpenClaw Website](https://openclaw.ai) - Product and project homepage. 🎖️
+- [OpenClaw Docs](https://docs.openclaw.ai) - Main documentation portal. 🎖️
+- [Getting Started](https://docs.openclaw.ai/start/getting-started) - Fastest path to a working setup. 🎖️
+- [Plugin Docs](https://docs.openclaw.ai/plugin) - Official plugin authoring and runtime guide. 🎖️
+- [Skills Docs](https://docs.openclaw.ai/tools/skills) - Official skill model and usage docs. 🎖️
+- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Core assistant framework repository. 🎖️ ![GitHub stars](https://img.shields.io/github/stars/openclaw/openclaw?style=social)
+- [openclaw/clawhub](https://github.com/openclaw/clawhub) - Official skill registry source. 🎖️ ![GitHub stars](https://img.shields.io/github/stars/openclaw/clawhub?style=social)
+- [openclaw/skills](https://github.com/openclaw/skills) - Archived historical skill versions. 🎖️ ![GitHub stars](https://img.shields.io/github/stars/openclaw/skills?style=social)
 
 ## Curated Collections
 
-- [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) - Real-world usage patterns and domain examples. `Community` `Catalog` ![GitHub stars](https://img.shields.io/github/stars/hesamsheikh/awesome-openclaw-usecases?style=social)
-- [jensrot/awesome-openclaw](https://github.com/jensrot/awesome-openclaw) - Curated OpenClaw ecosystem resources and tooling references. `Community` `Catalog` ![GitHub stars](https://img.shields.io/github/stars/jensrot/awesome-openclaw?style=social)
-- [LAMBDASOFT-org/awesome-openclaw-ecosystem](https://github.com/LAMBDASOFT-org/awesome-openclaw-ecosystem) - Ecosystem-focused curated list of OpenClaw-related hubs and services. `Community` `Catalog` ![GitHub stars](https://img.shields.io/github/stars/LAMBDASOFT-org/awesome-openclaw-ecosystem?style=social)
-- [learnclaw/awesome-openclaw](https://github.com/learnclaw/awesome-openclaw) - Community list of OpenClaw resources, integrations, and guides. `Community` `Catalog` ![GitHub stars](https://img.shields.io/github/stars/learnclaw/awesome-openclaw?style=social)
-- [thewh1teagle/awesome-openclaw](https://github.com/thewh1teagle/awesome-openclaw) - Broad ecosystem curation with tools and workflows. `Community` `Catalog` ![GitHub stars](https://img.shields.io/github/stars/thewh1teagle/awesome-openclaw?style=social)
-- [ThisIsJeron/awesome-openclaw-plugins](https://github.com/ThisIsJeron/awesome-openclaw-plugins) - Curated list of OpenClaw plugins across channels, memory, observability, and governance. `Community` `Catalog` `Plugins` ![GitHub stars](https://img.shields.io/github/stars/ThisIsJeron/awesome-openclaw-plugins?style=social)
-- [vivy-yi/awesome-openclaw](https://github.com/vivy-yi/awesome-openclaw) - Large multilingual ecosystem curation across platforms, tools, and deployments. `Community` `Catalog` ![GitHub stars](https://img.shields.io/github/stars/vivy-yi/awesome-openclaw?style=social)
-- [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - Major community index of OpenClaw skills with rename-lineage context. `Community` `Catalog` `Skills` ![GitHub stars](https://img.shields.io/github/stars/VoltAgent/awesome-openclaw-skills?style=social)
+- [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) - Real-world usage patterns and domain examples. ![GitHub stars](https://img.shields.io/github/stars/hesamsheikh/awesome-openclaw-usecases?style=social)
+- [jensrot/awesome-openclaw](https://github.com/jensrot/awesome-openclaw) - Curated OpenClaw ecosystem resources and tooling references. ![GitHub stars](https://img.shields.io/github/stars/jensrot/awesome-openclaw?style=social)
+- [LAMBDASOFT-org/awesome-openclaw-ecosystem](https://github.com/LAMBDASOFT-org/awesome-openclaw-ecosystem) - Ecosystem-focused curated list of OpenClaw-related hubs and services. ![GitHub stars](https://img.shields.io/github/stars/LAMBDASOFT-org/awesome-openclaw-ecosystem?style=social)
+- [learnclaw/awesome-openclaw](https://github.com/learnclaw/awesome-openclaw) - Community list of OpenClaw resources, integrations, and guides. ![GitHub stars](https://img.shields.io/github/stars/learnclaw/awesome-openclaw?style=social)
+- [thewh1teagle/awesome-openclaw](https://github.com/thewh1teagle/awesome-openclaw) - Broad ecosystem curation with tools and workflows. ![GitHub stars](https://img.shields.io/github/stars/thewh1teagle/awesome-openclaw?style=social)
+- [ThisIsJeron/awesome-openclaw-plugins](https://github.com/ThisIsJeron/awesome-openclaw-plugins) - Curated list of OpenClaw plugins across channels, memory, observability, and governance. ![GitHub stars](https://img.shields.io/github/stars/ThisIsJeron/awesome-openclaw-plugins?style=social)
+- [vivy-yi/awesome-openclaw](https://github.com/vivy-yi/awesome-openclaw) - Large multilingual ecosystem curation across platforms, tools, and deployments. ![GitHub stars](https://img.shields.io/github/stars/vivy-yi/awesome-openclaw?style=social)
+- [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - Major community index of OpenClaw skills with rename-lineage context. ![GitHub stars](https://img.shields.io/github/stars/VoltAgent/awesome-openclaw-skills?style=social)
 
 ## Skills and Skill Indexes
 
-- [BankrBot/openclaw-skills](https://github.com/BankrBot/openclaw-skills) - Community skill library with automation and finance-oriented integrations. `Community` `OSS` `Skills` ![GitHub stars](https://img.shields.io/github/stars/BankrBot/openclaw-skills?style=social)
-- [clawdbot/skills](https://github.com/clawdbot/skills) - Legacy alias path to historical skill archive content. `Alias` `Skills` `Archived` ![GitHub stars](https://img.shields.io/github/stars/clawdbot/skills?style=social)
-- [jdrhyne/agent-skills](https://github.com/jdrhyne/agent-skills) - Agent skill packs and reusable workflow extensions for OpenClaw-compatible setups. `Community` `OSS` `Skills` ![GitHub stars](https://img.shields.io/github/stars/jdrhyne/agent-skills?style=social)
-- [lekt9/unbrowse-openclaw](https://github.com/lekt9/unbrowse-openclaw) - API-skill generation workflow from captured web/API traffic. `Community` `OSS` `Skills` ![GitHub stars](https://img.shields.io/github/stars/lekt9/unbrowse-openclaw?style=social)
-- [openclaw/clawhub](https://github.com/openclaw/clawhub) - Official skill directory and discovery surface. `Official` `OSS` `Skills` ![GitHub stars](https://img.shields.io/github/stars/openclaw/clawhub?style=social)
-- [openclaw/skills](https://github.com/openclaw/skills) - Archived versions of skills published on ClawHub. `Official` `OSS` `Skills` `Archived` ![GitHub stars](https://img.shields.io/github/stars/openclaw/skills?style=social)
-- [runkids/skillshare](https://github.com/runkids/skillshare) - Share and synchronize skill packs across AI coding tools. `Community` `OSS` `Skills` ![GitHub stars](https://img.shields.io/github/stars/runkids/skillshare?style=social)
-- [Skills.sh OpenClaw Directory](https://skills.sh/openclaw/openclaw) - Third-party OpenClaw skill discovery directory. `Community` `Docs` `Skills`
+- [BankrBot/openclaw-skills](https://github.com/BankrBot/openclaw-skills) - Community skill library with automation and finance-oriented integrations. ![GitHub stars](https://img.shields.io/github/stars/BankrBot/openclaw-skills?style=social)
+- [clawdbot/skills](https://github.com/clawdbot/skills) - Legacy alias path to historical skill archive content. ![GitHub stars](https://img.shields.io/github/stars/clawdbot/skills?style=social)
+- [jdrhyne/agent-skills](https://github.com/jdrhyne/agent-skills) - Agent skill packs and reusable workflow extensions for OpenClaw-compatible setups. ![GitHub stars](https://img.shields.io/github/stars/jdrhyne/agent-skills?style=social)
+- [lekt9/unbrowse-openclaw](https://github.com/lekt9/unbrowse-openclaw) - API-skill generation workflow from captured web/API traffic. ![GitHub stars](https://img.shields.io/github/stars/lekt9/unbrowse-openclaw?style=social)
+- [openclaw/clawhub](https://github.com/openclaw/clawhub) - Official skill directory and discovery surface. 🎖️ ![GitHub stars](https://img.shields.io/github/stars/openclaw/clawhub?style=social)
+- [openclaw/skills](https://github.com/openclaw/skills) - Archived versions of skills published on ClawHub. 🎖️ ![GitHub stars](https://img.shields.io/github/stars/openclaw/skills?style=social)
+- [runkids/skillshare](https://github.com/runkids/skillshare) - Share and synchronize skill packs across AI coding tools. ![GitHub stars](https://img.shields.io/github/stars/runkids/skillshare?style=social)
+- [Skills.sh OpenClaw Directory](https://skills.sh/openclaw/openclaw) - Third-party OpenClaw skill discovery directory.
 
 ## Plugins and Integrations
 
 ### Automotive
 
-- [Oceanswave/openclaw-tescmd](https://github.com/Oceanswave/openclaw-tescmd) - Tesla control and telemetry plugin for automotive workflows. `Community` `OSS` `Plugins` ![GitHub stars](https://img.shields.io/github/stars/Oceanswave/openclaw-tescmd?style=social)
+- [Oceanswave/openclaw-tescmd](https://github.com/Oceanswave/openclaw-tescmd) - Tesla control and telemetry plugin for automotive workflows. ![GitHub stars](https://img.shields.io/github/stars/Oceanswave/openclaw-tescmd?style=social)
 
 ### Channel Plugins
 
-- [11haonb/wecom-openclaw-plugin](https://github.com/11haonb/wecom-openclaw-plugin) - WeCom (WeChat Work) enterprise messaging plugin for OpenClaw agents. `Community` `OSS` `Plugins` ![GitHub stars](https://img.shields.io/github/stars/11haonb/wecom-openclaw-plugin?style=social)
-- [AlexAnys/feishu-openclaw](https://github.com/AlexAnys/feishu-openclaw) - Feishu/Lark integration plugin with streamlined self-hosted setup. `Community` `OSS` `Plugins` ![GitHub stars](https://img.shields.io/github/stars/AlexAnys/feishu-openclaw?style=social)
-- [flooredApe/openclaw-xmtp](https://github.com/flooredApe/openclaw-xmtp) - XMTP wallet messaging channel plugin for Web3-native communication. `Community` `OSS` `Plugins` ![GitHub stars](https://img.shields.io/github/stars/flooredApe/openclaw-xmtp?style=social)
-- [IBIZDigital/openclaw-cliq-channel](https://github.com/IBIZDigital/openclaw-cliq-channel) - Zoho Cliq channel plugin with real-time messaging and mention support. `Community` `OSS` `Plugins` ![GitHub stars](https://img.shields.io/github/stars/IBIZDigital/openclaw-cliq-channel?style=social)
-- [kcherry497/OpenClaw-IRC-Plugin](https://github.com/kcherry497/OpenClaw-IRC-Plugin) - IRC channel plugin built around KISS security principles. `Community` `OSS` `Plugins` ![GitHub stars](https://img.shields.io/github/stars/kcherry497/OpenClaw-IRC-Plugin?style=social)
-- [limouren01/openclaw_qq_plugin](https://github.com/limouren01/openclaw_qq_plugin) - QQ messaging channel plugin for Chinese platform integration. `Community` `OSS` `Plugins` ![GitHub stars](https://img.shields.io/github/stars/limouren01/openclaw_qq_plugin?style=social)
-- [m1heng/clawdbot-feishu](https://github.com/m1heng/clawdbot-feishu) - Feishu/Lark channel plugin with enterprise bot support. `Community` `OSS` `Plugins` ![GitHub stars](https://img.shields.io/github/stars/m1heng/clawdbot-feishu?style=social)
-- [magicwang1111/openclaw-wechat-plugin](https://github.com/magicwang1111/openclaw-wechat-plugin) - WeChat messaging integration plugin. `Community` `OSS` `Plugins` ![GitHub stars](https://img.shields.io/github/stars/magicwang1111/openclaw-wechat-plugin?style=social)
-- [soimy/openclaw-channel-dingtalk](https://github.com/soimy/openclaw-channel-dingtalk) - DingTalk enterprise channel plugin with stream mode support. `Community` `OSS` `Plugins` ![GitHub stars](https://img.shields.io/github/stars/soimy/openclaw-channel-dingtalk?style=social)
+- [11haonb/wecom-openclaw-plugin](https://github.com/11haonb/wecom-openclaw-plugin) - WeCom (WeChat Work) enterprise messaging plugin for OpenClaw agents. ![GitHub stars](https://img.shields.io/github/stars/11haonb/wecom-openclaw-plugin?style=social)
+- [AlexAnys/feishu-openclaw](https://github.com/AlexAnys/feishu-openclaw) - Feishu/Lark integration plugin with streamlined self-hosted setup. ![GitHub stars](https://img.shields.io/github/stars/AlexAnys/feishu-openclaw?style=social)
+- [flooredApe/openclaw-xmtp](https://github.com/flooredApe/openclaw-xmtp) - XMTP wallet messaging channel plugin for Web3-native communication. ![GitHub stars](https://img.shields.io/github/stars/flooredApe/openclaw-xmtp?style=social)
+- [IBIZDigital/openclaw-cliq-channel](https://github.com/IBIZDigital/openclaw-cliq-channel) - Zoho Cliq channel plugin with real-time messaging and mention support. ![GitHub stars](https://img.shields.io/github/stars/IBIZDigital/openclaw-cliq-channel?style=social)
+- [kcherry497/OpenClaw-IRC-Plugin](https://github.com/kcherry497/OpenClaw-IRC-Plugin) - IRC channel plugin built around KISS security principles. ![GitHub stars](https://img.shields.io/github/stars/kcherry497/OpenClaw-IRC-Plugin?style=social)
+- [limouren01/openclaw_qq_plugin](https://github.com/limouren01/openclaw_qq_plugin) - QQ messaging channel plugin for Chinese platform integration. ![GitHub stars](https://img.shields.io/github/stars/limouren01/openclaw_qq_plugin?style=social)
+- [m1heng/clawdbot-feishu](https://github.com/m1heng/clawdbot-feishu) - Feishu/Lark channel plugin with enterprise bot support. ![GitHub stars](https://img.shields.io/github/stars/m1heng/clawdbot-feishu?style=social)
+- [magicwang1111/openclaw-wechat-plugin](https://github.com/magicwang1111/openclaw-wechat-plugin) - WeChat messaging integration plugin. ![GitHub stars](https://img.shields.io/github/stars/magicwang1111/openclaw-wechat-plugin?style=social)
+- [soimy/openclaw-channel-dingtalk](https://github.com/soimy/openclaw-channel-dingtalk) - DingTalk enterprise channel plugin with stream mode support. ![GitHub stars](https://img.shields.io/github/stars/soimy/openclaw-channel-dingtalk?style=social)
 
 ### Finance and Payments
 
-- [Crossmint/openclaw-crossmint-plugin](https://github.com/Crossmint/openclaw-crossmint-plugin) - Smart-wallet and on-chain payment integration plugin for agent transactions. `Community` `OSS` `Plugins` ![GitHub stars](https://img.shields.io/github/stars/Crossmint/openclaw-crossmint-plugin?style=social)
+- [Crossmint/openclaw-crossmint-plugin](https://github.com/Crossmint/openclaw-crossmint-plugin) - Smart-wallet and on-chain payment integration plugin for agent transactions. ![GitHub stars](https://img.shields.io/github/stars/Crossmint/openclaw-crossmint-plugin?style=social)
 
 ### Health and Wellness
 
-- [rickybloomfield/OuraClaw](https://github.com/rickybloomfield/OuraClaw) - Oura integration plugin for readiness, sleep, and activity summaries. `Community` `OSS` `Plugins` ![GitHub stars](https://img.shields.io/github/stars/rickybloomfield/OuraClaw?style=social)
+- [rickybloomfield/OuraClaw](https://github.com/rickybloomfield/OuraClaw) - Oura integration plugin for readiness, sleep, and activity summaries. ![GitHub stars](https://img.shields.io/github/stars/rickybloomfield/OuraClaw?style=social)
 
 ### Memory and AI
 
-- [bmbsystemsdir/openclaw-unified-plugins](https://github.com/bmbsystemsdir/openclaw-unified-plugins) - Unified memory plugin layer combining graph and temporal memory patterns. `Community` `OSS` `Plugins` ![GitHub stars](https://img.shields.io/github/stars/bmbsystemsdir/openclaw-unified-plugins?style=social)
-- [MemTensor/MemOS-Cloud-OpenClaw-Plugin](https://github.com/MemTensor/MemOS-Cloud-OpenClaw-Plugin) - Cloud memory backend plugin for persistent recall and capture. `Community` `OSS` `Plugins` ![GitHub stars](https://img.shields.io/github/stars/MemTensor/MemOS-Cloud-OpenClaw-Plugin?style=social)
+- [bmbsystemsdir/openclaw-unified-plugins](https://github.com/bmbsystemsdir/openclaw-unified-plugins) - Unified memory plugin layer combining graph and temporal memory patterns. ![GitHub stars](https://img.shields.io/github/stars/bmbsystemsdir/openclaw-unified-plugins?style=social)
+- [MemTensor/MemOS-Cloud-OpenClaw-Plugin](https://github.com/MemTensor/MemOS-Cloud-OpenClaw-Plugin) - Cloud memory backend plugin for persistent recall and capture. ![GitHub stars](https://img.shields.io/github/stars/MemTensor/MemOS-Cloud-OpenClaw-Plugin?style=social)
 
 ### Meta and Self-Improvement
 
-- [lekt9/openclaw-foundry](https://github.com/lekt9/openclaw-foundry) - Meta-extension for generating and evolving skills/plugins from observed workflows. `Community` `OSS` `Plugins` ![GitHub stars](https://img.shields.io/github/stars/lekt9/openclaw-foundry?style=social)
+- [lekt9/openclaw-foundry](https://github.com/lekt9/openclaw-foundry) - Meta-extension for generating and evolving skills/plugins from observed workflows. ![GitHub stars](https://img.shields.io/github/stars/lekt9/openclaw-foundry?style=social)
 
 ### Multi-Agent and Coordination
 
-- [likesjx/openclaw-plugin-ansible](https://github.com/likesjx/openclaw-plugin-ansible) - Distributed multi-instance coordination plugin for OpenClaw agents. `Community` `OSS` `Plugins` ![GitHub stars](https://img.shields.io/github/stars/likesjx/openclaw-plugin-ansible?style=social)
+- [likesjx/openclaw-plugin-ansible](https://github.com/likesjx/openclaw-plugin-ansible) - Distributed multi-instance coordination plugin for OpenClaw agents. ![GitHub stars](https://img.shields.io/github/stars/likesjx/openclaw-plugin-ansible?style=social)
 
 ### Observability and DevOps
 
-- [ThisIsJeron/openclaw-observatory](https://github.com/ThisIsJeron/openclaw-observatory) - Multi-gateway observability dashboard for sessions, failures, and cost tracking. `Community` `OSS` `Plugins` ![GitHub stars](https://img.shields.io/github/stars/ThisIsJeron/openclaw-observatory?style=social)
+- [ThisIsJeron/openclaw-observatory](https://github.com/ThisIsJeron/openclaw-observatory) - Multi-gateway observability dashboard for sessions, failures, and cost tracking. ![GitHub stars](https://img.shields.io/github/stars/ThisIsJeron/openclaw-observatory?style=social)
 
 ### Security and Governance
 
-- [DNYoussef/guardspine-openclaw](https://github.com/DNYoussef/guardspine-openclaw) - Governance plugin with deny-by-default tool gating and risk tiers. `Community` `OSS` `Plugins` ![GitHub stars](https://img.shields.io/github/stars/DNYoussef/guardspine-openclaw?style=social)
+- [DNYoussef/guardspine-openclaw](https://github.com/DNYoussef/guardspine-openclaw) - Governance plugin with deny-by-default tool gating and risk tiers. ![GitHub stars](https://img.shields.io/github/stars/DNYoussef/guardspine-openclaw?style=social)
 
 ### Smart Home and IoT
 
-- [robb99/clay-webhook-bridge](https://github.com/robb99/clay-webhook-bridge) - Home Assistant to OpenClaw webhook bridge for event-driven automations. `Community` `OSS` `Plugins` ![GitHub stars](https://img.shields.io/github/stars/robb99/clay-webhook-bridge?style=social)
-- [techartdev/OpenClawHomeAssistant](https://github.com/techartdev/OpenClawHomeAssistant) - Home Assistant add-on for running OpenClaw with entity-level integration. `Community` `OSS` `Plugins` ![GitHub stars](https://img.shields.io/github/stars/techartdev/OpenClawHomeAssistant?style=social)
+- [robb99/clay-webhook-bridge](https://github.com/robb99/clay-webhook-bridge) - Home Assistant to OpenClaw webhook bridge for event-driven automations. ![GitHub stars](https://img.shields.io/github/stars/robb99/clay-webhook-bridge?style=social)
+- [techartdev/OpenClawHomeAssistant](https://github.com/techartdev/OpenClawHomeAssistant) - Home Assistant add-on for running OpenClaw with entity-level integration. ![GitHub stars](https://img.shields.io/github/stars/techartdev/OpenClawHomeAssistant?style=social)
 
 ### Utility Plugins
 
-- [bmbsystemsdir/openclaw-model-selector](https://github.com/bmbsystemsdir/openclaw-model-selector) - Smart model routing plugin for suggest-confirm-execute flows. `Community` `OSS` `Plugins` ![GitHub stars](https://img.shields.io/github/stars/bmbsystemsdir/openclaw-model-selector?style=social)
-- [chuckiefan/moltbot-plugin-2do](https://github.com/chuckiefan/moltbot-plugin-2do) - 2Do task manager integration plugin for natural-language task capture. `Community` `OSS` `Plugins` ![GitHub stars](https://img.shields.io/github/stars/chuckiefan/moltbot-plugin-2do?style=social)
-- [ClariSortAi/openclaw-manager-plugin](https://github.com/ClariSortAi/openclaw-manager-plugin) - Lifecycle management plugin for installation and configuration workflows. `Community` `OSS` `Plugins` ![GitHub stars](https://img.shields.io/github/stars/ClariSortAi/openclaw-manager-plugin?style=social)
-- [marshallrichards/ClawPhone](https://github.com/marshallrichards/ClawPhone) - Mobile companion and phone-first interface for OpenClaw workflows. `Community` `OSS` `Plugins` ![GitHub stars](https://img.shields.io/github/stars/marshallrichards/ClawPhone?style=social)
-- [robertcuadra/compaction-context](https://github.com/robertcuadra/compaction-context) - Preserves recent context across compaction cycles. `Community` `OSS` `Plugins` ![GitHub stars](https://img.shields.io/github/stars/robertcuadra/compaction-context?style=social)
-- [ThisIsJeron/openclaw-better-gateway](https://github.com/ThisIsJeron/openclaw-better-gateway) - Gateway UX enhancement plugin with improved connection behavior and status handling. `Community` `OSS` `Plugins` ![GitHub stars](https://img.shields.io/github/stars/ThisIsJeron/openclaw-better-gateway?style=social)
+- [bmbsystemsdir/openclaw-model-selector](https://github.com/bmbsystemsdir/openclaw-model-selector) - Smart model routing plugin for suggest-confirm-execute flows. ![GitHub stars](https://img.shields.io/github/stars/bmbsystemsdir/openclaw-model-selector?style=social)
+- [chuckiefan/moltbot-plugin-2do](https://github.com/chuckiefan/moltbot-plugin-2do) - 2Do task manager integration plugin for natural-language task capture. ![GitHub stars](https://img.shields.io/github/stars/chuckiefan/moltbot-plugin-2do?style=social)
+- [ClariSortAi/openclaw-manager-plugin](https://github.com/ClariSortAi/openclaw-manager-plugin) - Lifecycle management plugin for installation and configuration workflows. ![GitHub stars](https://img.shields.io/github/stars/ClariSortAi/openclaw-manager-plugin?style=social)
+- [marshallrichards/ClawPhone](https://github.com/marshallrichards/ClawPhone) - Mobile companion and phone-first interface for OpenClaw workflows. ![GitHub stars](https://img.shields.io/github/stars/marshallrichards/ClawPhone?style=social)
+- [robertcuadra/compaction-context](https://github.com/robertcuadra/compaction-context) - Preserves recent context across compaction cycles. ![GitHub stars](https://img.shields.io/github/stars/robertcuadra/compaction-context?style=social)
+- [ThisIsJeron/openclaw-better-gateway](https://github.com/ThisIsJeron/openclaw-better-gateway) - Gateway UX enhancement plugin with improved connection behavior and status handling. ![GitHub stars](https://img.shields.io/github/stars/ThisIsJeron/openclaw-better-gateway?style=social)
 
 ## MCP and Tool Servers
 
-- [androidStern-personal/openclaw-mcp-adapter](https://github.com/androidStern-personal/openclaw-mcp-adapter) - Adapter plugin that exposes MCP tools as native OpenClaw agent tools. `Community` `OSS` `MCP` ![GitHub stars](https://img.shields.io/github/stars/androidStern-personal/openclaw-mcp-adapter?style=social)
-- [Enderfga/openclaw-claude-code-skill](https://github.com/Enderfga/openclaw-claude-code-skill) - OpenClaw skill integration for Claude Code workflows via MCP. `Community` `OSS` `Skills` `MCP` ![GitHub stars](https://img.shields.io/github/stars/Enderfga/openclaw-claude-code-skill?style=social)
-- [Helms-AI/openclaw-mcp-server](https://github.com/Helms-AI/openclaw-mcp-server) - MCP server exposing OpenClaw Gateway tools. `Community` `OSS` `MCP` ![GitHub stars](https://img.shields.io/github/stars/Helms-AI/openclaw-mcp-server?style=social)
-- [openclaw/openclaw#1605](https://github.com/openclaw/openclaw/pull/1605) - Early MCP server support implementation work. `Official` `MCP`
-- [openclaw/openclaw#4834](https://github.com/openclaw/openclaw/issues/4834) - Native MCP support discussion/history. `Official` `MCP`
-- [openclaw/openclaw#5121](https://github.com/openclaw/openclaw/pull/5121) - MCP server support implementation PR. `Official` `MCP`
+- [androidStern-personal/openclaw-mcp-adapter](https://github.com/androidStern-personal/openclaw-mcp-adapter) - Adapter plugin that exposes MCP tools as native OpenClaw agent tools. ![GitHub stars](https://img.shields.io/github/stars/androidStern-personal/openclaw-mcp-adapter?style=social)
+- [Enderfga/openclaw-claude-code-skill](https://github.com/Enderfga/openclaw-claude-code-skill) - OpenClaw skill integration for Claude Code workflows via MCP. ![GitHub stars](https://img.shields.io/github/stars/Enderfga/openclaw-claude-code-skill?style=social)
+- [Helms-AI/openclaw-mcp-server](https://github.com/Helms-AI/openclaw-mcp-server) - MCP server exposing OpenClaw Gateway tools. ![GitHub stars](https://img.shields.io/github/stars/Helms-AI/openclaw-mcp-server?style=social)
+- [openclaw/openclaw#1605](https://github.com/openclaw/openclaw/pull/1605) - Early MCP server support implementation work. 🎖️
+- [openclaw/openclaw#4834](https://github.com/openclaw/openclaw/issues/4834) - Native MCP support discussion/history. 🎖️
+- [openclaw/openclaw#5121](https://github.com/openclaw/openclaw/pull/5121) - MCP server support implementation PR. 🎖️
 
 ## Memory and Context Systems
 
-- [mem0.ai: Memory for OpenClaw](https://mem0.ai/blog/mem0-memory-for-openclaw) - Mem0 engineering write-up and setup path for persistent OpenClaw memory. `Community` `Docs` `Paid`
-- [Mem0 OpenClaw Integration Docs](https://docs.mem0.ai/integrations/openclaw) - Integration documentation for Mem0-backed OpenClaw memory. `Community` `Docs` `Paid`
-- [memovai/memov](https://github.com/memovai/memov) - Memory layer and retrieval toolkit for persistent OpenClaw context. `Community` `OSS` ![GitHub stars](https://img.shields.io/github/stars/memovai/memov?style=social)
-- [MemTensor/MemOS](https://github.com/MemTensor/MemOS) - Memory operating system with OpenClaw ecosystem adoption. `Community` `OSS` ![GitHub stars](https://img.shields.io/github/stars/MemTensor/MemOS?style=social)
-- [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) - Agent memory layer for long-lived assistants. `Community` `OSS` ![GitHub stars](https://img.shields.io/github/stars/NevaMind-AI/memU?style=social)
-- [nhevers/MoltBrain](https://github.com/nhevers/MoltBrain) - Long-term memory layer for OpenClaw and MoltBook agent workflows. `Community` `OSS` `Plugins` ![GitHub stars](https://img.shields.io/github/stars/nhevers/MoltBrain?style=social)
-- [oceanbase/powermem](https://github.com/oceanbase/powermem) - Long-term memory infrastructure referenced in Moltbot/Clawdbot plugin contexts. `Community` `OSS` ![GitHub stars](https://img.shields.io/github/stars/oceanbase/powermem?style=social)
-- [supermemory OpenClaw Integration Docs](https://supermemory.ai/docs/integrations/openclaw) - Official guide for deploying Supermemory with OpenClaw. `Community` `Docs` `Paid`
-- [supermemoryai/openclaw-supermemory](https://github.com/supermemoryai/openclaw-supermemory) - OpenClaw long-term memory plugin backed by Supermemory cloud. `Community` `OSS` `Plugins` `Paid` ![GitHub stars](https://img.shields.io/github/stars/supermemoryai/openclaw-supermemory?style=social)
-- [tobi/qmd](https://github.com/tobi/qmd) - Markdown-native memory and knowledge workflows for persistent agent context. `Community` `OSS` ![GitHub stars](https://img.shields.io/github/stars/tobi/qmd?style=social)
-- [Vel-Labs/molting-memory](https://github.com/Vel-Labs/molting-memory) - Qdrant-based long-term memory layer for OpenClaw-style agents. `Community` `OSS` ![GitHub stars](https://img.shields.io/github/stars/Vel-Labs/molting-memory?style=social)
+- [mem0.ai: Memory for OpenClaw](https://mem0.ai/blog/mem0-memory-for-openclaw) - Mem0 engineering write-up and setup path for persistent OpenClaw memory. 💵
+- [Mem0 OpenClaw Integration Docs](https://docs.mem0.ai/integrations/openclaw) - Integration documentation for Mem0-backed OpenClaw memory. 💵
+- [memovai/memov](https://github.com/memovai/memov) - Memory layer and retrieval toolkit for persistent OpenClaw context. ![GitHub stars](https://img.shields.io/github/stars/memovai/memov?style=social)
+- [MemTensor/MemOS](https://github.com/MemTensor/MemOS) - Memory operating system with OpenClaw ecosystem adoption. ![GitHub stars](https://img.shields.io/github/stars/MemTensor/MemOS?style=social)
+- [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) - Agent memory layer for long-lived assistants. ![GitHub stars](https://img.shields.io/github/stars/NevaMind-AI/memU?style=social)
+- [nhevers/MoltBrain](https://github.com/nhevers/MoltBrain) - Long-term memory layer for OpenClaw and MoltBook agent workflows. ![GitHub stars](https://img.shields.io/github/stars/nhevers/MoltBrain?style=social)
+- [oceanbase/powermem](https://github.com/oceanbase/powermem) - Long-term memory infrastructure referenced in Moltbot/Clawdbot plugin contexts. ![GitHub stars](https://img.shields.io/github/stars/oceanbase/powermem?style=social)
+- [supermemory OpenClaw Integration Docs](https://supermemory.ai/docs/integrations/openclaw) - Official guide for deploying Supermemory with OpenClaw. 💵
+- [supermemoryai/openclaw-supermemory](https://github.com/supermemoryai/openclaw-supermemory) - OpenClaw long-term memory plugin backed by Supermemory cloud. 💵 ![GitHub stars](https://img.shields.io/github/stars/supermemoryai/openclaw-supermemory?style=social)
+- [tobi/qmd](https://github.com/tobi/qmd) - Markdown-native memory and knowledge workflows for persistent agent context. ![GitHub stars](https://img.shields.io/github/stars/tobi/qmd?style=social)
+- [Vel-Labs/molting-memory](https://github.com/Vel-Labs/molting-memory) - Qdrant-based long-term memory layer for OpenClaw-style agents. ![GitHub stars](https://img.shields.io/github/stars/Vel-Labs/molting-memory?style=social)
 
 ## Developer Tooling and Observability
 
-- [bokonon23/clawdbot-cost-monitor](https://github.com/bokonon23/clawdbot-cost-monitor) - Cost and spending monitor for OpenClaw/Clawdbot usage. `Community` `OSS` ![GitHub stars](https://img.shields.io/github/stars/bokonon23/clawdbot-cost-monitor?style=social)
-- [clawdeckio/clawdeck](https://github.com/clawdeckio/clawdeck) - Mission control dashboard for managing OpenClaw agents. `Community` `OSS` ![GitHub stars](https://img.shields.io/github/stars/clawdeckio/clawdeck?style=social)
-- [crshdn/mission-control](https://github.com/crshdn/mission-control) - Multi-agent orchestration dashboard for OpenClaw gateway workflows. `Community` `OSS` ![GitHub stars](https://img.shields.io/github/stars/crshdn/mission-control?style=social)
-- [grp06/openclaw-studio](https://github.com/grp06/openclaw-studio) - Studio-style web IDE and management UI for OpenClaw workflows. `Community` `OSS` ![GitHub stars](https://img.shields.io/github/stars/grp06/openclaw-studio?style=social)
-- [ibelick/webclaw](https://github.com/ibelick/webclaw) - Fast web client interface for OpenClaw interactions. `Community` `OSS` ![GitHub stars](https://img.shields.io/github/stars/ibelick/webclaw?style=social)
-- [Intina47/context-sync](https://github.com/Intina47/context-sync) - Context synchronization utility for multi-session agent workflows. `Community` `OSS` ![GitHub stars](https://img.shields.io/github/stars/Intina47/context-sync?style=social)
-- [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Local UI for managing and interacting with OpenClaw-style agent systems. `Community` `OSS` ![GitHub stars](https://img.shields.io/github/stars/iOfficeAI/AionUi?style=social)
-- [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale) - Token and cost tracking across coding assistant workflows. `Community` `OSS` ![GitHub stars](https://img.shields.io/github/stars/junhoyeo/tokscale?style=social)
-- [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Transferable skill-pack patterns useful for OpenClaw skill design. `Community` `OSS` `Skills` ![GitHub stars](https://img.shields.io/github/stars/kepano/obsidian-skills?style=social)
-- [luccast/crabwalk](https://github.com/luccast/crabwalk) - Monitoring companion for OpenClaw agent sessions. `Community` `OSS` ![GitHub stars](https://img.shields.io/github/stars/luccast/crabwalk?style=social)
-- [merciagents/riphook](https://github.com/merciagents/riphook) - Webhook and event bridge tooling for agent-driven automations. `Community` `OSS` ![GitHub stars](https://img.shields.io/github/stars/merciagents/riphook?style=social)
-- [openclaw/lobster](https://github.com/openclaw/lobster) - Workflow shell for composing OpenClaw tools and automations. `Official` `OSS` ![GitHub stars](https://img.shields.io/github/stars/openclaw/lobster?style=social)
-- [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) - Planning workflow skill pattern used in agentic repos. `Community` `OSS` `Skills` ![GitHub stars](https://img.shields.io/github/stars/OthmanAdi/planning-with-files?style=social)
-- [rdsthomas/mission-control](https://github.com/rdsthomas/mission-control) - Kanban dashboard and chat-to-task project management for Moltbot/OpenClaw assistants. `Community` `OSS` ![GitHub stars](https://img.shields.io/github/stars/rdsthomas/mission-control?style=social)
-- [refly-ai/refly](https://github.com/refly-ai/refly) - Skills and workflow builder ecosystem with overlap for agent tooling. `Community` `OSS` `Skills` ![GitHub stars](https://img.shields.io/github/stars/refly-ai/refly?style=social)
-- [shanselman/openclaw-windows-hub](https://github.com/shanselman/openclaw-windows-hub) - Windows companion hub and desktop integration tooling for OpenClaw. `Community` `OSS` ![GitHub stars](https://img.shields.io/github/stars/shanselman/openclaw-windows-hub?style=social)
+- [bokonon23/clawdbot-cost-monitor](https://github.com/bokonon23/clawdbot-cost-monitor) - Cost and spending monitor for OpenClaw/Clawdbot usage. ![GitHub stars](https://img.shields.io/github/stars/bokonon23/clawdbot-cost-monitor?style=social)
+- [clawdeckio/clawdeck](https://github.com/clawdeckio/clawdeck) - Mission control dashboard for managing OpenClaw agents. ![GitHub stars](https://img.shields.io/github/stars/clawdeckio/clawdeck?style=social)
+- [crshdn/mission-control](https://github.com/crshdn/mission-control) - Multi-agent orchestration dashboard for OpenClaw gateway workflows. ![GitHub stars](https://img.shields.io/github/stars/crshdn/mission-control?style=social)
+- [grp06/openclaw-studio](https://github.com/grp06/openclaw-studio) - Studio-style web IDE and management UI for OpenClaw workflows. ![GitHub stars](https://img.shields.io/github/stars/grp06/openclaw-studio?style=social)
+- [ibelick/webclaw](https://github.com/ibelick/webclaw) - Fast web client interface for OpenClaw interactions. ![GitHub stars](https://img.shields.io/github/stars/ibelick/webclaw?style=social)
+- [Intina47/context-sync](https://github.com/Intina47/context-sync) - Context synchronization utility for multi-session agent workflows. ![GitHub stars](https://img.shields.io/github/stars/Intina47/context-sync?style=social)
+- [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Local UI for managing and interacting with OpenClaw-style agent systems. ![GitHub stars](https://img.shields.io/github/stars/iOfficeAI/AionUi?style=social)
+- [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale) - Token and cost tracking across coding assistant workflows. ![GitHub stars](https://img.shields.io/github/stars/junhoyeo/tokscale?style=social)
+- [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Transferable skill-pack patterns useful for OpenClaw skill design. ![GitHub stars](https://img.shields.io/github/stars/kepano/obsidian-skills?style=social)
+- [luccast/crabwalk](https://github.com/luccast/crabwalk) - Monitoring companion for OpenClaw agent sessions. ![GitHub stars](https://img.shields.io/github/stars/luccast/crabwalk?style=social)
+- [merciagents/riphook](https://github.com/merciagents/riphook) - Webhook and event bridge tooling for agent-driven automations. ![GitHub stars](https://img.shields.io/github/stars/merciagents/riphook?style=social)
+- [openclaw/lobster](https://github.com/openclaw/lobster) - Workflow shell for composing OpenClaw tools and automations. 🎖️ ![GitHub stars](https://img.shields.io/github/stars/openclaw/lobster?style=social)
+- [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) - Planning workflow skill pattern used in agentic repos. ![GitHub stars](https://img.shields.io/github/stars/OthmanAdi/planning-with-files?style=social)
+- [rdsthomas/mission-control](https://github.com/rdsthomas/mission-control) - Kanban dashboard and chat-to-task project management for Moltbot/OpenClaw assistants. ![GitHub stars](https://img.shields.io/github/stars/rdsthomas/mission-control?style=social)
+- [refly-ai/refly](https://github.com/refly-ai/refly) - Skills and workflow builder ecosystem with overlap for agent tooling. ![GitHub stars](https://img.shields.io/github/stars/refly-ai/refly?style=social)
+- [shanselman/openclaw-windows-hub](https://github.com/shanselman/openclaw-windows-hub) - Windows companion hub and desktop integration tooling for OpenClaw. ![GitHub stars](https://img.shields.io/github/stars/shanselman/openclaw-windows-hub?style=social)
 
 ## Deployment and Operations
 
-- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - Self-hosted server panel often used for OpenClaw deployments. `Community` `OSS` `Infra` ![GitHub stars](https://img.shields.io/github/stars/1Panel-dev/1Panel?style=social)
-- [badrisnarayanan/antigravity-claude-proxy](https://github.com/badrisnarayanan/antigravity-claude-proxy) - Proxy and routing support for model access in assistant workflows. `Community` `OSS` `Infra` ![GitHub stars](https://img.shields.io/github/stars/badrisnarayanan/antigravity-claude-proxy?style=social)
-- [BlockRunAI/ClawRouter](https://github.com/BlockRunAI/ClawRouter) - Routing and cost optimization layer for OpenClaw-style agent setups. `Community` `OSS` `Infra` ![GitHub stars](https://img.shields.io/github/stars/BlockRunAI/ClawRouter?style=social)
-- [cloudflare/moltworker](https://github.com/cloudflare/moltworker) - Cloudflare Worker deployment path for OpenClaw-compatible runtimes. `Community` `OSS` `Infra` ![GitHub stars](https://img.shields.io/github/stars/cloudflare/moltworker?style=social)
-- [coollabsio/openclaw](https://github.com/coollabsio/openclaw) - Automated Docker image/deployment flow for OpenClaw hosting environments. `Community` `OSS` `Infra` ![GitHub stars](https://img.shields.io/github/stars/coollabsio/openclaw?style=social)
-- [essamamdani/openclaw-coolify](https://github.com/essamamdani/openclaw-coolify) - Coolify template for simplified OpenClaw hosting. `Community` `OSS` `Infra` ![GitHub stars](https://img.shields.io/github/stars/essamamdani/openclaw-coolify?style=social)
-- [khal3d/openclaw](https://github.com/khal3d/openclaw) - Container and Helm deployment stack for OpenClaw. `Community` `OSS` `Infra` ![GitHub stars](https://img.shields.io/github/stars/khal3d/openclaw?style=social)
-- [miantiao-me/cloud-claw](https://github.com/miantiao-me/cloud-claw) - One-click Cloudflare Containers deployment for personal OpenClaw agents. `Community` `OSS` `Infra` ![GitHub stars](https://img.shields.io/github/stars/miantiao-me/cloud-claw?style=social)
-- [miaoxworld/OpenClawInstaller](https://github.com/miaoxworld/OpenClawInstaller) - Installer and setup automation helper. `Community` `OSS` `Infra` ![GitHub stars](https://img.shields.io/github/stars/miaoxworld/OpenClawInstaller?style=social)
-- [molt-bot/openclaw-trading-assistant](https://github.com/molt-bot/openclaw-trading-assistant) - Trading-focused assistant setup built on OpenClaw. `Community` `OSS` ![GitHub stars](https://img.shields.io/github/stars/molt-bot/openclaw-trading-assistant?style=social)
-- [openclaw/clawdinators](https://github.com/openclaw/clawdinators) - Declarative NixOS and cloud infrastructure for maintainer-grade agent hosts. `Official` `OSS` `Infra` ![GitHub stars](https://img.shields.io/github/stars/openclaw/clawdinators?style=social)
-- [openclaw/homebrew-tap](https://github.com/openclaw/homebrew-tap) - Homebrew tap for macOS OpenClaw installation. `Official` `OSS` `Infra` ![GitHub stars](https://img.shields.io/github/stars/openclaw/homebrew-tap?style=social)
-- [openclaw/openclaw-ansible](https://github.com/openclaw/openclaw-ansible) - Hardened automated deployment using Ansible and containerized runtime patterns. `Official` `OSS` `Infra` ![GitHub stars](https://img.shields.io/github/stars/openclaw/openclaw-ansible?style=social)
-- [serhanekicii/openclaw-helm](https://github.com/serhanekicii/openclaw-helm) - Helm chart for Kubernetes-based OpenClaw deployment and management. `Community` `OSS` `Infra` ![GitHub stars](https://img.shields.io/github/stars/serhanekicii/openclaw-helm?style=social)
-- [willbullen/openclaw-docker](https://github.com/willbullen/openclaw-docker) - Production-focused Docker Compose setup with security hardening. `Community` `OSS` `Infra` ![GitHub stars](https://img.shields.io/github/stars/willbullen/openclaw-docker?style=social)
+- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - Self-hosted server panel often used for OpenClaw deployments. ![GitHub stars](https://img.shields.io/github/stars/1Panel-dev/1Panel?style=social)
+- [badrisnarayanan/antigravity-claude-proxy](https://github.com/badrisnarayanan/antigravity-claude-proxy) - Proxy and routing support for model access in assistant workflows. ![GitHub stars](https://img.shields.io/github/stars/badrisnarayanan/antigravity-claude-proxy?style=social)
+- [BlockRunAI/ClawRouter](https://github.com/BlockRunAI/ClawRouter) - Routing and cost optimization layer for OpenClaw-style agent setups. ![GitHub stars](https://img.shields.io/github/stars/BlockRunAI/ClawRouter?style=social)
+- [cloudflare/moltworker](https://github.com/cloudflare/moltworker) - Cloudflare Worker deployment path for OpenClaw-compatible runtimes. ![GitHub stars](https://img.shields.io/github/stars/cloudflare/moltworker?style=social)
+- [coollabsio/openclaw](https://github.com/coollabsio/openclaw) - Automated Docker image/deployment flow for OpenClaw hosting environments. ![GitHub stars](https://img.shields.io/github/stars/coollabsio/openclaw?style=social)
+- [essamamdani/openclaw-coolify](https://github.com/essamamdani/openclaw-coolify) - Coolify template for simplified OpenClaw hosting. ![GitHub stars](https://img.shields.io/github/stars/essamamdani/openclaw-coolify?style=social)
+- [khal3d/openclaw](https://github.com/khal3d/openclaw) - Container and Helm deployment stack for OpenClaw. ![GitHub stars](https://img.shields.io/github/stars/khal3d/openclaw?style=social)
+- [miantiao-me/cloud-claw](https://github.com/miantiao-me/cloud-claw) - One-click Cloudflare Containers deployment for personal OpenClaw agents. ![GitHub stars](https://img.shields.io/github/stars/miantiao-me/cloud-claw?style=social)
+- [miaoxworld/OpenClawInstaller](https://github.com/miaoxworld/OpenClawInstaller) - Installer and setup automation helper. ![GitHub stars](https://img.shields.io/github/stars/miaoxworld/OpenClawInstaller?style=social)
+- [molt-bot/openclaw-trading-assistant](https://github.com/molt-bot/openclaw-trading-assistant) - Trading-focused assistant setup built on OpenClaw. ![GitHub stars](https://img.shields.io/github/stars/molt-bot/openclaw-trading-assistant?style=social)
+- [openclaw/clawdinators](https://github.com/openclaw/clawdinators) - Declarative NixOS and cloud infrastructure for maintainer-grade agent hosts. 🎖️ ![GitHub stars](https://img.shields.io/github/stars/openclaw/clawdinators?style=social)
+- [openclaw/homebrew-tap](https://github.com/openclaw/homebrew-tap) - Homebrew tap for macOS OpenClaw installation. 🎖️ ![GitHub stars](https://img.shields.io/github/stars/openclaw/homebrew-tap?style=social)
+- [openclaw/openclaw-ansible](https://github.com/openclaw/openclaw-ansible) - Hardened automated deployment using Ansible and containerized runtime patterns. 🎖️ ![GitHub stars](https://img.shields.io/github/stars/openclaw/openclaw-ansible?style=social)
+- [serhanekicii/openclaw-helm](https://github.com/serhanekicii/openclaw-helm) - Helm chart for Kubernetes-based OpenClaw deployment and management. ![GitHub stars](https://img.shields.io/github/stars/serhanekicii/openclaw-helm?style=social)
+- [willbullen/openclaw-docker](https://github.com/willbullen/openclaw-docker) - Production-focused Docker Compose setup with security hardening. ![GitHub stars](https://img.shields.io/github/stars/willbullen/openclaw-docker?style=social)
 
 ## Localization and Regional Forks
 
-- [1186258278/OpenClawChineseTranslation](https://github.com/1186258278/OpenClawChineseTranslation) - Translation-focused setup repository. `Community` `OSS` ![GitHub stars](https://img.shields.io/github/stars/1186258278/OpenClawChineseTranslation?style=social)
-- [jiulingyun/openclaw-cn](https://github.com/jiulingyun/openclaw-cn) - Chinese-oriented OpenClaw adaptation. `Community` `OSS` ![GitHub stars](https://img.shields.io/github/stars/jiulingyun/openclaw-cn?style=social)
+- [1186258278/OpenClawChineseTranslation](https://github.com/1186258278/OpenClawChineseTranslation) - Translation-focused setup repository. ![GitHub stars](https://img.shields.io/github/stars/1186258278/OpenClawChineseTranslation?style=social)
+- [jiulingyun/openclaw-cn](https://github.com/jiulingyun/openclaw-cn) - Chinese-oriented OpenClaw adaptation. ![GitHub stars](https://img.shields.io/github/stars/jiulingyun/openclaw-cn?style=social)
 
 ## Use-Case Libraries
 
-- [Creative and Building](https://github.com/hesamsheikh/awesome-openclaw-usecases#creative--building) - Creative workflows and build projects. `Community` `Catalog` ![GitHub stars](https://img.shields.io/github/stars/hesamsheikh/awesome-openclaw-usecases#creative--building?style=social)
-- [Productivity](https://github.com/hesamsheikh/awesome-openclaw-usecases#productivity) - Personal and team productivity examples. `Community` `Catalog` ![GitHub stars](https://img.shields.io/github/stars/hesamsheikh/awesome-openclaw-usecases#productivity?style=social)
-- [Research and Learning](https://github.com/hesamsheikh/awesome-openclaw-usecases#research--learning) - Learning, discovery, and research examples. `Community` `Catalog` ![GitHub stars](https://img.shields.io/github/stars/hesamsheikh/awesome-openclaw-usecases#research--learning?style=social)
-- [Social Media Use Cases](https://github.com/hesamsheikh/awesome-openclaw-usecases#social-media) - Content and social automation examples. `Community` `Catalog` ![GitHub stars](https://img.shields.io/github/stars/hesamsheikh/awesome-openclaw-usecases#social-media?style=social)
+- [Creative and Building](https://github.com/hesamsheikh/awesome-openclaw-usecases#creative--building) - Creative workflows and build projects. ![GitHub stars](https://img.shields.io/github/stars/hesamsheikh/awesome-openclaw-usecases#creative--building?style=social)
+- [Productivity](https://github.com/hesamsheikh/awesome-openclaw-usecases#productivity) - Personal and team productivity examples. ![GitHub stars](https://img.shields.io/github/stars/hesamsheikh/awesome-openclaw-usecases#productivity?style=social)
+- [Research and Learning](https://github.com/hesamsheikh/awesome-openclaw-usecases#research--learning) - Learning, discovery, and research examples. ![GitHub stars](https://img.shields.io/github/stars/hesamsheikh/awesome-openclaw-usecases#research--learning?style=social)
+- [Social Media Use Cases](https://github.com/hesamsheikh/awesome-openclaw-usecases#social-media) - Content and social automation examples. ![GitHub stars](https://img.shields.io/github/stars/hesamsheikh/awesome-openclaw-usecases#social-media?style=social)
 
 ## Security Notes
 
@@ -250,7 +228,7 @@ A curated list of high-signal resources for **OpenClaw** (formerly **Moltbot**, 
 PRs are welcome for:
 
 - New high-signal OpenClaw ecosystem links.
-- Better categorization and metadata tags.
+- Better categorization and section quality.
 - Dead-link cleanup and stale project removal.
 
 Please include a short relevance note when submitting a new entry.
