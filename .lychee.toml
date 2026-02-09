@@ -1,0 +1,9 @@
+exclude = [
+  "^mailto:",
+  "^file:",
+]
+accept = [200, 206, 301, 302, 303, 307, 308, 403, 429]
+max_retries = 3
+retry_wait_time = 2
+timeout = 20
+user_agent = "awesome-openclaw-link-check"

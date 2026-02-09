@@ -1,0 +1,8 @@
+default: true
+line-length:
+  line_length: 180
+  code_blocks: false
+  tables: false
+ul-style:
+  style: dash
+no-inline-html: false
