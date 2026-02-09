@@ -20,7 +20,6 @@ A curated list of high-signal resources for **OpenClaw** (formerly **Moltbot**, 
 - [Security Notes](#security-notes)
 - [Skills and Skill Indexes](#skills-and-skill-indexes)
 - [Status Markers](#status-markers)
-- [Use-Case Libraries](#use-case-libraries)
 
 ## Status Markers
 
@@ -176,13 +175,6 @@ A curated list of high-signal resources for **OpenClaw** (formerly **Moltbot**, 
 
 - [1186258278/OpenClawChineseTranslation](https://github.com/1186258278/OpenClawChineseTranslation) - Translation-focused setup repository. ![GitHub stars](https://img.shields.io/github/stars/1186258278/OpenClawChineseTranslation?style=social)
 - [jiulingyun/openclaw-cn](https://github.com/jiulingyun/openclaw-cn) - Chinese-oriented OpenClaw adaptation. ![GitHub stars](https://img.shields.io/github/stars/jiulingyun/openclaw-cn?style=social)
-
-## Use-Case Libraries
-
-- [Creative and Building](https://github.com/hesamsheikh/awesome-openclaw-usecases#creative--building) - Creative workflows and build projects. ![GitHub stars](https://img.shields.io/github/stars/hesamsheikh/awesome-openclaw-usecases#creative--building?style=social)
-- [Productivity](https://github.com/hesamsheikh/awesome-openclaw-usecases#productivity) - Personal and team productivity examples. ![GitHub stars](https://img.shields.io/github/stars/hesamsheikh/awesome-openclaw-usecases#productivity?style=social)
-- [Research and Learning](https://github.com/hesamsheikh/awesome-openclaw-usecases#research--learning) - Learning, discovery, and research examples. ![GitHub stars](https://img.shields.io/github/stars/hesamsheikh/awesome-openclaw-usecases#research--learning?style=social)
-- [Social Media Use Cases](https://github.com/hesamsheikh/awesome-openclaw-usecases#social-media) - Content and social automation examples. ![GitHub stars](https://img.shields.io/github/stars/hesamsheikh/awesome-openclaw-usecases#social-media?style=social)
 
 ## Security Notes
 
