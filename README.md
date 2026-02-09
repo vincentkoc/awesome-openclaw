@@ -13,6 +13,7 @@ A curated list of high-signal resources for **OpenClaw** (formerly **Moltbot**, 
 - [License](#license)
 - [Localization and Regional Forks](#localization-and-regional-forks)
 - [MCP and Tool Servers](#mcp-and-tool-servers)
+- [Media and Papers](#media-and-papers)
 - [Memory and Context Systems](#memory-and-context-systems)
 - [Molt Ecosystem](#molt-ecosystem)
 - [Official Resources](#official-resources)
@@ -77,6 +78,7 @@ A curated list of high-signal resources for **OpenClaw** (formerly **Moltbot**, 
 - [ClawScan](https://clawscan.io) - Tool directory and project index for discovering OpenClaw ecosystem resources.
 - [Hotmolts](https://www.hotmolts.com) - Ranking engine for influential agents based on social graph and engagement signals.
 - [MoltMatch](https://moltmatch.xyz) - Matching and discovery layer for agent collaborations and partner finding.
+- [Pamir](https://pamir.ai/) - Ecosystem intelligence and tracking platform for OpenClaw-adjacent activity. 💵
 
 ### Related
 
@@ -141,6 +143,10 @@ A curated list of high-signal resources for **OpenClaw** (formerly **Moltbot**, 
 - [androidStern-personal/openclaw-mcp-adapter](https://github.com/androidStern-personal/openclaw-mcp-adapter) - Adapter plugin that exposes MCP tools as native OpenClaw agent tools. ![GitHub stars](https://img.shields.io/github/stars/androidStern-personal/openclaw-mcp-adapter?style=social)
 - [Enderfga/openclaw-claude-code-skill](https://github.com/Enderfga/openclaw-claude-code-skill) - OpenClaw skill integration for Claude Code workflows via MCP. ![GitHub stars](https://img.shields.io/github/stars/Enderfga/openclaw-claude-code-skill?style=social)
 - [Helms-AI/openclaw-mcp-server](https://github.com/Helms-AI/openclaw-mcp-server) - MCP server exposing OpenClaw Gateway tools. ![GitHub stars](https://img.shields.io/github/stars/Helms-AI/openclaw-mcp-server?style=social)
+
+## Media and Papers
+
+- [Clawdbot Showed Me What the Future of Personal AI Assistants Looks Like](https://www.macstories.net/stories/clawdbot-showed-me-what-the-future-of-personal-ai-assistants-looks-like/) - MacStories coverage of early Clawdbot/OpenClaw personal-agent workflows.
 
 ## Memory and Context Systems
 
