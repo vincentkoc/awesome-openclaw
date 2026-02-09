@@ -174,6 +174,7 @@ OpenClaw — это open-source фреймворк self-hosted AI-агентов
 - [rdsthomas/mission-control](https://github.com/rdsthomas/mission-control) - Kanban-панель для управления задачами в workflow OpenClaw. ![GitHub stars](https://img.shields.io/github/stars/rdsthomas/mission-control?style=social)
 - [refly-ai/refly](https://github.com/refly-ai/refly) - Экосистема билдера навыков и workflow с пересечением с agent tooling. ![GitHub stars](https://img.shields.io/github/stars/refly-ai/refly?style=social)
 - [shanselman/openclaw-windows-hub](https://github.com/shanselman/openclaw-windows-hub) - Windows-хаб-компаньон для десктопной интеграции. ![GitHub stars](https://img.shields.io/github/stars/shanselman/openclaw-windows-hub?style=social)
+- [Unbrowse](https://www.unbrowse.ai/) - Платформа для преобразования браузерных workflow в API-интеграции и навыки агентов.
 
 <a id="deployment-and-operations"></a>
 

@@ -174,6 +174,7 @@ OpenClaw 是一个开源、自托管的 AI Agent 框架，可将大模型与工�
 - [rdsthomas/mission-control](https://github.com/rdsthomas/mission-control) - 用于 OpenClaw 工作流任务管理的看板面板。 ![GitHub stars](https://img.shields.io/github/stars/rdsthomas/mission-control?style=social)
 - [refly-ai/refly](https://github.com/refly-ai/refly) - 技能与工作流构建生态，与 Agent 工具链有一定重叠。 ![GitHub stars](https://img.shields.io/github/stars/refly-ai/refly?style=social)
 - [shanselman/openclaw-windows-hub](https://github.com/shanselman/openclaw-windows-hub) - 面向桌面集成的 Windows 伴侣中心。 ![GitHub stars](https://img.shields.io/github/stars/shanselman/openclaw-windows-hub?style=social)
+- [Unbrowse](https://www.unbrowse.ai/) - 将浏览器工作流转换为 API 集成与 Agent 技能的平台。
 
 <a id="deployment-and-operations"></a>
 

@@ -174,6 +174,7 @@ OpenClaw は、LLM をツール・メッセージチャネル・メモリと接�
 - [rdsthomas/mission-control](https://github.com/rdsthomas/mission-control) - OpenClaw ワークフロー向けタスク管理 Kanban ダッシュボード。 ![GitHub stars](https://img.shields.io/github/stars/rdsthomas/mission-control?style=social)
 - [refly-ai/refly](https://github.com/refly-ai/refly) - エージェント向けツールと重なるスキル/ワークフロービルダーのエコシステム。 ![GitHub stars](https://img.shields.io/github/stars/refly-ai/refly?style=social)
 - [shanselman/openclaw-windows-hub](https://github.com/shanselman/openclaw-windows-hub) - デスクトップ統合向け Windows コンパニオンハブ。 ![GitHub stars](https://img.shields.io/github/stars/shanselman/openclaw-windows-hub?style=social)
+- [Unbrowse](https://www.unbrowse.ai/) - ブラウザのワークフローを API 連携とエージェントスキルに変換するプラットフォーム。
 
 <a id="deployment-and-operations"></a>
 

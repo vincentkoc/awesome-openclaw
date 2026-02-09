@@ -174,6 +174,7 @@ OpenClaw는 LLM을 도구, 메시징 채널, 메모리 시스템에 연결해 �
 - [rdsthomas/mission-control](https://github.com/rdsthomas/mission-control) - OpenClaw 워크플로용 작업 관리 Kanban 대시보드. ![GitHub stars](https://img.shields.io/github/stars/rdsthomas/mission-control?style=social)
 - [refly-ai/refly](https://github.com/refly-ai/refly) - 에이전트 툴링과 겹치는 스킬/워크플로 빌더 생태계. ![GitHub stars](https://img.shields.io/github/stars/refly-ai/refly?style=social)
 - [shanselman/openclaw-windows-hub](https://github.com/shanselman/openclaw-windows-hub) - 데스크톱 통합용 Windows 컴패니언 허브. ![GitHub stars](https://img.shields.io/github/stars/shanselman/openclaw-windows-hub?style=social)
+- [Unbrowse](https://www.unbrowse.ai/) - 브라우저 워크플로를 API 연동과 에이전트 스킬로 변환하는 플랫폼.
 
 <a id="deployment-and-operations"></a>
 

@@ -174,6 +174,7 @@ OpenClaw ist ein Open-Source-, selbst gehostetes KI-Agenten-Framework, das LLMs 
 - [rdsthomas/mission-control](https://github.com/rdsthomas/mission-control) - Kanban-Dashboard fuer Aufgabenmanagement in OpenClaw-Workflows. ![GitHub stars](https://img.shields.io/github/stars/rdsthomas/mission-control?style=social)
 - [refly-ai/refly](https://github.com/refly-ai/refly) - Ecosystem fuer Skill- und Workflow-Builder mit Ueberschneidung zu Agent-Tooling. ![GitHub stars](https://img.shields.io/github/stars/refly-ai/refly?style=social)
 - [shanselman/openclaw-windows-hub](https://github.com/shanselman/openclaw-windows-hub) - Windows-Begleithub fuer Desktop-Integration. ![GitHub stars](https://img.shields.io/github/stars/shanselman/openclaw-windows-hub?style=social)
+- [Unbrowse](https://www.unbrowse.ai/) - Plattform zum Umwandeln von Browser-Workflows in API-Integrationen und Agent-Skills.
 
 <a id="deployment-and-operations"></a>
 
