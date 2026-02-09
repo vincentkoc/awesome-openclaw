@@ -97,6 +97,7 @@ OpenClaw는 LLM을 도구, 메시징 채널, 메모리 시스템에 연결해 �
 - [lekt9/unbrowse-openclaw](https://github.com/lekt9/unbrowse-openclaw) - 캡처한 웹/API 트래픽으로부터 API 스킬을 생성하는 워크플로. ![GitHub stars](https://img.shields.io/github/stars/lekt9/unbrowse-openclaw?style=social)
 - [openclaw/clawhub](https://github.com/openclaw/clawhub) - 공식 스킬 디렉터리 및 탐색 허브. 🎖️ ![GitHub stars](https://img.shields.io/github/stars/openclaw/clawhub?style=social)
 - [openclaw/skills](https://github.com/openclaw/skills) - ClawHub에 게시된 스킬의 아카이브 버전. 🎖️ ![GitHub stars](https://img.shields.io/github/stars/openclaw/skills?style=social)
+- [pors/skill-audit](https://github.com/pors/skill-audit) - 스킬 품질 검증과 강화를 위한 스킬 감사 툴킷. ![GitHub stars](https://img.shields.io/github/stars/pors/skill-audit?style=social)
 - [runkids/skillshare](https://github.com/runkids/skillshare) - AI 코딩 도구 간 스킬 팩 공유 및 동기화. ![GitHub stars](https://img.shields.io/github/stars/runkids/skillshare?style=social)
 - [Skills.sh OpenClaw Directory](https://skills.sh/openclaw/openclaw) - 서드파티 OpenClaw 스킬 디스커버리 디렉터리.
 - [Virtual-Protocol/openclaw-acp](https://github.com/Virtual-Protocol/openclaw-acp) - 커머스 플로우용 Agent Commerce Protocol 스킬 팩. ![GitHub stars](https://img.shields.io/github/stars/Virtual-Protocol/openclaw-acp?style=social)

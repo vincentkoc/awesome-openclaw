@@ -97,6 +97,7 @@ OpenClaw es un framework de agentes de IA, open source y autoalojado, que conect
 - [lekt9/unbrowse-openclaw](https://github.com/lekt9/unbrowse-openclaw) - Flujo de generacion de skills de API a partir de trafico web/API capturado. ![GitHub stars](https://img.shields.io/github/stars/lekt9/unbrowse-openclaw?style=social)
 - [openclaw/clawhub](https://github.com/openclaw/clawhub) - Directorio oficial de skills y punto de descubrimiento. 🎖️ ![GitHub stars](https://img.shields.io/github/stars/openclaw/clawhub?style=social)
 - [openclaw/skills](https://github.com/openclaw/skills) - Versiones archivadas de skills publicadas en ClawHub. 🎖️ ![GitHub stars](https://img.shields.io/github/stars/openclaw/skills?style=social)
+- [pors/skill-audit](https://github.com/pors/skill-audit) - Toolkit de auditoria de skills para validar y reforzar su calidad. ![GitHub stars](https://img.shields.io/github/stars/pors/skill-audit?style=social)
 - [runkids/skillshare](https://github.com/runkids/skillshare) - Compartir y sincronizar packs de skills entre herramientas de codificacion con IA. ![GitHub stars](https://img.shields.io/github/stars/runkids/skillshare?style=social)
 - [Skills.sh OpenClaw Directory](https://skills.sh/openclaw/openclaw) - Directorio de descubrimiento de skills de OpenClaw de terceros.
 - [Virtual-Protocol/openclaw-acp](https://github.com/Virtual-Protocol/openclaw-acp) - Pack de skills del Agent Commerce Protocol para flujos de comercio. ![GitHub stars](https://img.shields.io/github/stars/Virtual-Protocol/openclaw-acp?style=social)

@@ -97,6 +97,7 @@ OpenClaw 是一个开源、自托管的 AI Agent 框架，可将大模型与工�
 - [lekt9/unbrowse-openclaw](https://github.com/lekt9/unbrowse-openclaw) - 基于抓取到的 Web/API 流量生成 API 技能的工作流。 ![GitHub stars](https://img.shields.io/github/stars/lekt9/unbrowse-openclaw?style=social)
 - [openclaw/clawhub](https://github.com/openclaw/clawhub) - 官方技能目录与发现入口。 🎖️ ![GitHub stars](https://img.shields.io/github/stars/openclaw/clawhub?style=social)
 - [openclaw/skills](https://github.com/openclaw/skills) - ClawHub 已发布技能的归档版本。 🎖️ ![GitHub stars](https://img.shields.io/github/stars/openclaw/skills?style=social)
+- [pors/skill-audit](https://github.com/pors/skill-audit) - 用于技能审计、校验与质量加固的工具集。 ![GitHub stars](https://img.shields.io/github/stars/pors/skill-audit?style=social)
 - [runkids/skillshare](https://github.com/runkids/skillshare) - 在多种 AI 编码工具间分享与同步技能包。 ![GitHub stars](https://img.shields.io/github/stars/runkids/skillshare?style=social)
 - [Skills.sh OpenClaw Directory](https://skills.sh/openclaw/openclaw) - 第三方 OpenClaw 技能发现目录。
 - [Virtual-Protocol/openclaw-acp](https://github.com/Virtual-Protocol/openclaw-acp) - 用于交易/发现流程的 Agent Commerce Protocol 技能包。 ![GitHub stars](https://img.shields.io/github/stars/Virtual-Protocol/openclaw-acp?style=social)

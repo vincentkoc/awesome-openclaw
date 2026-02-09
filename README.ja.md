@@ -97,6 +97,7 @@ OpenClaw は、LLM をツール・メッセージチャネル・メモリと接�
 - [lekt9/unbrowse-openclaw](https://github.com/lekt9/unbrowse-openclaw) - 取得したWeb/APIトラフィックからAPIスキルを生成するワークフロー。 ![GitHub stars](https://img.shields.io/github/stars/lekt9/unbrowse-openclaw?style=social)
 - [openclaw/clawhub](https://github.com/openclaw/clawhub) - 公式スキルディレクトリと探索入口。 🎖️ ![GitHub stars](https://img.shields.io/github/stars/openclaw/clawhub?style=social)
 - [openclaw/skills](https://github.com/openclaw/skills) - ClawHub公開スキルのアーカイブ版。 🎖️ ![GitHub stars](https://img.shields.io/github/stars/openclaw/skills?style=social)
+- [pors/skill-audit](https://github.com/pors/skill-audit) - スキル品質を検証・強化するためのスキル監査ツールキット。 ![GitHub stars](https://img.shields.io/github/stars/pors/skill-audit?style=social)
 - [runkids/skillshare](https://github.com/runkids/skillshare) - AIコーディングツール間でスキルパックを共有・同期。 ![GitHub stars](https://img.shields.io/github/stars/runkids/skillshare?style=social)
 - [Skills.sh OpenClaw Directory](https://skills.sh/openclaw/openclaw) - サードパーティのOpenClawスキル発見ディレクトリ。
 - [Virtual-Protocol/openclaw-acp](https://github.com/Virtual-Protocol/openclaw-acp) - コマースフロー向けAgent Commerce Protocolスキルパック。 ![GitHub stars](https://img.shields.io/github/stars/Virtual-Protocol/openclaw-acp?style=social)
