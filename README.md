@@ -5,7 +5,6 @@ A curated list of high-signal resources for **OpenClaw** (formerly **Moltbot**, 
 ## Navigation
 
 - [Alternative Architectures](#alternative-architectures)
-- [Canonical Project and Aliases](#canonical-project-and-aliases)
 - [Community Channels](#community-channels)
 - [Contributing](#contributing)
 - [Curated Collections](#curated-collections)
@@ -26,12 +25,6 @@ A curated list of high-signal resources for **OpenClaw** (formerly **Moltbot**, 
 
 - 🎖️ Official OpenClaw-maintained resource (org repo, official docs, or official channels).
 - 💵 Paid service or paid tier commonly required for full functionality.
-
-## Canonical Project and Aliases
-
-- [clawdbot/clawdbot](https://github.com/clawdbot/clawdbot) - Legacy alias URL redirecting to the canonical repository. ![GitHub stars](https://img.shields.io/github/stars/clawdbot/clawdbot?style=social)
-- [moltbot/moltbot](https://github.com/moltbot/moltbot) - Legacy alias URL redirecting to the canonical repository. ![GitHub stars](https://img.shields.io/github/stars/moltbot/moltbot?style=social)
-- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Core project. 🎖️ ![GitHub stars](https://img.shields.io/github/stars/openclaw/openclaw?style=social)
 
 ## Community Channels
 
