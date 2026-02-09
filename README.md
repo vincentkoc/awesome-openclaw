@@ -18,12 +18,13 @@ A curated list of high-signal resources for **OpenClaw** (formerly **Moltbot**, 
 - [Official Resources](#official-resources)
 - [Plugins and Integrations](#plugins-and-integrations)
 - [Skills and Skill Indexes](#skills-and-skill-indexes)
-- [Status Markers](#status-markers)
 
 ## Status Markers
 
 - 🎖️ Official OpenClaw-maintained resource (org repo, official docs, or official channels).
 - 💵 Paid service or paid tier commonly required for full functionality.
+
+---
 
 ## Community Channels
 
