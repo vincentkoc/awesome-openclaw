@@ -105,8 +105,7 @@ A curated list of high-signal resources for **OpenClaw** (formerly **Moltbot**, 
 
 ## Memory and Context Systems
 
-- [mem0.ai: Memory for OpenClaw](https://mem0.ai/blog/mem0-memory-for-openclaw) - Mem0 engineering write-up and setup path for persistent OpenClaw memory. 💵
-- [Mem0 OpenClaw Integration Docs](https://docs.mem0.ai/integrations/openclaw) - Integration documentation for Mem0-backed OpenClaw memory. 💵
+- [Mem0 persistent OpenClaw memory](https://docs.mem0.ai/integrations/openclaw) - Integration docs for persistent memory with Mem0. 💵
 - [memovai/memov](https://github.com/memovai/memov) - Memory layer and retrieval toolkit for persistent OpenClaw context. ![GitHub stars](https://img.shields.io/github/stars/memovai/memov?style=social)
 - [MemTensor/MemOS](https://github.com/MemTensor/MemOS) - Memory operating system with OpenClaw ecosystem adoption. ![GitHub stars](https://img.shields.io/github/stars/MemTensor/MemOS?style=social)
 - [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) - Agent memory layer for long-lived assistants. ![GitHub stars](https://img.shields.io/github/stars/NevaMind-AI/memU?style=social)
