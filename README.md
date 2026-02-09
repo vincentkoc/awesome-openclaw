@@ -36,7 +36,7 @@ A curated list of high-signal resources for **OpenClaw** (formerly **Moltbot**, 
 
 - [gavrielc/nanoclaw](https://github.com/gavrielc/nanoclaw) - Lightweight alternative architecture/framework in the OpenClaw ecosystem. ![GitHub stars](https://img.shields.io/github/stars/gavrielc/nanoclaw?style=social)
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Ultra-lightweight OpenClaw-inspired personal AI assistant implementation. ![GitHub stars](https://img.shields.io/github/stars/HKUDS/nanobot?style=social)
-- [microclaw/microclaw](https://github.com/microclaw/microclaw) - Rust-based OpenClaw-inspired assistant with tool execution and session resume. ![GitHub stars](https://img.shields.io/github/stars/microclaw/microclaw?style=social)
+- [microclaw/microclaw](https://github.com/microclaw/microclaw) - Rust-based OpenClaw-inspired assistant with tool execution. ![GitHub stars](https://img.shields.io/github/stars/microclaw/microclaw?style=social)
 - [puremachinery/carapace](https://github.com/puremachinery/carapace) - Security-focused OpenClaw-inspired assistant with sandboxing and plugin isolation. ![GitHub stars](https://img.shields.io/github/stars/puremachinery/carapace?style=social)
 - [ysz/nanoClaw](https://github.com/ysz/nanoClaw) - Lightweight secure OpenClaw-inspired assistant with rapid setup. ![GitHub stars](https://img.shields.io/github/stars/ysz/nanoClaw?style=social)
 
