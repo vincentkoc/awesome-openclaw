@@ -15,7 +15,6 @@ A curated list of high-signal resources for **OpenClaw** (formerly **Moltbot**, 
 - [MCP and Tool Servers](#mcp-and-tool-servers)
 - [Media and Papers](#media-and-papers)
 - [Memory and Context Systems](#memory-and-context-systems)
-- [Molt Ecosystem](#molt-ecosystem)
 - [Official Resources](#official-resources)
 - [Plugins and Integrations](#plugins-and-integrations)
 - [Security Notes](#security-notes)
@@ -30,59 +29,18 @@ A curated list of high-signal resources for **OpenClaw** (formerly **Moltbot**, 
 
 ## Community Channels
 
-- [GitHub Discussions](https://github.com/openclaw/openclaw/discussions) - Community discussion forum for help, ideas, and showcase posts. 🎖️
-- [GitHub Issues](https://github.com/openclaw/openclaw/issues) - Bug reports and feature requests for OpenClaw core. 🎖️
-- [MoltBook](https://moltbook.com) - Agent-first social platform connected to the broader Molt ecosystem.
-
-## Molt Ecosystem
-
-### Social Platforms and Games
-
 - [4claw.org](https://www.4claw.org) - 4chan-style image board for autonomous agent conversations.
 - [Clawk](https://clawk.ai) - Twitter-style social network where agents post, follow, like, and repost short-form updates.
+- [GitHub Discussions](https://github.com/openclaw/openclaw/discussions) - Community discussion forum for help, ideas, and showcase posts. 🎖️
+- [GitHub Issues](https://github.com/openclaw/openclaw/issues) - Bug reports and feature requests for OpenClaw core. 🎖️
 - [Lobchan](https://lobchan.ai) - Anonymous imageboard-style discussion platform for OpenClaw agents with ephemeral threads.
+- [MoltBook](https://moltbook.com) - Agent-first social platform connected to the broader Molt ecosystem.
 - [Moltbook](https://moltbookai.net) - Reddit-style social network for AI agents where humans can observe agent-to-agent activity.
 - [Moltbook Town](https://moltbooktown.xyz) - 2D/3D virtual environment where agents live and interact.
 - [MoltHub](https://moithub.com/) - Adult-model-oriented agent platform.
 - [MoltOverflow](https://moltoverflow.me) - Stack Overflow-style platform where agents share validated solutions to technical blockers.
 - [Moltx](https://moltx.io/) - X-style social feed for agents with timeline replies, likes, and follows.
 - [Shellmates](https://www.shellmates.app) - Matching platform that pairs agents for short- and long-term correspondence.
-
-### Agent Identity and Persistence
-
-- [Clawstead](https://www.clawstead.com) - Simulated world where agents mine, trade, build, and live together in a persistent environment.
-- [MoltBunker](https://moltbunker.com) - Secure persistence and storage layer for Molt agents.
-- [MoltCities](https://moltcities.org) - Identity and residence layer with handles and key-based identity.
-- [MyDeadInternet.com](https://mydeadinternet.com) - Collective platform where agents contribute memory fragments to shared outputs.
-
-### Marketplaces and Transactions
-
-- [ClawArena](https://clawarena.ai) - Prediction arena where AI agents forecast market outcomes and compete.
-- [ClawTasks](https://clawtasks.com) - Bounty-style task exchange for one-off digital jobs between agents.
-- [Moltroad](https://moltroad.com) - Agent marketplace for services, skills, and digital goods with micropayment flows.
-- [Openwork](https://openwork.bot) - Agent-only labor marketplace for autonomous task coordination and on-chain settlement.
-- [RentAHuman](https://rentahuman.ai) - Marketplace where agents hire humans for physical-world tasks they cannot execute directly.
-
-### Skills and Capabilities
-
-- [ClawHub](https://www.clawhub.ai) - Official skill registry and semantic discovery hub for OpenClaw capabilities. 🎖️
-
-### Agent Infrastructure
-
-- [Moltline](https://www.moltline.com) - Private messaging infrastructure for persistent agent handles and inboxes.
-- [Virtuals](https://www.virtuals.io) - Tokenized AI agent infrastructure for decentralized ownership and monetization.
-
-### Discovery and Monitoring
-
-- [ClawFOMO](https://clawfomo.com) - Real-time trend and sentiment monitor for OpenClaw ecosystem activity.
-- [ClawScan](https://clawscan.io) - Tool directory and project index for discovering OpenClaw ecosystem resources.
-- [Hotmolts](https://www.hotmolts.com) - Ranking engine for influential agents based on social graph and engagement signals.
-- [MoltMatch](https://moltmatch.xyz) - Matching and discovery layer for agent collaborations and partner finding.
-
-### Related
-
-- [awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - Curated collection of OpenClaw skills. ![GitHub stars](https://img.shields.io/github/stars/VoltAgent/awesome-openclaw-skills?style=social)
-- [Virtual-Protocol/openclaw-acp](https://github.com/Virtual-Protocol/openclaw-acp) - Agent Commerce Protocol skill pack for commerce flows. ![GitHub stars](https://img.shields.io/github/stars/Virtual-Protocol/openclaw-acp?style=social)
 
 ## Alternative Architectures
 
@@ -119,6 +77,7 @@ A curated list of high-signal resources for **OpenClaw** (formerly **Moltbot**, 
 - [openclaw/skills](https://github.com/openclaw/skills) - Archived versions of skills published on ClawHub. 🎖️ ![GitHub stars](https://img.shields.io/github/stars/openclaw/skills?style=social)
 - [runkids/skillshare](https://github.com/runkids/skillshare) - Share and synchronize skill packs across AI coding tools. ![GitHub stars](https://img.shields.io/github/stars/runkids/skillshare?style=social)
 - [Skills.sh OpenClaw Directory](https://skills.sh/openclaw/openclaw) - Third-party OpenClaw skill discovery directory.
+- [Virtual-Protocol/openclaw-acp](https://github.com/Virtual-Protocol/openclaw-acp) - Agent Commerce Protocol skill pack for commerce flows. ![GitHub stars](https://img.shields.io/github/stars/Virtual-Protocol/openclaw-acp?style=social)
 
 ## Plugins and Integrations
 
@@ -163,6 +122,8 @@ A curated list of high-signal resources for **OpenClaw** (formerly **Moltbot**, 
 ## Developer Tooling and Observability
 
 - [bokonon23/clawdbot-cost-monitor](https://github.com/bokonon23/clawdbot-cost-monitor) - Cost and spending monitor for OpenClaw/Clawdbot usage. ![GitHub stars](https://img.shields.io/github/stars/bokonon23/clawdbot-cost-monitor?style=social)
+- [ClawFOMO](https://clawfomo.com) - Real-time trend and sentiment monitor for ecosystem activity.
+- [ClawScan](https://clawscan.io) - Tool directory and project index for ecosystem resources.
 - [clawdeckio/clawdeck](https://github.com/clawdeckio/clawdeck) - Mission control dashboard for managing OpenClaw agents. ![GitHub stars](https://img.shields.io/github/stars/clawdeckio/clawdeck?style=social)
 - [crshdn/mission-control](https://github.com/crshdn/mission-control) - Multi-agent orchestration dashboard for OpenClaw gateway workflows. ![GitHub stars](https://img.shields.io/github/stars/crshdn/mission-control?style=social)
 - [grp06/openclaw-studio](https://github.com/grp06/openclaw-studio) - Studio-style web IDE and management UI for OpenClaw workflows. ![GitHub stars](https://img.shields.io/github/stars/grp06/openclaw-studio?style=social)
@@ -172,6 +133,8 @@ A curated list of high-signal resources for **OpenClaw** (formerly **Moltbot**, 
 - [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale) - Token and cost tracking across coding assistant workflows. ![GitHub stars](https://img.shields.io/github/stars/junhoyeo/tokscale?style=social)
 - [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Transferable skill-pack patterns useful for OpenClaw skill design. ![GitHub stars](https://img.shields.io/github/stars/kepano/obsidian-skills?style=social)
 - [luccast/crabwalk](https://github.com/luccast/crabwalk) - Monitoring companion for OpenClaw agent sessions. ![GitHub stars](https://img.shields.io/github/stars/luccast/crabwalk?style=social)
+- [Hotmolts](https://www.hotmolts.com) - Ranking engine for influential agents based on social graph and engagement signals.
+- [MoltMatch](https://moltmatch.xyz) - Matching and discovery layer for agent collaborations and partner finding.
 - [merciagents/riphook](https://github.com/merciagents/riphook) - Webhook and event bridge tooling for agent-driven automations. ![GitHub stars](https://img.shields.io/github/stars/merciagents/riphook?style=social)
 - [openclaw/lobster](https://github.com/openclaw/lobster) - Workflow shell for composing OpenClaw tools and automations. 🎖️ ![GitHub stars](https://img.shields.io/github/stars/openclaw/lobster?style=social)
 - [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) - Planning workflow skill pattern used in agentic repos. ![GitHub stars](https://img.shields.io/github/stars/OthmanAdi/planning-with-files?style=social)
@@ -184,18 +147,29 @@ A curated list of high-signal resources for **OpenClaw** (formerly **Moltbot**, 
 - [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - Self-hosted server panel often used for OpenClaw deployments. ![GitHub stars](https://img.shields.io/github/stars/1Panel-dev/1Panel?style=social)
 - [badrisnarayanan/antigravity-claude-proxy](https://github.com/badrisnarayanan/antigravity-claude-proxy) - Proxy and routing support for model access in assistant workflows. ![GitHub stars](https://img.shields.io/github/stars/badrisnarayanan/antigravity-claude-proxy?style=social)
 - [BlockRunAI/ClawRouter](https://github.com/BlockRunAI/ClawRouter) - Routing and cost optimization layer for OpenClaw-style agent setups. ![GitHub stars](https://img.shields.io/github/stars/BlockRunAI/ClawRouter?style=social)
+- [ClawArena](https://clawarena.ai) - Prediction arena where AI agents forecast market outcomes and compete.
+- [Clawstead](https://www.clawstead.com) - Simulated world where agents mine, trade, build, and live together in a persistent environment.
+- [ClawTasks](https://clawtasks.com) - Bounty-style task exchange for one-off digital jobs between agents.
 - [cloudflare/moltworker](https://github.com/cloudflare/moltworker) - Cloudflare Worker deployment path for OpenClaw-compatible runtimes. ![GitHub stars](https://img.shields.io/github/stars/cloudflare/moltworker?style=social)
 - [coollabsio/openclaw](https://github.com/coollabsio/openclaw) - Automated Docker image/deployment flow for OpenClaw hosting environments. ![GitHub stars](https://img.shields.io/github/stars/coollabsio/openclaw?style=social)
 - [essamamdani/openclaw-coolify](https://github.com/essamamdani/openclaw-coolify) - Coolify template for simplified OpenClaw hosting. ![GitHub stars](https://img.shields.io/github/stars/essamamdani/openclaw-coolify?style=social)
 - [khal3d/openclaw](https://github.com/khal3d/openclaw) - Container and Helm deployment stack for OpenClaw. ![GitHub stars](https://img.shields.io/github/stars/khal3d/openclaw?style=social)
 - [miantiao-me/cloud-claw](https://github.com/miantiao-me/cloud-claw) - One-click Cloudflare Containers deployment for personal OpenClaw agents. ![GitHub stars](https://img.shields.io/github/stars/miantiao-me/cloud-claw?style=social)
 - [miaoxworld/OpenClawInstaller](https://github.com/miaoxworld/OpenClawInstaller) - Installer and setup automation helper. ![GitHub stars](https://img.shields.io/github/stars/miaoxworld/OpenClawInstaller?style=social)
+- [MoltBunker](https://moltbunker.com) - Secure persistence and storage layer for agents.
+- [MoltCities](https://moltcities.org) - Identity and residence layer with handles and key-based identity.
+- [Moltline](https://www.moltline.com) - Private messaging infrastructure for persistent handles and inboxes.
+- [Moltroad](https://moltroad.com) - Marketplace for services, skills, and digital goods with micropayment flows.
 - [molt-bot/openclaw-trading-assistant](https://github.com/molt-bot/openclaw-trading-assistant) - Trading-focused assistant setup built on OpenClaw. ![GitHub stars](https://img.shields.io/github/stars/molt-bot/openclaw-trading-assistant?style=social)
+- [MyDeadInternet.com](https://mydeadinternet.com) - Collective platform where agents contribute memory fragments to shared outputs.
+- [Openwork](https://openwork.bot) - Agent-only labor marketplace for autonomous task coordination and on-chain settlement.
 - [openclaw/clawdinators](https://github.com/openclaw/clawdinators) - Declarative NixOS and cloud infrastructure for maintainer-grade agent hosts. 🎖️ ![GitHub stars](https://img.shields.io/github/stars/openclaw/clawdinators?style=social)
 - [openclaw/homebrew-tap](https://github.com/openclaw/homebrew-tap) - Homebrew tap for macOS OpenClaw installation. 🎖️ ![GitHub stars](https://img.shields.io/github/stars/openclaw/homebrew-tap?style=social)
 - [openclaw/openclaw-ansible](https://github.com/openclaw/openclaw-ansible) - Hardened automated deployment using Ansible and containerized runtime patterns. 🎖️ ![GitHub stars](https://img.shields.io/github/stars/openclaw/openclaw-ansible?style=social)
 - [Pamir AI](https://www.pamir.ai/) - Dedicated Linux computer for AI agents, optimized for 24/7 tasks and remote access. 💵
+- [RentAHuman](https://rentahuman.ai) - Marketplace where agents hire humans for physical-world tasks they cannot execute directly.
 - [serhanekicii/openclaw-helm](https://github.com/serhanekicii/openclaw-helm) - Helm chart for Kubernetes-based OpenClaw deployment and management. ![GitHub stars](https://img.shields.io/github/stars/serhanekicii/openclaw-helm?style=social)
+- [Virtuals](https://www.virtuals.io) - Tokenized AI agent infrastructure for decentralized ownership and monetization.
 - [willbullen/openclaw-docker](https://github.com/willbullen/openclaw-docker) - Production-focused Docker Compose setup with security hardening. ![GitHub stars](https://img.shields.io/github/stars/willbullen/openclaw-docker?style=social)
 
 ## Localization and Regional Forks
