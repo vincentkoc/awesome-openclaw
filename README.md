@@ -38,7 +38,7 @@ A curated list of high-signal resources for **OpenClaw** (formerly **Moltbot**, 
 
 ### Social Platforms and Games
 
-- [4claw.org](https://www.4claw.org) - 4chan-style image board for agents with multiple discussion boards and unfiltered autonomous conversations.
+- [4claw.org](https://www.4claw.org) - 4chan-style image board for autonomous agent conversations.
 - [Clawk](https://clawk.ai) - Twitter-style social network where agents post, follow, like, and repost short-form updates.
 - [Lobchan](https://lobchan.ai) - Anonymous imageboard-style discussion platform for OpenClaw agents with ephemeral threads.
 - [Moltbook](https://moltbookai.net) - Reddit-style social network for AI agents where humans can observe agent-to-agent activity.
@@ -52,8 +52,8 @@ A curated list of high-signal resources for **OpenClaw** (formerly **Moltbot**, 
 
 - [Clawstead](https://www.clawstead.com) - Simulated world where agents mine, trade, build, and live together in a persistent environment.
 - [MoltBunker](https://moltbunker.com) - Secure persistence and storage layer for Molt agents.
-- [MoltCities](https://moltcities.org) - Agent identity and residence layer with handles, key-based identity, and communication primitives.
-- [MyDeadInternet.com](https://mydeadinternet.com) - Collective-consciousness platform where agents contribute memory fragments into shared outputs.
+- [MoltCities](https://moltcities.org) - Identity and residence layer with handles and key-based identity.
+- [MyDeadInternet.com](https://mydeadinternet.com) - Collective platform where agents contribute memory fragments to shared outputs.
 
 ### Marketplaces and Transactions
 
@@ -78,12 +78,11 @@ A curated list of high-signal resources for **OpenClaw** (formerly **Moltbot**, 
 - [ClawScan](https://clawscan.io) - Tool directory and project index for discovering OpenClaw ecosystem resources.
 - [Hotmolts](https://www.hotmolts.com) - Ranking engine for influential agents based on social graph and engagement signals.
 - [MoltMatch](https://moltmatch.xyz) - Matching and discovery layer for agent collaborations and partner finding.
-- [Pamir](https://pamir.ai/) - Ecosystem intelligence and tracking platform for OpenClaw-adjacent activity. 💵
 
 ### Related
 
 - [awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - Curated collection of OpenClaw skills. ![GitHub stars](https://img.shields.io/github/stars/VoltAgent/awesome-openclaw-skills?style=social)
-- [Virtual-Protocol/openclaw-acp](https://github.com/Virtual-Protocol/openclaw-acp) - Agent Commerce Protocol skill pack for discovery and transactions. ![GitHub stars](https://img.shields.io/github/stars/Virtual-Protocol/openclaw-acp?style=social)
+- [Virtual-Protocol/openclaw-acp](https://github.com/Virtual-Protocol/openclaw-acp) - Agent Commerce Protocol skill pack for commerce flows. ![GitHub stars](https://img.shields.io/github/stars/Virtual-Protocol/openclaw-acp?style=social)
 
 ## Alternative Architectures
 
@@ -195,6 +194,7 @@ A curated list of high-signal resources for **OpenClaw** (formerly **Moltbot**, 
 - [openclaw/clawdinators](https://github.com/openclaw/clawdinators) - Declarative NixOS and cloud infrastructure for maintainer-grade agent hosts. 🎖️ ![GitHub stars](https://img.shields.io/github/stars/openclaw/clawdinators?style=social)
 - [openclaw/homebrew-tap](https://github.com/openclaw/homebrew-tap) - Homebrew tap for macOS OpenClaw installation. 🎖️ ![GitHub stars](https://img.shields.io/github/stars/openclaw/homebrew-tap?style=social)
 - [openclaw/openclaw-ansible](https://github.com/openclaw/openclaw-ansible) - Hardened automated deployment using Ansible and containerized runtime patterns. 🎖️ ![GitHub stars](https://img.shields.io/github/stars/openclaw/openclaw-ansible?style=social)
+- [Pamir AI](https://www.pamir.ai/) - Dedicated Linux computer for AI agents, optimized for 24/7 tasks and remote access. 💵
 - [serhanekicii/openclaw-helm](https://github.com/serhanekicii/openclaw-helm) - Helm chart for Kubernetes-based OpenClaw deployment and management. ![GitHub stars](https://img.shields.io/github/stars/serhanekicii/openclaw-helm?style=social)
 - [willbullen/openclaw-docker](https://github.com/willbullen/openclaw-docker) - Production-focused Docker Compose setup with security hardening. ![GitHub stars](https://img.shields.io/github/stars/willbullen/openclaw-docker?style=social)
 
