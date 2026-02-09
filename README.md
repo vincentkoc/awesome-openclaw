@@ -21,115 +21,88 @@ A curated list of high-signal resources for **OpenClaw** (formerly **Moltbot**, 
 
 ## Tag Legend
 
-- `[Alias]` - legacy naming (Moltbot/Clawdbot) continuity.
-- `[Archived]` - historical archive or legacy storage.
-- `[Catalog]` - index/list of many resources.
-- `[Community]` - community-maintained project.
-- `[Infra]` - deployment, packaging, or infrastructure.
-- `[MCP]` - Model Context Protocol related.
-- `[Official]` - maintained by OpenClaw org or official docs/site.
-- `[OSS]` - open-source code.
-- `[Skills]` - focused on OpenClaw skill discovery or implementation.
+- `Alias` - Legacy naming continuity (Moltbot/Clawdbot).
+- `Archived` - Historical archive or legacy storage.
+- `Catalog` - Index/list of many resources.
+- `Community` - Community-maintained project.
+- `Infra` - Deployment, packaging, or infrastructure.
+- `MCP` - Model Context Protocol related.
+- `Official` - Maintained by OpenClaw org or official docs/site.
+- `OSS` - Open-source code.
+- `Skills` - Focused on OpenClaw skill discovery or implementation.
 
 ## Canonical Project and Aliases
 
-- [clawdbot/clawdbot](https://github.com/clawdbot/clawdbot) `[Alias]`
-  - Legacy alias URL redirecting to the canonical repository.
-- [moltbot/moltbot](https://github.com/moltbot/moltbot) `[Alias]`
-  - Legacy alias URL redirecting to the canonical repository.
-- [openclaw/openclaw](https://github.com/openclaw/openclaw) `[Official] [OSS]`
-  - Core project.
+- [clawdbot/clawdbot](https://github.com/clawdbot/clawdbot) - Legacy alias URL redirecting to the canonical repository. `Alias`
+- [moltbot/moltbot](https://github.com/moltbot/moltbot) - Legacy alias URL redirecting to the canonical repository. `Alias`
+- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Core project. `Official` `OSS`
 
 ## Official Resources
 
-- [Channels](https://docs.openclaw.ai/channels) `[Official]`
-- [Discord](https://discord.gg/clawd) `[Official]`
-- [Docker Install](https://docs.openclaw.ai/install/docker) `[Official] [Infra]`
-- [FAQ](https://docs.openclaw.ai/start/faq) `[Official]`
-- [Gateway Security](https://docs.openclaw.ai/gateway/security) `[Official]`
-- [Getting Started](https://docs.openclaw.ai/start/getting-started) `[Official]`
-- [Onboarding Wizard](https://docs.openclaw.ai/start/wizard) `[Official]`
-- [OpenClaw Docs](https://docs.openclaw.ai) `[Official]`
-- [OpenClaw Website](https://openclaw.ai) `[Official]`
-- [openclaw/nix-openclaw](https://github.com/openclaw/nix-openclaw) `[Official] [OSS] [Infra]`
-- [Showcase](https://docs.openclaw.ai/start/showcase) `[Official]`
-- [Skills Docs](https://docs.openclaw.ai/tools/skills) `[Official] [Skills]`
+- [Channels](https://docs.openclaw.ai/channels) - Official channel integrations and messaging surfaces. `Official`
+- [Discord](https://discord.gg/clawd) - Community chat and support server. `Official`
+- [Docker Install](https://docs.openclaw.ai/install/docker) - Containerized install guide. `Official` `Infra`
+- [FAQ](https://docs.openclaw.ai/start/faq) - Frequently asked questions. `Official`
+- [Gateway Security](https://docs.openclaw.ai/gateway/security) - Security controls and hardening notes. `Official`
+- [Getting Started](https://docs.openclaw.ai/start/getting-started) - Fastest path to a working setup. `Official`
+- [Onboarding Wizard](https://docs.openclaw.ai/start/wizard) - Guided setup flow. `Official`
+- [OpenClaw Docs](https://docs.openclaw.ai) - Main documentation portal. `Official`
+- [OpenClaw Website](https://openclaw.ai) - Product and project homepage. `Official`
+- [openclaw/nix-openclaw](https://github.com/openclaw/nix-openclaw) - Nix packaging and setup resources. `Official` `OSS` `Infra`
+- [Showcase](https://docs.openclaw.ai/start/showcase) - Example usage and demos. `Official`
+- [Skills Docs](https://docs.openclaw.ai/tools/skills) - Official skill model and usage docs. `Official` `Skills`
 
 ## Curated Collections
 
-- [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) `[Community] [Catalog]`
-  - Real-world usage patterns and domain examples.
-- [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) `[Community] [Catalog] [Skills]`
-  - Major community index of OpenClaw skills (with Moltbot/Clawdbot lineage context).
+- [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) - Real-world usage patterns and domain examples. `Community` `Catalog`
+- [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - Major community index of OpenClaw skills with rename-lineage context. `Community` `Catalog` `Skills`
 
 ## Skills and Skill Indexes
 
-- [BankrBot/openclaw-skills](https://github.com/BankrBot/openclaw-skills) `[Community] [OSS] [Skills]`
-  - Community skill library with automation and finance-oriented integrations.
-- [clawdbot/skills](https://github.com/clawdbot/skills) `[Alias] [Skills] [Archived]`
-  - Legacy alias path to historical skill archive content.
-- [lekt9/unbrowse-openclaw](https://github.com/lekt9/unbrowse-openclaw) `[Community] [OSS] [Skills]`
-  - API-skill generation workflow from captured web/API traffic.
-- [openclaw/skills](https://github.com/openclaw/skills) `[Official] [OSS] [Skills] [Archived]`
-  - Archived versions of skills published on ClawHub.
+- [BankrBot/openclaw-skills](https://github.com/BankrBot/openclaw-skills) - Community skill library with automation and finance-oriented integrations. `Community` `OSS` `Skills`
+- [clawdbot/skills](https://github.com/clawdbot/skills) - Legacy alias path to historical skill archive content. `Alias` `Skills` `Archived`
+- [lekt9/unbrowse-openclaw](https://github.com/lekt9/unbrowse-openclaw) - API-skill generation workflow from captured web/API traffic. `Community` `OSS` `Skills`
+- [openclaw/skills](https://github.com/openclaw/skills) - Archived versions of skills published on ClawHub. `Official` `OSS` `Skills` `Archived`
 
 ## MCP and Tool Servers
 
-- [Enderfga/openclaw-claude-code-skill](https://github.com/Enderfga/openclaw-claude-code-skill) `[Community] [OSS] [Skills] [MCP]`
-  - OpenClaw skill integration for Claude Code workflows via MCP.
-- [Helms-AI/openclaw-mcp-server](https://github.com/Helms-AI/openclaw-mcp-server) `[Community] [OSS] [MCP]`
-  - MCP server exposing OpenClaw Gateway tools.
-- [openclaw/openclaw#4834](https://github.com/openclaw/openclaw/issues/4834) `[Official] [MCP]`
-  - Native MCP support discussion/history.
-- [openclaw/openclaw#5121](https://github.com/openclaw/openclaw/pull/5121) `[Official] [MCP]`
-  - MCP server support implementation PR.
+- [Enderfga/openclaw-claude-code-skill](https://github.com/Enderfga/openclaw-claude-code-skill) - OpenClaw skill integration for Claude Code workflows via MCP. `Community` `OSS` `Skills` `MCP`
+- [Helms-AI/openclaw-mcp-server](https://github.com/Helms-AI/openclaw-mcp-server) - MCP server exposing OpenClaw Gateway tools. `Community` `OSS` `MCP`
+- [openclaw/openclaw#4834](https://github.com/openclaw/openclaw/issues/4834) - Native MCP support discussion/history. `Official` `MCP`
+- [openclaw/openclaw#5121](https://github.com/openclaw/openclaw/pull/5121) - MCP server support implementation PR. `Official` `MCP`
 
 ## Memory and Context Systems
 
-- [MemTensor/MemOS](https://github.com/MemTensor/MemOS) `[Community] [OSS]`
-  - Memory operating system with OpenClaw ecosystem adoption.
-- [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) `[Community] [OSS]`
-  - Agent memory layer for long-lived assistants.
-- [oceanbase/powermem](https://github.com/oceanbase/powermem) `[Community] [OSS]`
-  - Long-term memory infrastructure referenced in Moltbot/Clawdbot plugin contexts.
+- [MemTensor/MemOS](https://github.com/MemTensor/MemOS) - Memory operating system with OpenClaw ecosystem adoption. `Community` `OSS`
+- [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) - Agent memory layer for long-lived assistants. `Community` `OSS`
+- [oceanbase/powermem](https://github.com/oceanbase/powermem) - Long-term memory infrastructure referenced in Moltbot/Clawdbot plugin contexts. `Community` `OSS`
 
 ## Developer Tooling and Observability
 
-- [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale) `[Community] [OSS]`
-  - Token/cost tracking across coding assistants including OpenClaw workflows.
-- [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) `[Community] [OSS] [Skills]`
-  - Transferable skill-pack patterns useful for OpenClaw skill design.
-- [luccast/crabwalk](https://github.com/luccast/crabwalk) `[Community] [OSS]`
-  - Monitoring companion for OpenClaw agent sessions.
-- [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) `[Community] [OSS] [Skills]`
-  - Planning workflow skill pattern used in agentic repos.
-- [refly-ai/refly](https://github.com/refly-ai/refly) `[Community] [OSS] [Skills]`
-  - Skills and workflow builder ecosystem with overlap for agent tooling.
+- [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale) - Token and cost tracking across coding assistant workflows. `Community` `OSS`
+- [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Transferable skill-pack patterns useful for OpenClaw skill design. `Community` `OSS` `Skills`
+- [luccast/crabwalk](https://github.com/luccast/crabwalk) - Monitoring companion for OpenClaw agent sessions. `Community` `OSS`
+- [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) - Planning workflow skill pattern used in agentic repos. `Community` `OSS` `Skills`
+- [refly-ai/refly](https://github.com/refly-ai/refly) - Skills and workflow builder ecosystem with overlap for agent tooling. `Community` `OSS` `Skills`
 
 ## Deployment and Operations
 
-- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) `[Community] [OSS] [Infra]`
-  - Self-hosted server panel often used for OpenClaw deployments.
-- [badrisnarayanan/antigravity-claude-proxy](https://github.com/badrisnarayanan/antigravity-claude-proxy) `[Community] [OSS] [Infra]`
-  - Proxy/routing support for model access in assistant workflows.
-- [BlockRunAI/ClawRouter](https://github.com/BlockRunAI/ClawRouter) `[Community] [OSS] [Infra]`
-  - Routing and cost optimization layer for OpenClaw-style agent setups.
-- [miaoxworld/OpenClawInstaller](https://github.com/miaoxworld/OpenClawInstaller) `[Community] [OSS] [Infra]`
-  - Installer and setup automation helper.
+- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - Self-hosted server panel often used for OpenClaw deployments. `Community` `OSS` `Infra`
+- [badrisnarayanan/antigravity-claude-proxy](https://github.com/badrisnarayanan/antigravity-claude-proxy) - Proxy and routing support for model access in assistant workflows. `Community` `OSS` `Infra`
+- [BlockRunAI/ClawRouter](https://github.com/BlockRunAI/ClawRouter) - Routing and cost optimization layer for OpenClaw-style agent setups. `Community` `OSS` `Infra`
+- [miaoxworld/OpenClawInstaller](https://github.com/miaoxworld/OpenClawInstaller) - Installer and setup automation helper. `Community` `OSS` `Infra`
 
 ## Localization and Regional Forks
 
-- [1186258278/OpenClawChineseTranslation](https://github.com/1186258278/OpenClawChineseTranslation) `[Community] [OSS]`
-  - Translation-focused setup repository.
-- [jiulingyun/openclaw-cn](https://github.com/jiulingyun/openclaw-cn) `[Community] [OSS]`
-  - Chinese-oriented OpenClaw adaptation.
+- [1186258278/OpenClawChineseTranslation](https://github.com/1186258278/OpenClawChineseTranslation) - Translation-focused setup repository. `Community` `OSS`
+- [jiulingyun/openclaw-cn](https://github.com/jiulingyun/openclaw-cn) - Chinese-oriented OpenClaw adaptation. `Community` `OSS`
 
 ## Use-Case Libraries
 
-- [Creative and Building](https://github.com/hesamsheikh/awesome-openclaw-usecases#creative--building) `[Community] [Catalog]`
-- [Productivity](https://github.com/hesamsheikh/awesome-openclaw-usecases#productivity) `[Community] [Catalog]`
-- [Research and Learning](https://github.com/hesamsheikh/awesome-openclaw-usecases#research--learning) `[Community] [Catalog]`
-- [Social Media Use Cases](https://github.com/hesamsheikh/awesome-openclaw-usecases#social-media) `[Community] [Catalog]`
+- [Creative and Building](https://github.com/hesamsheikh/awesome-openclaw-usecases#creative--building) - Creative workflows and build projects. `Community` `Catalog`
+- [Productivity](https://github.com/hesamsheikh/awesome-openclaw-usecases#productivity) - Personal and team productivity examples. `Community` `Catalog`
+- [Research and Learning](https://github.com/hesamsheikh/awesome-openclaw-usecases#research--learning) - Learning, discovery, and research examples. `Community` `Catalog`
+- [Social Media Use Cases](https://github.com/hesamsheikh/awesome-openclaw-usecases#social-media) - Content and social automation examples. `Community` `Catalog`
 
 ## Security Notes
 
