@@ -4,6 +4,7 @@ A curated list of high-signal resources for **OpenClaw** (formerly **Moltbot**, 
 
 ## Navigation
 
+- [Alternative Architectures](#alternative-architectures)
 - [Canonical Project and Aliases](#canonical-project-and-aliases)
 - [Contributing](#contributing)
 - [Curated Collections](#curated-collections)
@@ -37,6 +38,10 @@ A curated list of high-signal resources for **OpenClaw** (formerly **Moltbot**, 
 - [moltbot/moltbot](https://github.com/moltbot/moltbot) - Legacy alias URL redirecting to the canonical repository. `Alias`
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Core project. `Official` `OSS`
 
+## Alternative Architectures
+
+- [gavrielc/nanoclaw](https://github.com/gavrielc/nanoclaw) - Lightweight alternative architecture/framework in the OpenClaw ecosystem. `Community` `OSS`
+
 ## Official Resources
 
 - [Channels](https://docs.openclaw.ai/channels) - Official channel integrations and messaging surfaces. `Official`
@@ -55,6 +60,7 @@ A curated list of high-signal resources for **OpenClaw** (formerly **Moltbot**, 
 ## Curated Collections
 
 - [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) - Real-world usage patterns and domain examples. `Community` `Catalog`
+- [thewh1teagle/awesome-openclaw](https://github.com/thewh1teagle/awesome-openclaw) - Broad ecosystem curation with tools and workflows. `Community` `Catalog`
 - [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - Major community index of OpenClaw skills with rename-lineage context. `Community` `Catalog` `Skills`
 
 ## Skills and Skill Indexes
@@ -62,6 +68,7 @@ A curated list of high-signal resources for **OpenClaw** (formerly **Moltbot**, 
 - [BankrBot/openclaw-skills](https://github.com/BankrBot/openclaw-skills) - Community skill library with automation and finance-oriented integrations. `Community` `OSS` `Skills`
 - [clawdbot/skills](https://github.com/clawdbot/skills) - Legacy alias path to historical skill archive content. `Alias` `Skills` `Archived`
 - [lekt9/unbrowse-openclaw](https://github.com/lekt9/unbrowse-openclaw) - API-skill generation workflow from captured web/API traffic. `Community` `OSS` `Skills`
+- [openclaw/clawhub](https://github.com/openclaw/clawhub) - Official skill directory and discovery surface. `Official` `OSS` `Skills`
 - [openclaw/skills](https://github.com/openclaw/skills) - Archived versions of skills published on ClawHub. `Official` `OSS` `Skills` `Archived`
 
 ## MCP and Tool Servers
@@ -76,13 +83,17 @@ A curated list of high-signal resources for **OpenClaw** (formerly **Moltbot**, 
 - [MemTensor/MemOS](https://github.com/MemTensor/MemOS) - Memory operating system with OpenClaw ecosystem adoption. `Community` `OSS`
 - [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) - Agent memory layer for long-lived assistants. `Community` `OSS`
 - [oceanbase/powermem](https://github.com/oceanbase/powermem) - Long-term memory infrastructure referenced in Moltbot/Clawdbot plugin contexts. `Community` `OSS`
+- [tobi/qmd](https://github.com/tobi/qmd) - Markdown-native memory and knowledge workflows for persistent agent context. `Community` `OSS`
 
 ## Developer Tooling and Observability
 
 - [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale) - Token and cost tracking across coding assistant workflows. `Community` `OSS`
 - [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Transferable skill-pack patterns useful for OpenClaw skill design. `Community` `OSS` `Skills`
 - [luccast/crabwalk](https://github.com/luccast/crabwalk) - Monitoring companion for OpenClaw agent sessions. `Community` `OSS`
+- [merciagents/riphook](https://github.com/merciagents/riphook) - Webhook and event bridge tooling for agent-driven automations. `Community` `OSS`
+- [openclaw/lobster](https://github.com/openclaw/lobster) - Workflow shell for composing OpenClaw tools and automations. `Official` `OSS`
 - [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) - Planning workflow skill pattern used in agentic repos. `Community` `OSS` `Skills`
+- [rdsthomas/mission-control](https://github.com/rdsthomas/mission-control) - Kanban dashboard and chat-to-task project management for Moltbot/OpenClaw assistants. `Community` `OSS`
 - [refly-ai/refly](https://github.com/refly-ai/refly) - Skills and workflow builder ecosystem with overlap for agent tooling. `Community` `OSS` `Skills`
 
 ## Deployment and Operations
@@ -90,7 +101,11 @@ A curated list of high-signal resources for **OpenClaw** (formerly **Moltbot**, 
 - [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - Self-hosted server panel often used for OpenClaw deployments. `Community` `OSS` `Infra`
 - [badrisnarayanan/antigravity-claude-proxy](https://github.com/badrisnarayanan/antigravity-claude-proxy) - Proxy and routing support for model access in assistant workflows. `Community` `OSS` `Infra`
 - [BlockRunAI/ClawRouter](https://github.com/BlockRunAI/ClawRouter) - Routing and cost optimization layer for OpenClaw-style agent setups. `Community` `OSS` `Infra`
+- [miantiao-me/cloud-claw](https://github.com/miantiao-me/cloud-claw) - One-click Cloudflare Containers deployment for personal OpenClaw agents. `Community` `OSS` `Infra`
 - [miaoxworld/OpenClawInstaller](https://github.com/miaoxworld/OpenClawInstaller) - Installer and setup automation helper. `Community` `OSS` `Infra`
+- [molt-bot/openclaw-trading-assistant](https://github.com/molt-bot/openclaw-trading-assistant) - Trading-focused assistant setup built on OpenClaw. `Community` `OSS`
+- [openclaw/clawdinators](https://github.com/openclaw/clawdinators) - Declarative NixOS and cloud infrastructure for maintainer-grade agent hosts. `Official` `OSS` `Infra`
+- [openclaw/openclaw-ansible](https://github.com/openclaw/openclaw-ansible) - Hardened automated deployment using Ansible and containerized runtime patterns. `Official` `OSS` `Infra`
 
 ## Localization and Regional Forks
 
