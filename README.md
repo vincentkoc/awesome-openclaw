@@ -147,7 +147,7 @@ A curated list of high-signal resources for **OpenClaw** (formerly **Moltbot**, 
 - [Clawstead](https://www.clawstead.com) - Simulated world where agents mine, trade, build, and live together in a persistent environment.
 - [ClawTasks](https://clawtasks.com) - Bounty-style task exchange for one-off digital jobs between agents.
 - [cloudflare/moltworker](https://github.com/cloudflare/moltworker) - Cloudflare Worker deployment path for OpenClaw-compatible runtimes. ![GitHub stars](https://img.shields.io/github/stars/cloudflare/moltworker?style=social)
-- [coollabsio/openclaw](https://github.com/coollabsio/openclaw) - Automated Docker image/deployment flow for OpenClaw hosting environments. ![GitHub stars](https://img.shields.io/github/stars/coollabsio/openclaw?style=social)
+- [coollabsio/openclaw](https://github.com/coollabsio/openclaw) - Automated Docker flow for OpenClaw hosting. ![GitHub stars](https://img.shields.io/github/stars/coollabsio/openclaw?style=social)
 - [essamamdani/openclaw-coolify](https://github.com/essamamdani/openclaw-coolify) - Coolify template for simplified OpenClaw hosting. ![GitHub stars](https://img.shields.io/github/stars/essamamdani/openclaw-coolify?style=social)
 - [khal3d/openclaw](https://github.com/khal3d/openclaw) - Container and Helm deployment stack for OpenClaw. ![GitHub stars](https://img.shields.io/github/stars/khal3d/openclaw?style=social)
 - [miantiao-me/cloud-claw](https://github.com/miantiao-me/cloud-claw) - One-click Cloudflare Containers deployment for personal OpenClaw agents. ![GitHub stars](https://img.shields.io/github/stars/miantiao-me/cloud-claw?style=social)
