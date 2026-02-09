@@ -2,7 +2,6 @@
 
 **[English](README.md) | [简体中文](README.zh-CN.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Español](README.es.md) | [Deutsch](README.de.md) | [Français](README.fr.md) | [Русский](README.ru.md)**
 
-
 ![Awesome OpenClaw Banner](banner.jpg)
 
 Liste curée de ressources à fort signal pour **OpenClaw** (anciennement **Moltbot**, à l’origine **Clawdbot**) : frameworks, skills, outils, déploiements et cas d’usage réels.
@@ -10,6 +9,7 @@ Liste curée de ressources à fort signal pour **OpenClaw** (anciennement **Molt
 OpenClaw est un framework d’agent IA open source et auto-hébergé qui relie les LLM aux outils, canaux de messagerie et systèmes de mémoire afin d’exécuter de vrais workflows. Anciennement Moltbot/Clawdbot, il est conçu pour être extensible via des skills, plugins et intégrations d’écosystème.
 
 <a id="navigation"></a>
+
 ## Navigation
 
 - [Architectures alternatives](#alternative-architectures)
@@ -28,6 +28,7 @@ OpenClaw est un framework d’agent IA open source et auto-hébergé qui relie l
 - [Skills et index](#skills-and-skill-indexes)
 
 <a id="status-markers"></a>
+
 ## Indicateurs d’état
 
 - 🎖️ Ressource officielle maintenue par OpenClaw (repo d’organisation, docs officielles ou canaux officiels).
@@ -36,6 +37,7 @@ OpenClaw est un framework d’agent IA open source et auto-hébergé qui relie l
 ---
 
 <a id="community-channels"></a>
+
 ## Canaux communautaires
 
 - [4claw.org](https://www.4claw.org) - Imageboard style 4chan pour des conversations d agents autonomes.
@@ -52,6 +54,7 @@ OpenClaw est un framework d’agent IA open source et auto-hébergé qui relie l
 - [Shellmates](https://www.shellmates.app) - Plateforme de mise en relation pour correspondance d agents a court et long terme.
 
 <a id="alternative-architectures"></a>
+
 ## Architectures alternatives
 
 - [gavrielc/nanoclaw](https://github.com/gavrielc/nanoclaw) - Architecture alternative legere dans l ecosysteme OpenClaw. ![GitHub stars](https://img.shields.io/github/stars/gavrielc/nanoclaw?style=social)
@@ -62,6 +65,7 @@ OpenClaw est un framework d’agent IA open source et auto-hébergé qui relie l
 - [ysz/nanoClaw](https://github.com/ysz/nanoClaw) - Assistant leger et securise avec mise en route rapide. ![GitHub stars](https://img.shields.io/github/stars/ysz/nanoClaw?style=social)
 
 <a id="official-resources"></a>
+
 ## Ressources officielles
 
 - [OpenClaw Website](https://openclaw.ai) - Page officielle du produit et du projet. 🎖️
@@ -74,6 +78,7 @@ OpenClaw est un framework d’agent IA open source et auto-hébergé qui relie l
 - [openclaw/skills](https://github.com/openclaw/skills) - Archived historical skill versions. 🎖️ ![GitHub stars](https://img.shields.io/github/stars/openclaw/skills?style=social)
 
 <a id="curated-collections"></a>
+
 ## Collections curées
 
 - [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) - Patrons d usage reels et exemples par domaine. ![GitHub stars](https://img.shields.io/github/stars/hesamsheikh/awesome-openclaw-usecases?style=social)
@@ -81,6 +86,7 @@ OpenClaw est un framework d’agent IA open source et auto-hébergé qui relie l
 - [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - Grand index communautaire de skills OpenClaw (avec contexte de renommage). ![GitHub stars](https://img.shields.io/github/stars/VoltAgent/awesome-openclaw-skills?style=social)
 
 <a id="skills-and-skill-indexes"></a>
+
 ## Skills et index
 
 - [BankrBot/openclaw-skills](https://github.com/BankrBot/openclaw-skills) - Bibliotheque communautaire de skills axee sur l'automatisation et la finance. ![GitHub stars](https://img.shields.io/github/stars/BankrBot/openclaw-skills?style=social)
@@ -94,6 +100,7 @@ OpenClaw est un framework d’agent IA open source et auto-hébergé qui relie l
 - [Virtual-Protocol/openclaw-acp](https://github.com/Virtual-Protocol/openclaw-acp) - Pack de skills Agent Commerce Protocol pour des flux de commerce. ![GitHub stars](https://img.shields.io/github/stars/Virtual-Protocol/openclaw-acp?style=social)
 
 <a id="plugins-and-integrations"></a>
+
 ## Plugins et intégrations
 
 - [11haonb/wecom-openclaw-plugin](https://github.com/11haonb/wecom-openclaw-plugin) - Plugin de messagerie entreprise WeCom (WeChat Work). ![GitHub stars](https://img.shields.io/github/stars/11haonb/wecom-openclaw-plugin?style=social)
@@ -111,6 +118,7 @@ OpenClaw est un framework d’agent IA open source et auto-hébergé qui relie l
 - [techartdev/OpenClawHomeAssistant](https://github.com/techartdev/OpenClawHomeAssistant) - Extension Home Assistant avec integration au niveau des entites. ![GitHub stars](https://img.shields.io/github/stars/techartdev/OpenClawHomeAssistant?style=social)
 
 <a id="mcp-and-tool-servers"></a>
+
 ## MCP et serveurs d’outils
 
 - [androidStern-personal/openclaw-mcp-adapter](https://github.com/androidStern-personal/openclaw-mcp-adapter) - adaptateur pour un acces natif aux outils OpenClaw. ![GitHub stars](https://img.shields.io/github/stars/androidStern-personal/openclaw-mcp-adapter?style=social)
@@ -118,11 +126,13 @@ OpenClaw est un framework d’agent IA open source et auto-hébergé qui relie l
 - [Helms-AI/openclaw-mcp-server](https://github.com/Helms-AI/openclaw-mcp-server) - Serveur MCP exposant les outils du Gateway OpenClaw. ![GitHub stars](https://img.shields.io/github/stars/Helms-AI/openclaw-mcp-server?style=social)
 
 <a id="media-and-papers"></a>
+
 ## Médias et publications
 
 - [Clawdbot Showed Me What the Future of Personal AI Assistants Looks Like](https://www.macstories.net/stories/clawdbot-showed-me-what-the-future-of-personal-ai-assistants-looks-like/) - Article MacStories sur les premiers workflows d agents personnels Clawdbot/OpenClaw.
 
 <a id="memory-and-context-systems"></a>
+
 ## Mémoire et contexte
 
 - [Mem0 persistent OpenClaw memory](https://docs.mem0.ai/integrations/openclaw) - Documentation d integration pour une memoire persistante avec Mem0. 💵
@@ -138,6 +148,7 @@ OpenClaw est un framework d’agent IA open source et auto-hébergé qui relie l
 - [tobi/qmd](https://github.com/tobi/qmd) - Workflows memoire/connaissance natifs Markdown pour contexte persistant. ![GitHub stars](https://img.shields.io/github/stars/tobi/qmd?style=social)
 
 <a id="developer-tooling-and-observability"></a>
+
 ## Outils développeur et observabilité
 
 - [bokonon23/clawdbot-cost-monitor](https://github.com/bokonon23/clawdbot-cost-monitor) - Moniteur de couts et depenses pour l usage OpenClaw/Clawdbot. ![GitHub stars](https://img.shields.io/github/stars/bokonon23/clawdbot-cost-monitor?style=social)
@@ -162,6 +173,7 @@ OpenClaw est un framework d’agent IA open source et auto-hébergé qui relie l
 - [shanselman/openclaw-windows-hub](https://github.com/shanselman/openclaw-windows-hub) - Hub compagnon Windows pour l'integration bureau. ![GitHub stars](https://img.shields.io/github/stars/shanselman/openclaw-windows-hub?style=social)
 
 <a id="deployment-and-operations"></a>
+
 ## Déploiement et opérations
 
 - [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - Panneau serveur self-hosted souvent utilise pour des deploiements OpenClaw. ![GitHub stars](https://img.shields.io/github/stars/1Panel-dev/1Panel?style=social)
@@ -194,12 +206,14 @@ OpenClaw est un framework d’agent IA open source et auto-hébergé qui relie l
 - [willbullen/openclaw-docker](https://github.com/willbullen/openclaw-docker) - Docker Compose oriente production avec durcissement securite. ![GitHub stars](https://img.shields.io/github/stars/willbullen/openclaw-docker?style=social)
 
 <a id="localization-and-regional-forks"></a>
+
 ## Localisation et forks régionaux
 
 - [1186258278/OpenClawChineseTranslation](https://github.com/1186258278/OpenClawChineseTranslation) - Depot de configuration axe sur la traduction. ![GitHub stars](https://img.shields.io/github/stars/1186258278/OpenClawChineseTranslation?style=social)
 - [jiulingyun/openclaw-cn](https://github.com/jiulingyun/openclaw-cn) - Adaptation OpenClaw orientee Chine. ![GitHub stars](https://img.shields.io/github/stars/jiulingyun/openclaw-cn?style=social)
 
 <a id="contributing"></a>
+
 ## Contribuer
 
 Les PR sont les bienvenues pour :
@@ -211,6 +225,7 @@ Les PR sont les bienvenues pour :
 Ajoutez une courte note de pertinence lors de la soumission d'une nouvelle entree.
 
 <a id="license"></a>
+
 ## Licence
 
 MIT. Voir [`LICENSE`](LICENSE).

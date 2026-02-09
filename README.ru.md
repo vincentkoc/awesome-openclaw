@@ -2,7 +2,6 @@
 
 **[English](README.md) | [简体中文](README.zh-CN.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Español](README.es.md) | [Deutsch](README.de.md) | [Français](README.fr.md) | [Русский](README.ru.md)**
 
-
 ![Awesome OpenClaw Banner](banner.jpg)
 
 Кураторский список высокосигнальных ресурсов по **OpenClaw** (ранее **Moltbot**, изначально **Clawdbot**): фреймворки, навыки, инструменты, деплой и реальные кейсы.
@@ -10,6 +9,7 @@
 OpenClaw — это open-source фреймворк self-hosted AI-агентов, который связывает LLM с инструментами, каналами сообщений и системами памяти, чтобы агенты выполняли реальные рабочие процессы. Ранее проект назывался Moltbot и Clawdbot; он рассчитан на расширяемость через skills, плагины и интеграции экосистемы.
 
 <a id="navigation"></a>
+
 ## Навигация
 
 - [Альтернативные архитектуры](#alternative-architectures)
@@ -28,6 +28,7 @@ OpenClaw — это open-source фреймворк self-hosted AI-агентов
 - [Навыки и индексы](#skills-and-skill-indexes)
 
 <a id="status-markers"></a>
+
 ## Метки статуса
 
 - 🎖️ Официальный ресурс, поддерживаемый OpenClaw (репозиторий организации, официальная документация или каналы).
@@ -36,6 +37,7 @@ OpenClaw — это open-source фреймворк self-hosted AI-агентов
 ---
 
 <a id="community-channels"></a>
+
 ## Каналы сообщества
 
 - [4claw.org](https://www.4claw.org) - Имиджборд в стиле 4chan для автономных разговоров агентов.
@@ -52,6 +54,7 @@ OpenClaw — это open-source фреймворк self-hosted AI-агентов
 - [Shellmates](https://www.shellmates.app) - Сервис матчмейкинга, который подбирает агентам собеседников для краткой и долгой переписки.
 
 <a id="alternative-architectures"></a>
+
 ## Альтернативные архитектуры
 
 - [gavrielc/nanoclaw](https://github.com/gavrielc/nanoclaw) - Легкая альтернативная архитектура/реализация в экосистеме OpenClaw. ![GitHub stars](https://img.shields.io/github/stars/gavrielc/nanoclaw?style=social)
@@ -62,6 +65,7 @@ OpenClaw — это open-source фреймворк self-hosted AI-агентов
 - [ysz/nanoClaw](https://github.com/ysz/nanoClaw) - Легкий и более безопасный ассистент с быстрым стартом. ![GitHub stars](https://img.shields.io/github/stars/ysz/nanoClaw?style=social)
 
 <a id="official-resources"></a>
+
 ## Официальные ресурсы
 
 - [OpenClaw Website](https://openclaw.ai) - Главная страница продукта и проекта. 🎖️
@@ -74,6 +78,7 @@ OpenClaw — это open-source фреймворк self-hosted AI-агентов
 - [openclaw/skills](https://github.com/openclaw/skills) - Archived historical skill versions. 🎖️ ![GitHub stars](https://img.shields.io/github/stars/openclaw/skills?style=social)
 
 <a id="curated-collections"></a>
+
 ## Подборки
 
 - [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) - Реальные паттерны использования и примеры по доменам. ![GitHub stars](https://img.shields.io/github/stars/hesamsheikh/awesome-openclaw-usecases?style=social)
@@ -81,6 +86,7 @@ OpenClaw — это open-source фреймворк self-hosted AI-агентов
 - [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - Крупный индекс навыков OpenClaw от сообщества (с контекстом переименований). ![GitHub stars](https://img.shields.io/github/stars/VoltAgent/awesome-openclaw-skills?style=social)
 
 <a id="skills-and-skill-indexes"></a>
+
 ## Навыки и индексы
 
 - [BankrBot/openclaw-skills](https://github.com/BankrBot/openclaw-skills) - Библиотека навыков сообщества с фокусом на автоматизацию и финансы. ![GitHub stars](https://img.shields.io/github/stars/BankrBot/openclaw-skills?style=social)
@@ -94,6 +100,7 @@ OpenClaw — это open-source фреймворк self-hosted AI-агентов
 - [Virtual-Protocol/openclaw-acp](https://github.com/Virtual-Protocol/openclaw-acp) - Пакет навыков Agent Commerce Protocol для commerce-флоу. ![GitHub stars](https://img.shields.io/github/stars/Virtual-Protocol/openclaw-acp?style=social)
 
 <a id="plugins-and-integrations"></a>
+
 ## Плагины и интеграции
 
 - [11haonb/wecom-openclaw-plugin](https://github.com/11haonb/wecom-openclaw-plugin) - Плагин корпоративного мессенджинга WeCom (WeChat Work). ![GitHub stars](https://img.shields.io/github/stars/11haonb/wecom-openclaw-plugin?style=social)
@@ -111,6 +118,7 @@ OpenClaw — это open-source фреймворк self-hosted AI-агентов
 - [techartdev/OpenClawHomeAssistant](https://github.com/techartdev/OpenClawHomeAssistant) - Дополнение Home Assistant с интеграцией на уровне сущностей. ![GitHub stars](https://img.shields.io/github/stars/techartdev/OpenClawHomeAssistant?style=social)
 
 <a id="mcp-and-tool-servers"></a>
+
 ## MCP и серверы инструментов
 
 - [androidStern-personal/openclaw-mcp-adapter](https://github.com/androidStern-personal/openclaw-mcp-adapter) - адаптер для нативного доступа к инструментам OpenClaw. ![GitHub stars](https://img.shields.io/github/stars/androidStern-personal/openclaw-mcp-adapter?style=social)
@@ -118,11 +126,13 @@ OpenClaw — это open-source фреймворк self-hosted AI-агентов
 - [Helms-AI/openclaw-mcp-server](https://github.com/Helms-AI/openclaw-mcp-server) - MCP-сервер, который публикует инструменты OpenClaw Gateway. ![GitHub stars](https://img.shields.io/github/stars/Helms-AI/openclaw-mcp-server?style=social)
 
 <a id="media-and-papers"></a>
+
 ## Медиа и статьи
 
 - [Clawdbot Showed Me What the Future of Personal AI Assistants Looks Like](https://www.macstories.net/stories/clawdbot-showed-me-what-the-future-of-personal-ai-assistants-looks-like/) - Материал MacStories о ранних персональных агентных workflow Clawdbot/OpenClaw.
 
 <a id="memory-and-context-systems"></a>
+
 ## Память и контекст
 
 - [Mem0 persistent OpenClaw memory](https://docs.mem0.ai/integrations/openclaw) - Документация интеграции для постоянной памяти с Mem0. 💵
@@ -138,6 +148,7 @@ OpenClaw — это open-source фреймворк self-hosted AI-агентов
 - [tobi/qmd](https://github.com/tobi/qmd) - Markdown-нативные workflow памяти и знаний для постоянного контекста. ![GitHub stars](https://img.shields.io/github/stars/tobi/qmd?style=social)
 
 <a id="developer-tooling-and-observability"></a>
+
 ## Инструменты разработки и наблюдаемость
 
 - [bokonon23/clawdbot-cost-monitor](https://github.com/bokonon23/clawdbot-cost-monitor) - Монитор затрат и расходов для использования OpenClaw/Clawdbot. ![GitHub stars](https://img.shields.io/github/stars/bokonon23/clawdbot-cost-monitor?style=social)
@@ -162,6 +173,7 @@ OpenClaw — это open-source фреймворк self-hosted AI-агентов
 - [shanselman/openclaw-windows-hub](https://github.com/shanselman/openclaw-windows-hub) - Windows-хаб-компаньон для десктопной интеграции. ![GitHub stars](https://img.shields.io/github/stars/shanselman/openclaw-windows-hub?style=social)
 
 <a id="deployment-and-operations"></a>
+
 ## Развертывание и эксплуатация
 
 - [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - Self-hosted панель сервера, часто используемая для деплоя OpenClaw. ![GitHub stars](https://img.shields.io/github/stars/1Panel-dev/1Panel?style=social)
@@ -194,12 +206,14 @@ OpenClaw — это open-source фреймворк self-hosted AI-агентов
 - [willbullen/openclaw-docker](https://github.com/willbullen/openclaw-docker) - Production Docker Compose сетап с усилением безопасности. ![GitHub stars](https://img.shields.io/github/stars/willbullen/openclaw-docker?style=social)
 
 <a id="localization-and-regional-forks"></a>
+
 ## Локализация и региональные форки
 
 - [1186258278/OpenClawChineseTranslation](https://github.com/1186258278/OpenClawChineseTranslation) - Репозиторий сетапа, сфокусированный на переводе. ![GitHub stars](https://img.shields.io/github/stars/1186258278/OpenClawChineseTranslation?style=social)
 - [jiulingyun/openclaw-cn](https://github.com/jiulingyun/openclaw-cn) - OpenClaw-адаптация, ориентированная на Китай. ![GitHub stars](https://img.shields.io/github/stars/jiulingyun/openclaw-cn?style=social)
 
 <a id="contributing"></a>
+
 ## Вклад
 
 PR приветствуются для:
@@ -211,6 +225,7 @@ PR приветствуются для:
 Пожалуйста, добавьте короткую заметку о релевантности при отправке нового пункта.
 
 <a id="license"></a>
+
 ## Лицензия
 
 MIT. См. [`LICENSE`](LICENSE).

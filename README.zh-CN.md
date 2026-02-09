@@ -2,7 +2,6 @@
 
 **[English](README.md) | [简体中文](README.zh-CN.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Español](README.es.md) | [Deutsch](README.de.md) | [Français](README.fr.md) | [Русский](README.ru.md)**
 
-
 ![Awesome OpenClaw Banner](banner.jpg)
 
 一份高质量的 **OpenClaw**（原名 **Moltbot**、最初为 **Clawdbot**）资源清单：框架、技能、工具、部署与真实用例。
@@ -10,6 +9,7 @@
 OpenClaw 是一个开源、自托管的 AI Agent 框架，可将大模型与工具、消息通道和记忆系统连接起来，让 Agent 执行真实工作流。它曾使用 Moltbot 和 Clawdbot 名称，并通过技能、插件与生态集成实现可扩展性。
 
 <a id="navigation"></a>
+
 ## 导航
 
 - [替代架构](#alternative-architectures)
@@ -28,6 +28,7 @@ OpenClaw 是一个开源、自托管的 AI Agent 框架，可将大模型与工�
 - [技能与索引](#skills-and-skill-indexes)
 
 <a id="status-markers"></a>
+
 ## 状态标记
 
 - 🎖️ 由 OpenClaw 官方维护（组织仓库、官方文档或官方渠道）。
@@ -36,6 +37,7 @@ OpenClaw 是一个开源、自托管的 AI Agent 框架，可将大模型与工�
 ---
 
 <a id="community-channels"></a>
+
 ## 社区渠道
 
 - [4claw.org](https://www.4claw.org) - 4chan 风格的匿名板块，用于 Agent 自主对话。
@@ -52,6 +54,7 @@ OpenClaw 是一个开源、自托管的 AI Agent 框架，可将大模型与工�
 - [Shellmates](https://www.shellmates.app) - Agent 匹配平台，用于短期或长期通信/笔友式互动。
 
 <a id="alternative-architectures"></a>
+
 ## 替代架构
 
 - [gavrielc/nanoclaw](https://github.com/gavrielc/nanoclaw) - OpenClaw 生态中的轻量替代架构/实现。 ![GitHub stars](https://img.shields.io/github/stars/gavrielc/nanoclaw?style=social)
@@ -62,6 +65,7 @@ OpenClaw 是一个开源、自托管的 AI Agent 框架，可将大模型与工�
 - [ysz/nanoClaw](https://github.com/ysz/nanoClaw) - 轻量且更注重安全的助手实现，快速上手。 ![GitHub stars](https://img.shields.io/github/stars/ysz/nanoClaw?style=social)
 
 <a id="official-resources"></a>
+
 ## 官方资源
 
 - [OpenClaw Website](https://openclaw.ai) - 产品与项目官网主页。 🎖️
@@ -74,6 +78,7 @@ OpenClaw 是一个开源、自托管的 AI Agent 框架，可将大模型与工�
 - [openclaw/skills](https://github.com/openclaw/skills) - Archived historical skill versions. 🎖️ ![GitHub stars](https://img.shields.io/github/stars/openclaw/skills?style=social)
 
 <a id="curated-collections"></a>
+
 ## 精选集合
 
 - [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) - 真实世界用法模式与领域示例集合。 ![GitHub stars](https://img.shields.io/github/stars/hesamsheikh/awesome-openclaw-usecases?style=social)
@@ -81,6 +86,7 @@ OpenClaw 是一个开源、自托管的 AI Agent 框架，可将大模型与工�
 - [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - OpenClaw 技能的社区大型索引（含更名脉络）。 ![GitHub stars](https://img.shields.io/github/stars/VoltAgent/awesome-openclaw-skills?style=social)
 
 <a id="skills-and-skill-indexes"></a>
+
 ## 技能与索引
 
 - [BankrBot/openclaw-skills](https://github.com/BankrBot/openclaw-skills) - 聚焦自动化与金融场景的社区技能库。 ![GitHub stars](https://img.shields.io/github/stars/BankrBot/openclaw-skills?style=social)
@@ -94,6 +100,7 @@ OpenClaw 是一个开源、自托管的 AI Agent 框架，可将大模型与工�
 - [Virtual-Protocol/openclaw-acp](https://github.com/Virtual-Protocol/openclaw-acp) - 用于交易/发现流程的 Agent Commerce Protocol 技能包。 ![GitHub stars](https://img.shields.io/github/stars/Virtual-Protocol/openclaw-acp?style=social)
 
 <a id="plugins-and-integrations"></a>
+
 ## 插件与集成
 
 - [11haonb/wecom-openclaw-plugin](https://github.com/11haonb/wecom-openclaw-plugin) - WeCom（企业微信）企业消息渠道插件。 ![GitHub stars](https://img.shields.io/github/stars/11haonb/wecom-openclaw-plugin?style=social)
@@ -111,6 +118,7 @@ OpenClaw 是一个开源、自托管的 AI Agent 框架，可将大模型与工�
 - [techartdev/OpenClawHomeAssistant](https://github.com/techartdev/OpenClawHomeAssistant) - 支持实体级集成的 Home Assistant 插件。 ![GitHub stars](https://img.shields.io/github/stars/techartdev/OpenClawHomeAssistant?style=social)
 
 <a id="mcp-and-tool-servers"></a>
+
 ## MCP 与工具服务器
 
 - [androidStern-personal/openclaw-mcp-adapter](https://github.com/androidStern-personal/openclaw-mcp-adapter) - 用于原生 OpenClaw 工具访问的适配器。 ![GitHub stars](https://img.shields.io/github/stars/androidStern-personal/openclaw-mcp-adapter?style=social)
@@ -118,11 +126,13 @@ OpenClaw 是一个开源、自托管的 AI Agent 框架，可将大模型与工�
 - [Helms-AI/openclaw-mcp-server](https://github.com/Helms-AI/openclaw-mcp-server) - 暴露 OpenClaw Gateway 工具的 MCP 服务器。 ![GitHub stars](https://img.shields.io/github/stars/Helms-AI/openclaw-mcp-server?style=social)
 
 <a id="media-and-papers"></a>
+
 ## 媒体与论文
 
 - [Clawdbot Showed Me What the Future of Personal AI Assistants Looks Like](https://www.macstories.net/stories/clawdbot-showed-me-what-the-future-of-personal-ai-assistants-looks-like/) - MacStories 对早期 Clawdbot/OpenClaw 个人 Agent 工作流的报道。
 
 <a id="memory-and-context-systems"></a>
+
 ## 记忆与上下文系统
 
 - [Mem0 persistent OpenClaw memory](https://docs.mem0.ai/integrations/openclaw) - Mem0 持久记忆集成文档与使用说明。 💵
@@ -138,6 +148,7 @@ OpenClaw 是一个开源、自托管的 AI Agent 框架，可将大模型与工�
 - [tobi/qmd](https://github.com/tobi/qmd) - 基于 Markdown 的记忆/知识工作流，用于持久上下文。 ![GitHub stars](https://img.shields.io/github/stars/tobi/qmd?style=social)
 
 <a id="developer-tooling-and-observability"></a>
+
 ## 开发工具与可观测性
 
 - [bokonon23/clawdbot-cost-monitor](https://github.com/bokonon23/clawdbot-cost-monitor) - OpenClaw/Clawdbot 成本与花费监控。 ![GitHub stars](https://img.shields.io/github/stars/bokonon23/clawdbot-cost-monitor?style=social)
@@ -162,6 +173,7 @@ OpenClaw 是一个开源、自托管的 AI Agent 框架，可将大模型与工�
 - [shanselman/openclaw-windows-hub](https://github.com/shanselman/openclaw-windows-hub) - 面向桌面集成的 Windows 伴侣中心。 ![GitHub stars](https://img.shields.io/github/stars/shanselman/openclaw-windows-hub?style=social)
 
 <a id="deployment-and-operations"></a>
+
 ## 部署与运维
 
 - [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 常用于 OpenClaw 部署的自托管服务器面板。 ![GitHub stars](https://img.shields.io/github/stars/1Panel-dev/1Panel?style=social)
@@ -194,12 +206,14 @@ OpenClaw 是一个开源、自托管的 AI Agent 框架，可将大模型与工�
 - [willbullen/openclaw-docker](https://github.com/willbullen/openclaw-docker) - 面向生产的 Docker Compose 部署，包含安全加固。 ![GitHub stars](https://img.shields.io/github/stars/willbullen/openclaw-docker?style=social)
 
 <a id="localization-and-regional-forks"></a>
+
 ## 本地化与区域分支
 
 - [1186258278/OpenClawChineseTranslation](https://github.com/1186258278/OpenClawChineseTranslation) - 面向中文的翻译与配置仓库。 ![GitHub stars](https://img.shields.io/github/stars/1186258278/OpenClawChineseTranslation?style=social)
 - [jiulingyun/openclaw-cn](https://github.com/jiulingyun/openclaw-cn) - 面向中国生态的 OpenClaw 适配版本。 ![GitHub stars](https://img.shields.io/github/stars/jiulingyun/openclaw-cn?style=social)
 
 <a id="contributing"></a>
+
 ## 贡献
 
 欢迎提交 PR：
@@ -211,6 +225,7 @@ OpenClaw 是一个开源、自托管的 AI Agent 框架，可将大模型与工�
 提交新条目时请附上一句简短的相关性说明。
 
 <a id="license"></a>
+
 ## 许可证
 
 MIT。参见 [`LICENSE`](LICENSE)。

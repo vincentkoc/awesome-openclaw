@@ -2,7 +2,6 @@
 
 **[English](README.md) | [简体中文](README.zh-CN.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Español](README.es.md) | [Deutsch](README.de.md) | [Français](README.fr.md) | [Русский](README.ru.md)**
 
-
 ![Awesome OpenClaw Banner](banner.jpg)
 
 Lista curada de recursos de alto valor para **OpenClaw** (antes **Moltbot**, originalmente **Clawdbot**): frameworks, skills, herramientas, despliegues y casos de uso reales.
@@ -10,6 +9,7 @@ Lista curada de recursos de alto valor para **OpenClaw** (antes **Moltbot**, ori
 OpenClaw es un framework de agentes de IA, open source y autoalojado, que conecta LLMs con herramientas, canales de mensajería y sistemas de memoria para ejecutar flujos de trabajo reales. Antes se conocía como Moltbot y Clawdbot, y está diseñado para extenderse mediante skills, plugins e integraciones del ecosistema.
 
 <a id="navigation"></a>
+
 ## Navegación
 
 - [Arquitecturas alternativas](#alternative-architectures)
@@ -28,6 +28,7 @@ OpenClaw es un framework de agentes de IA, open source y autoalojado, que conect
 - [Skills e índices](#skills-and-skill-indexes)
 
 <a id="status-markers"></a>
+
 ## Marcadores de estado
 
 - 🎖️ Recurso oficial mantenido por OpenClaw (repo de la organización, docs oficiales o canales oficiales).
@@ -36,6 +37,7 @@ OpenClaw es un framework de agentes de IA, open source y autoalojado, que conect
 ---
 
 <a id="community-channels"></a>
+
 ## Canales de la comunidad
 
 - [4claw.org](https://www.4claw.org) - Tablon estilo 4chan para conversaciones de agentes autonomos.
@@ -52,6 +54,7 @@ OpenClaw es un framework de agentes de IA, open source y autoalojado, que conect
 - [Shellmates](https://www.shellmates.app) - Plataforma de emparejamiento para correspondencia entre agentes a corto y largo plazo.
 
 <a id="alternative-architectures"></a>
+
 ## Arquitecturas alternativas
 
 - [gavrielc/nanoclaw](https://github.com/gavrielc/nanoclaw) - Arquitectura alternativa ligera dentro del ecosistema OpenClaw. ![GitHub stars](https://img.shields.io/github/stars/gavrielc/nanoclaw?style=social)
@@ -62,6 +65,7 @@ OpenClaw es un framework de agentes de IA, open source y autoalojado, que conect
 - [ysz/nanoClaw](https://github.com/ysz/nanoClaw) - Asistente ligero y seguro con configuracion rapida. ![GitHub stars](https://img.shields.io/github/stars/ysz/nanoClaw?style=social)
 
 <a id="official-resources"></a>
+
 ## Recursos oficiales
 
 - [OpenClaw Website](https://openclaw.ai) - Pagina oficial del producto y del proyecto. 🎖️
@@ -74,6 +78,7 @@ OpenClaw es un framework de agentes de IA, open source y autoalojado, que conect
 - [openclaw/skills](https://github.com/openclaw/skills) - Archived historical skill versions. 🎖️ ![GitHub stars](https://img.shields.io/github/stars/openclaw/skills?style=social)
 
 <a id="curated-collections"></a>
+
 ## Colecciones curadas
 
 - [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) - Patrones de uso reales y ejemplos por dominio. ![GitHub stars](https://img.shields.io/github/stars/hesamsheikh/awesome-openclaw-usecases?style=social)
@@ -81,6 +86,7 @@ OpenClaw es un framework de agentes de IA, open source y autoalojado, que conect
 - [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - Indice comunitario principal de skills de OpenClaw (con contexto de renombrados). ![GitHub stars](https://img.shields.io/github/stars/VoltAgent/awesome-openclaw-skills?style=social)
 
 <a id="skills-and-skill-indexes"></a>
+
 ## Skills e índices
 
 - [BankrBot/openclaw-skills](https://github.com/BankrBot/openclaw-skills) - Biblioteca comunitaria de skills centrada en automatizacion y finanzas. ![GitHub stars](https://img.shields.io/github/stars/BankrBot/openclaw-skills?style=social)
@@ -94,6 +100,7 @@ OpenClaw es un framework de agentes de IA, open source y autoalojado, que conect
 - [Virtual-Protocol/openclaw-acp](https://github.com/Virtual-Protocol/openclaw-acp) - Pack de skills del Agent Commerce Protocol para flujos de comercio. ![GitHub stars](https://img.shields.io/github/stars/Virtual-Protocol/openclaw-acp?style=social)
 
 <a id="plugins-and-integrations"></a>
+
 ## Plugins e integraciones
 
 - [11haonb/wecom-openclaw-plugin](https://github.com/11haonb/wecom-openclaw-plugin) - Plugin de mensajeria empresarial para WeCom (WeChat Work). ![GitHub stars](https://img.shields.io/github/stars/11haonb/wecom-openclaw-plugin?style=social)
@@ -111,6 +118,7 @@ OpenClaw es un framework de agentes de IA, open source y autoalojado, que conect
 - [techartdev/OpenClawHomeAssistant](https://github.com/techartdev/OpenClawHomeAssistant) - Complemento de Home Assistant con integracion a nivel de entidad. ![GitHub stars](https://img.shields.io/github/stars/techartdev/OpenClawHomeAssistant?style=social)
 
 <a id="mcp-and-tool-servers"></a>
+
 ## MCP y servidores de herramientas
 
 - [androidStern-personal/openclaw-mcp-adapter](https://github.com/androidStern-personal/openclaw-mcp-adapter) - adaptador para acceso nativo a herramientas en OpenClaw. ![GitHub stars](https://img.shields.io/github/stars/androidStern-personal/openclaw-mcp-adapter?style=social)
@@ -118,11 +126,13 @@ OpenClaw es un framework de agentes de IA, open source y autoalojado, que conect
 - [Helms-AI/openclaw-mcp-server](https://github.com/Helms-AI/openclaw-mcp-server) - Servidor MCP que expone herramientas del Gateway de OpenClaw. ![GitHub stars](https://img.shields.io/github/stars/Helms-AI/openclaw-mcp-server?style=social)
 
 <a id="media-and-papers"></a>
+
 ## Medios y artículos
 
 - [Clawdbot Showed Me What the Future of Personal AI Assistants Looks Like](https://www.macstories.net/stories/clawdbot-showed-me-what-the-future-of-personal-ai-assistants-looks-like/) - Articulo de MacStories sobre los primeros flujos de agentes personales Clawdbot/OpenClaw.
 
 <a id="memory-and-context-systems"></a>
+
 ## Memoria y contexto
 
 - [Mem0 persistent OpenClaw memory](https://docs.mem0.ai/integrations/openclaw) - Documentacion de integracion para memoria persistente con Mem0. 💵
@@ -138,6 +148,7 @@ OpenClaw es un framework de agentes de IA, open source y autoalojado, que conect
 - [tobi/qmd](https://github.com/tobi/qmd) - Flujos de memoria y conocimiento nativos en Markdown para contexto persistente. ![GitHub stars](https://img.shields.io/github/stars/tobi/qmd?style=social)
 
 <a id="developer-tooling-and-observability"></a>
+
 ## Herramientas de desarrollo y observabilidad
 
 - [bokonon23/clawdbot-cost-monitor](https://github.com/bokonon23/clawdbot-cost-monitor) - Monitor de costes y gasto para uso de OpenClaw/Clawdbot. ![GitHub stars](https://img.shields.io/github/stars/bokonon23/clawdbot-cost-monitor?style=social)
@@ -162,6 +173,7 @@ OpenClaw es un framework de agentes de IA, open source y autoalojado, que conect
 - [shanselman/openclaw-windows-hub](https://github.com/shanselman/openclaw-windows-hub) - Hub complementario de Windows para integracion de escritorio. ![GitHub stars](https://img.shields.io/github/stars/shanselman/openclaw-windows-hub?style=social)
 
 <a id="deployment-and-operations"></a>
+
 ## Despliegue y operaciones
 
 - [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - Panel de servidor self-hosted usado a menudo para despliegues de OpenClaw. ![GitHub stars](https://img.shields.io/github/stars/1Panel-dev/1Panel?style=social)
@@ -194,12 +206,14 @@ OpenClaw es un framework de agentes de IA, open source y autoalojado, que conect
 - [willbullen/openclaw-docker](https://github.com/willbullen/openclaw-docker) - Docker Compose orientado a produccion con hardening de seguridad. ![GitHub stars](https://img.shields.io/github/stars/willbullen/openclaw-docker?style=social)
 
 <a id="localization-and-regional-forks"></a>
+
 ## Localización y forks regionales
 
 - [1186258278/OpenClawChineseTranslation](https://github.com/1186258278/OpenClawChineseTranslation) - Repositorio de configuracion enfocado en traduccion. ![GitHub stars](https://img.shields.io/github/stars/1186258278/OpenClawChineseTranslation?style=social)
 - [jiulingyun/openclaw-cn](https://github.com/jiulingyun/openclaw-cn) - Adaptacion de OpenClaw orientada a China. ![GitHub stars](https://img.shields.io/github/stars/jiulingyun/openclaw-cn?style=social)
 
 <a id="contributing"></a>
+
 ## Contribuir
 
 Se aceptan PR para:
@@ -211,6 +225,7 @@ Se aceptan PR para:
 Incluye una breve nota de relevancia al enviar una nueva entrada.
 
 <a id="license"></a>
+
 ## Licencia
 
 MIT. Consulta [`LICENSE`](LICENSE).

@@ -2,7 +2,6 @@
 
 **[English](README.md) | [简体中文](README.zh-CN.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Español](README.es.md) | [Deutsch](README.de.md) | [Français](README.fr.md) | [Русский](README.ru.md)**
 
-
 ![Awesome OpenClaw Banner](banner.jpg)
 
 **OpenClaw**(이전 명칭 **Moltbot**, 초기 **Clawdbot**)의 고신뢰 리소스를 모은 큐레이션 목록입니다: 프레임워크, 스킬, 도구, 배포, 실사용 사례.
@@ -10,6 +9,7 @@
 OpenClaw는 LLM을 도구, 메시징 채널, 메모리 시스템에 연결해 실제 워크플로를 실행할 수 있게 해주는 오픈소스 셀프호스팅 AI 에이전트 프레임워크입니다. Moltbot/Clawdbot에서 이름이 변경되었으며, 스킬·플러그인·생태계 통합을 통한 확장성을 지향합니다.
 
 <a id="navigation"></a>
+
 ## 탐색
 
 - [대체 아키텍처](#alternative-architectures)
@@ -28,6 +28,7 @@ OpenClaw는 LLM을 도구, 메시징 채널, 메모리 시스템에 연결해 �
 - [스킬 및 인덱스](#skills-and-skill-indexes)
 
 <a id="status-markers"></a>
+
 ## 상태 표시
 
 - 🎖️ OpenClaw 공식 관리 리소스(조직 저장소, 공식 문서, 공식 채널).
@@ -36,6 +37,7 @@ OpenClaw는 LLM을 도구, 메시징 채널, 메모리 시스템에 연결해 �
 ---
 
 <a id="community-channels"></a>
+
 ## 커뮤니티 채널
 
 - [4claw.org](https://www.4claw.org) - 에이전트 자율 대화를 위한 4chan 스타일 이미지보드.
@@ -52,6 +54,7 @@ OpenClaw는 LLM을 도구, 메시징 채널, 메모리 시스템에 연결해 �
 - [Shellmates](https://www.shellmates.app) - 단기/장기 서신을 위해 에이전트를 매칭하는 플랫폼.
 
 <a id="alternative-architectures"></a>
+
 ## 대체 아키텍처
 
 - [gavrielc/nanoclaw](https://github.com/gavrielc/nanoclaw) - OpenClaw 생태계의 경량 대체 아키텍처/구현. ![GitHub stars](https://img.shields.io/github/stars/gavrielc/nanoclaw?style=social)
@@ -62,6 +65,7 @@ OpenClaw는 LLM을 도구, 메시징 채널, 메모리 시스템에 연결해 �
 - [ysz/nanoClaw](https://github.com/ysz/nanoClaw) - 가볍고 안전 지향, 빠른 설정의 어시스턴트. ![GitHub stars](https://img.shields.io/github/stars/ysz/nanoClaw?style=social)
 
 <a id="official-resources"></a>
+
 ## 공식 리소스
 
 - [OpenClaw Website](https://openclaw.ai) - 제품 및 프로젝트 홈페이지. 🎖️
@@ -74,6 +78,7 @@ OpenClaw는 LLM을 도구, 메시징 채널, 메모리 시스템에 연결해 �
 - [openclaw/skills](https://github.com/openclaw/skills) - Archived historical skill versions. 🎖️ ![GitHub stars](https://img.shields.io/github/stars/openclaw/skills?style=social)
 
 <a id="curated-collections"></a>
+
 ## 큐레이션 모음
 
 - [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) - 실사용 패턴과 도메인별 예시 모음. ![GitHub stars](https://img.shields.io/github/stars/hesamsheikh/awesome-openclaw-usecases?style=social)
@@ -81,6 +86,7 @@ OpenClaw는 LLM을 도구, 메시징 채널, 메모리 시스템에 연결해 �
 - [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - OpenClaw 스킬 대형 커뮤니티 인덱스(리네임 계보 포함). ![GitHub stars](https://img.shields.io/github/stars/VoltAgent/awesome-openclaw-skills?style=social)
 
 <a id="skills-and-skill-indexes"></a>
+
 ## 스킬 및 인덱스
 
 - [BankrBot/openclaw-skills](https://github.com/BankrBot/openclaw-skills) - 자동화와 금융 중심의 커뮤니티 스킬 라이브러리. ![GitHub stars](https://img.shields.io/github/stars/BankrBot/openclaw-skills?style=social)
@@ -94,6 +100,7 @@ OpenClaw는 LLM을 도구, 메시징 채널, 메모리 시스템에 연결해 �
 - [Virtual-Protocol/openclaw-acp](https://github.com/Virtual-Protocol/openclaw-acp) - 커머스 플로우용 Agent Commerce Protocol 스킬 팩. ![GitHub stars](https://img.shields.io/github/stars/Virtual-Protocol/openclaw-acp?style=social)
 
 <a id="plugins-and-integrations"></a>
+
 ## 플러그인 및 통합
 
 - [11haonb/wecom-openclaw-plugin](https://github.com/11haonb/wecom-openclaw-plugin) - WeCom(WeChat Work) 엔터프라이즈 메시징 플러그인. ![GitHub stars](https://img.shields.io/github/stars/11haonb/wecom-openclaw-plugin?style=social)
@@ -111,6 +118,7 @@ OpenClaw는 LLM을 도구, 메시징 채널, 메모리 시스템에 연결해 �
 - [techartdev/OpenClawHomeAssistant](https://github.com/techartdev/OpenClawHomeAssistant) - 엔티티 수준 통합을 지원하는 Home Assistant 애드온. ![GitHub stars](https://img.shields.io/github/stars/techartdev/OpenClawHomeAssistant?style=social)
 
 <a id="mcp-and-tool-servers"></a>
+
 ## MCP 및 도구 서버
 
 - [androidStern-personal/openclaw-mcp-adapter](https://github.com/androidStern-personal/openclaw-mcp-adapter) - OpenClaw 네이티브 도구 접근용 어댑터. ![GitHub stars](https://img.shields.io/github/stars/androidStern-personal/openclaw-mcp-adapter?style=social)
@@ -118,11 +126,13 @@ OpenClaw는 LLM을 도구, 메시징 채널, 메모리 시스템에 연결해 �
 - [Helms-AI/openclaw-mcp-server](https://github.com/Helms-AI/openclaw-mcp-server) - OpenClaw Gateway 도구를 노출하는 MCP 서버. ![GitHub stars](https://img.shields.io/github/stars/Helms-AI/openclaw-mcp-server?style=social)
 
 <a id="media-and-papers"></a>
+
 ## 미디어 및 논문
 
 - [Clawdbot Showed Me What the Future of Personal AI Assistants Looks Like](https://www.macstories.net/stories/clawdbot-showed-me-what-the-future-of-personal-ai-assistants-looks-like/) - 초기 Clawdbot/OpenClaw 개인 에이전트 워크플로를 다룬 MacStories 글.
 
 <a id="memory-and-context-systems"></a>
+
 ## 메모리 및 컨텍스트 시스템
 
 - [Mem0 persistent OpenClaw memory](https://docs.mem0.ai/integrations/openclaw) - Mem0 기반 영속 메모리 통합 문서. 💵
@@ -138,6 +148,7 @@ OpenClaw는 LLM을 도구, 메시징 채널, 메모리 시스템에 연결해 �
 - [tobi/qmd](https://github.com/tobi/qmd) - 지속 컨텍스트를 위한 Markdown 네이티브 메모리/지식 워크플로. ![GitHub stars](https://img.shields.io/github/stars/tobi/qmd?style=social)
 
 <a id="developer-tooling-and-observability"></a>
+
 ## 개발 도구 및 관측성
 
 - [bokonon23/clawdbot-cost-monitor](https://github.com/bokonon23/clawdbot-cost-monitor) - OpenClaw/Clawdbot 사용 비용 및 지출 모니터. ![GitHub stars](https://img.shields.io/github/stars/bokonon23/clawdbot-cost-monitor?style=social)
@@ -162,6 +173,7 @@ OpenClaw는 LLM을 도구, 메시징 채널, 메모리 시스템에 연결해 �
 - [shanselman/openclaw-windows-hub](https://github.com/shanselman/openclaw-windows-hub) - 데스크톱 통합용 Windows 컴패니언 허브. ![GitHub stars](https://img.shields.io/github/stars/shanselman/openclaw-windows-hub?style=social)
 
 <a id="deployment-and-operations"></a>
+
 ## 배포 및 운영
 
 - [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - OpenClaw 배포에 자주 쓰이는 셀프호스팅 서버 패널. ![GitHub stars](https://img.shields.io/github/stars/1Panel-dev/1Panel?style=social)
@@ -194,12 +206,14 @@ OpenClaw는 LLM을 도구, 메시징 채널, 메모리 시스템에 연결해 �
 - [willbullen/openclaw-docker](https://github.com/willbullen/openclaw-docker) - 보안 하드닝을 포함한 프로덕션 지향 Docker Compose 셋업. ![GitHub stars](https://img.shields.io/github/stars/willbullen/openclaw-docker?style=social)
 
 <a id="localization-and-regional-forks"></a>
+
 ## 현지화 및 지역 포크
 
 - [1186258278/OpenClawChineseTranslation](https://github.com/1186258278/OpenClawChineseTranslation) - 번역에 초점을 둔 셋업 저장소. ![GitHub stars](https://img.shields.io/github/stars/1186258278/OpenClawChineseTranslation?style=social)
 - [jiulingyun/openclaw-cn](https://github.com/jiulingyun/openclaw-cn) - 중국 환경을 겨냥한 OpenClaw 적응 버전. ![GitHub stars](https://img.shields.io/github/stars/jiulingyun/openclaw-cn?style=social)
 
 <a id="contributing"></a>
+
 ## 기여
 
 PR을 환영합니다:
@@ -211,6 +225,7 @@ PR을 환영합니다:
 새 항목을 제출할 때는 짧은 관련성 메모를 포함해 주세요.
 
 <a id="license"></a>
+
 ## 라이선스
 
 MIT. [`LICENSE`](LICENSE) 참고.

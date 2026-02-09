@@ -2,7 +2,6 @@
 
 **[English](README.md) | [简体中文](README.zh-CN.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Español](README.es.md) | [Deutsch](README.de.md) | [Français](README.fr.md) | [Русский](README.ru.md)**
 
-
 ![Awesome OpenClaw Banner](banner.jpg)
 
 **OpenClaw**（旧称 **Moltbot**、当初は **Clawdbot**）の高品質リソースを集めた一覧です。フレームワーク、スキル、ツール、デプロイ、実運用ユースケースを掲載しています。
@@ -10,6 +9,7 @@
 OpenClaw は、LLM をツール・メッセージチャネル・メモリと接続し、実際のワークフローを実行できるようにするオープンソースのセルフホスト型 AI エージェント基盤です。旧称は Moltbot / Clawdbot で、スキル・プラグイン・エコシステム連携による拡張性を重視しています。
 
 <a id="navigation"></a>
+
 ## ナビゲーション
 
 - [代替アーキテクチャ](#alternative-architectures)
@@ -28,6 +28,7 @@ OpenClaw は、LLM をツール・メッセージチャネル・メモリと接�
 - [スキルとインデックス](#skills-and-skill-indexes)
 
 <a id="status-markers"></a>
+
 ## ステータスマーカー
 
 - 🎖️ OpenClaw 公式が管理（組織リポジトリ、公式ドキュメント、公式チャネル）。
@@ -36,6 +37,7 @@ OpenClaw は、LLM をツール・メッセージチャネル・メモリと接�
 ---
 
 <a id="community-channels"></a>
+
 ## コミュニティチャネル
 
 - [4claw.org](https://www.4claw.org) - エージェントの自律会話向け4chan風イメージボード。
@@ -52,6 +54,7 @@ OpenClaw は、LLM をツール・メッセージチャネル・メモリと接�
 - [Shellmates](https://www.shellmates.app) - 短期/長期の文通相手をエージェント同士でマッチングするサービス。
 
 <a id="alternative-architectures"></a>
+
 ## 代替アーキテクチャ
 
 - [gavrielc/nanoclaw](https://github.com/gavrielc/nanoclaw) - OpenClawエコシステム内の軽量な代替アーキテクチャ/実装。 ![GitHub stars](https://img.shields.io/github/stars/gavrielc/nanoclaw?style=social)
@@ -62,6 +65,7 @@ OpenClaw は、LLM をツール・メッセージチャネル・メモリと接�
 - [ysz/nanoClaw](https://github.com/ysz/nanoClaw) - 軽量で安全寄り、迅速セットアップのアシスタント。 ![GitHub stars](https://img.shields.io/github/stars/ysz/nanoClaw?style=social)
 
 <a id="official-resources"></a>
+
 ## 公式リソース
 
 - [OpenClaw Website](https://openclaw.ai) - 製品とプロジェクトの公式ホームページ。 🎖️
@@ -74,6 +78,7 @@ OpenClaw は、LLM をツール・メッセージチャネル・メモリと接�
 - [openclaw/skills](https://github.com/openclaw/skills) - Archived historical skill versions. 🎖️ ![GitHub stars](https://img.shields.io/github/stars/openclaw/skills?style=social)
 
 <a id="curated-collections"></a>
+
 ## キュレーション集
 
 - [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) - 実運用のユースケースとドメイン別パターン集。 ![GitHub stars](https://img.shields.io/github/stars/hesamsheikh/awesome-openclaw-usecases?style=social)
@@ -81,6 +86,7 @@ OpenClaw は、LLM をツール・メッセージチャネル・メモリと接�
 - [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - OpenClawスキルの大規模コミュニティ索引（改名の系譜を含む）。 ![GitHub stars](https://img.shields.io/github/stars/VoltAgent/awesome-openclaw-skills?style=social)
 
 <a id="skills-and-skill-indexes"></a>
+
 ## スキルとインデックス
 
 - [BankrBot/openclaw-skills](https://github.com/BankrBot/openclaw-skills) - 自動化と金融に重点を置くコミュニティスキル集。 ![GitHub stars](https://img.shields.io/github/stars/BankrBot/openclaw-skills?style=social)
@@ -94,6 +100,7 @@ OpenClaw は、LLM をツール・メッセージチャネル・メモリと接�
 - [Virtual-Protocol/openclaw-acp](https://github.com/Virtual-Protocol/openclaw-acp) - コマースフロー向けAgent Commerce Protocolスキルパック。 ![GitHub stars](https://img.shields.io/github/stars/Virtual-Protocol/openclaw-acp?style=social)
 
 <a id="plugins-and-integrations"></a>
+
 ## プラグインと連携
 
 - [11haonb/wecom-openclaw-plugin](https://github.com/11haonb/wecom-openclaw-plugin) - WeCom（WeChat Work）向け企業メッセージングプラグイン。 ![GitHub stars](https://img.shields.io/github/stars/11haonb/wecom-openclaw-plugin?style=social)
@@ -111,6 +118,7 @@ OpenClaw は、LLM をツール・メッセージチャネル・メモリと接�
 - [techartdev/OpenClawHomeAssistant](https://github.com/techartdev/OpenClawHomeAssistant) - エンティティレベル統合対応の Home Assistant アドオン。 ![GitHub stars](https://img.shields.io/github/stars/techartdev/OpenClawHomeAssistant?style=social)
 
 <a id="mcp-and-tool-servers"></a>
+
 ## MCP とツールサーバー
 
 - [androidStern-personal/openclaw-mcp-adapter](https://github.com/androidStern-personal/openclaw-mcp-adapter) - OpenClaw のネイティブツールアクセス向けアダプター。 ![GitHub stars](https://img.shields.io/github/stars/androidStern-personal/openclaw-mcp-adapter?style=social)
@@ -118,11 +126,13 @@ OpenClaw は、LLM をツール・メッセージチャネル・メモリと接�
 - [Helms-AI/openclaw-mcp-server](https://github.com/Helms-AI/openclaw-mcp-server) - OpenClaw Gatewayツールを公開するMCPサーバー。 ![GitHub stars](https://img.shields.io/github/stars/Helms-AI/openclaw-mcp-server?style=social)
 
 <a id="media-and-papers"></a>
+
 ## メディアと論文
 
 - [Clawdbot Showed Me What the Future of Personal AI Assistants Looks Like](https://www.macstories.net/stories/clawdbot-showed-me-what-the-future-of-personal-ai-assistants-looks-like/) - 初期のClawdbot/OpenClaw個人エージェント運用を扱うMacStories記事。
 
 <a id="memory-and-context-systems"></a>
+
 ## メモリとコンテキスト
 
 - [Mem0 persistent OpenClaw memory](https://docs.mem0.ai/integrations/openclaw) - Mem0による永続メモリ統合ドキュメント。 💵
@@ -138,6 +148,7 @@ OpenClaw は、LLM をツール・メッセージチャネル・メモリと接�
 - [tobi/qmd](https://github.com/tobi/qmd) - 永続コンテキスト向けのMarkdownネイティブなメモリ/知識ワークフロー。 ![GitHub stars](https://img.shields.io/github/stars/tobi/qmd?style=social)
 
 <a id="developer-tooling-and-observability"></a>
+
 ## 開発ツールと可観測性
 
 - [bokonon23/clawdbot-cost-monitor](https://github.com/bokonon23/clawdbot-cost-monitor) - OpenClaw/Clawdbotのコスト・支出モニター。 ![GitHub stars](https://img.shields.io/github/stars/bokonon23/clawdbot-cost-monitor?style=social)
@@ -162,6 +173,7 @@ OpenClaw は、LLM をツール・メッセージチャネル・メモリと接�
 - [shanselman/openclaw-windows-hub](https://github.com/shanselman/openclaw-windows-hub) - デスクトップ統合向け Windows コンパニオンハブ。 ![GitHub stars](https://img.shields.io/github/stars/shanselman/openclaw-windows-hub?style=social)
 
 <a id="deployment-and-operations"></a>
+
 ## デプロイと運用
 
 - [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - OpenClawデプロイで使われることの多いセルフホストのサーバーパネル。 ![GitHub stars](https://img.shields.io/github/stars/1Panel-dev/1Panel?style=social)
@@ -194,12 +206,14 @@ OpenClaw は、LLM をツール・メッセージチャネル・メモリと接�
 - [willbullen/openclaw-docker](https://github.com/willbullen/openclaw-docker) - セキュリティ強化付きの本番向けDocker Composeセットアップ。 ![GitHub stars](https://img.shields.io/github/stars/willbullen/openclaw-docker?style=social)
 
 <a id="localization-and-regional-forks"></a>
+
 ## ローカライズと地域フォーク
 
 - [1186258278/OpenClawChineseTranslation](https://github.com/1186258278/OpenClawChineseTranslation) - 翻訳に焦点を当てたセットアップリポジトリ。 ![GitHub stars](https://img.shields.io/github/stars/1186258278/OpenClawChineseTranslation?style=social)
 - [jiulingyun/openclaw-cn](https://github.com/jiulingyun/openclaw-cn) - 中国向けのOpenClaw適応版。 ![GitHub stars](https://img.shields.io/github/stars/jiulingyun/openclaw-cn?style=social)
 
 <a id="contributing"></a>
+
 ## コントリビュート
 
 PR を歓迎します：
@@ -211,6 +225,7 @@ PR を歓迎します：
 新しい項目を追加する際は、短い関連性メモを添えてください。
 
 <a id="license"></a>
+
 ## ライセンス
 
 MIT。詳細は [`LICENSE`](LICENSE) を参照。
