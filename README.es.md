@@ -63,6 +63,7 @@ OpenClaw es un framework de agentes de IA, open source y autoalojado, que conect
 - [jlia0/tinyclaw](https://github.com/jlia0/tinyclaw) - OpenClaw en 400 lineas de codigo. ![GitHub stars](https://img.shields.io/github/stars/jlia0/tinyclaw?style=social)
 - [microclaw/microclaw](https://github.com/microclaw/microclaw) - Asistente en Rust con ejecucion de herramientas. ![GitHub stars](https://img.shields.io/github/stars/microclaw/microclaw?style=social)
 - [memovai/mimiclaw](https://github.com/memovai/mimiclaw) - Convierte una pequena placa ESP32-S3 en un asistente personal de IA. ![GitHub stars](https://img.shields.io/github/stars/memovai/mimiclaw?style=social)
+- [nearai/ironclaw](https://github.com/nearai/ironclaw) - Implementacion en Rust inspirada en OpenClaw con foco en privacidad y seguridad. ![GitHub stars](https://img.shields.io/github/stars/nearai/ironclaw?style=social)
 - [puremachinery/carapace](https://github.com/puremachinery/carapace) - Asistente centrado en seguridad con sandboxing y aislamiento de plugins. ![GitHub stars](https://img.shields.io/github/stars/puremachinery/carapace?style=social)
 - [sipeed/picoclaw](https://github.com/sipeed/picoclaw) - Implementacion en Go que corre en hardware de $10 con <10MB de RAM. ![GitHub stars](https://img.shields.io/github/stars/sipeed/picoclaw?style=social)
 - [ysz/nanoClaw](https://github.com/ysz/nanoClaw) - Asistente ligero y seguro con configuracion rapida. ![GitHub stars](https://img.shields.io/github/stars/ysz/nanoClaw?style=social)

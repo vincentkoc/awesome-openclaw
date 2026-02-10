@@ -63,6 +63,7 @@ OpenClaw は、LLM をツール・メッセージチャネル・メモリと接�
 - [jlia0/tinyclaw](https://github.com/jlia0/tinyclaw) - 400行コードで実装されたOpenClaw。 ![GitHub stars](https://img.shields.io/github/stars/jlia0/tinyclaw?style=social)
 - [microclaw/microclaw](https://github.com/microclaw/microclaw) - ツール実行に対応したRust製アシスタント。 ![GitHub stars](https://img.shields.io/github/stars/microclaw/microclaw?style=social)
 - [memovai/mimiclaw](https://github.com/memovai/mimiclaw) - 小型のESP32-S3ボードをパーソナルAIアシスタントに変える。 ![GitHub stars](https://img.shields.io/github/stars/memovai/mimiclaw?style=social)
+- [nearai/ironclaw](https://github.com/nearai/ironclaw) - OpenClawに着想を得たRust実装。プライバシーとセキュリティを重視。 ![GitHub stars](https://img.shields.io/github/stars/nearai/ironclaw?style=social)
 - [puremachinery/carapace](https://github.com/puremachinery/carapace) - サンドボックスとプラグイン隔離に重点を置くセキュリティ志向実装。 ![GitHub stars](https://img.shields.io/github/stars/puremachinery/carapace?style=social)
 - [sipeed/picoclaw](https://github.com/sipeed/picoclaw) - Go実装。10ドル級ハードウェアと10MB未満のRAMで動作。 ![GitHub stars](https://img.shields.io/github/stars/sipeed/picoclaw?style=social)
 - [ysz/nanoClaw](https://github.com/ysz/nanoClaw) - 軽量で安全寄り、迅速セットアップのアシスタント。 ![GitHub stars](https://img.shields.io/github/stars/ysz/nanoClaw?style=social)

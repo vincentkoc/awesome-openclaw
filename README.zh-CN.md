@@ -63,6 +63,7 @@ OpenClaw 是一个开源、自托管的 AI Agent 框架，可将大模型与工�
 - [jlia0/tinyclaw](https://github.com/jlia0/tinyclaw) - 400 行代码实现的 OpenClaw。 ![GitHub stars](https://img.shields.io/github/stars/jlia0/tinyclaw?style=social)
 - [microclaw/microclaw](https://github.com/microclaw/microclaw) - Rust 实现的助手，支持工具执行。 ![GitHub stars](https://img.shields.io/github/stars/microclaw/microclaw?style=social)
 - [memovai/mimiclaw](https://github.com/memovai/mimiclaw) - 将小型 ESP32-S3 开发板变成个人 AI 助手。 ![GitHub stars](https://img.shields.io/github/stars/memovai/mimiclaw?style=social)
+- [nearai/ironclaw](https://github.com/nearai/ironclaw) - 受 OpenClaw 启发的 Rust 实现，聚焦隐私与安全。 ![GitHub stars](https://img.shields.io/github/stars/nearai/ironclaw?style=social)
 - [puremachinery/carapace](https://github.com/puremachinery/carapace) - 安全导向的助手实现，强调沙箱与插件隔离。 ![GitHub stars](https://img.shields.io/github/stars/puremachinery/carapace?style=social)
 - [sipeed/picoclaw](https://github.com/sipeed/picoclaw) - Go 实现，可在 10 美元硬件与 <10MB 内存上运行。 ![GitHub stars](https://img.shields.io/github/stars/sipeed/picoclaw?style=social)
 - [ysz/nanoClaw](https://github.com/ysz/nanoClaw) - 轻量且更注重安全的助手实现，快速上手。 ![GitHub stars](https://img.shields.io/github/stars/ysz/nanoClaw?style=social)

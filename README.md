@@ -55,6 +55,7 @@ OpenClaw is an open-source, self-hosted AI agent framework that connects LLMs to
 - [jlia0/tinyclaw](https://github.com/jlia0/tinyclaw) - OpenClaw in 400 lines of code. ![GitHub stars](https://img.shields.io/github/stars/jlia0/tinyclaw?style=social)
 - [microclaw/microclaw](https://github.com/microclaw/microclaw) - Rust-based assistant with tool execution. ![GitHub stars](https://img.shields.io/github/stars/microclaw/microclaw?style=social)
 - [memovai/mimiclaw](https://github.com/memovai/mimiclaw) - Turns a tiny ESP32-S3 board into a personal AI assistant. ![GitHub stars](https://img.shields.io/github/stars/memovai/mimiclaw?style=social)
+- [nearai/ironclaw](https://github.com/nearai/ironclaw) - OpenClaw-inspired Rust implementation focused on privacy and security. ![GitHub stars](https://img.shields.io/github/stars/nearai/ironclaw?style=social)
 - [puremachinery/carapace](https://github.com/puremachinery/carapace) - Security-focused assistant with sandboxing and plugin isolation. ![GitHub stars](https://img.shields.io/github/stars/puremachinery/carapace?style=social)
 - [sipeed/picoclaw](https://github.com/sipeed/picoclaw) - Go implementation that runs on $10 hardware with <10MB RAM. ![GitHub stars](https://img.shields.io/github/stars/sipeed/picoclaw?style=social)
 - [ysz/nanoClaw](https://github.com/ysz/nanoClaw) - Lightweight secure assistant with rapid setup. ![GitHub stars](https://img.shields.io/github/stars/ysz/nanoClaw?style=social)

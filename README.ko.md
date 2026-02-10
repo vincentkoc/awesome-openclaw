@@ -63,6 +63,7 @@ OpenClaw는 LLM을 도구, 메시징 채널, 메모리 시스템에 연결해 �
 - [jlia0/tinyclaw](https://github.com/jlia0/tinyclaw) - 400줄 코드로 구현한 OpenClaw. ![GitHub stars](https://img.shields.io/github/stars/jlia0/tinyclaw?style=social)
 - [microclaw/microclaw](https://github.com/microclaw/microclaw) - 도구 실행을 지원하는 Rust 기반 어시스턴트. ![GitHub stars](https://img.shields.io/github/stars/microclaw/microclaw?style=social)
 - [memovai/mimiclaw](https://github.com/memovai/mimiclaw) - 작은 ESP32-S3 보드를 개인 AI 어시스턴트로 바꿔주는 구현. ![GitHub stars](https://img.shields.io/github/stars/memovai/mimiclaw?style=social)
+- [nearai/ironclaw](https://github.com/nearai/ironclaw) - OpenClaw에서 영감을 받은 Rust 구현으로 프라이버시와 보안에 초점. ![GitHub stars](https://img.shields.io/github/stars/nearai/ironclaw?style=social)
 - [puremachinery/carapace](https://github.com/puremachinery/carapace) - 샌드박싱과 플러그인 격리를 강조하는 보안 지향 구현. ![GitHub stars](https://img.shields.io/github/stars/puremachinery/carapace?style=social)
 - [sipeed/picoclaw](https://github.com/sipeed/picoclaw) - Go 구현. 10달러급 하드웨어와 10MB 미만 RAM에서 실행. ![GitHub stars](https://img.shields.io/github/stars/sipeed/picoclaw?style=social)
 - [ysz/nanoClaw](https://github.com/ysz/nanoClaw) - 가볍고 안전 지향, 빠른 설정의 어시스턴트. ![GitHub stars](https://img.shields.io/github/stars/ysz/nanoClaw?style=social)
