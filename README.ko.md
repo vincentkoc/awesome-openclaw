@@ -86,7 +86,6 @@ OpenClaw는 LLM을 도구, 메시징 채널, 메모리 시스템에 연결해 �
 ## 큐레이션 모음
 
 - [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) - 실사용 패턴과 도메인별 예시 모음. ![GitHub stars](https://img.shields.io/github/stars/hesamsheikh/awesome-openclaw-usecases?style=social)
-- [jensrot/awesome-openclaw](https://github.com/jensrot/awesome-openclaw) - OpenClaw 생태계 리소스와 툴링 레퍼런스 큐레이션. ![GitHub stars](https://img.shields.io/github/stars/jensrot/awesome-openclaw?style=social)
 - [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - OpenClaw 스킬 대형 커뮤니티 인덱스(리네임 계보 포함). ![GitHub stars](https://img.shields.io/github/stars/VoltAgent/awesome-openclaw-skills?style=social)
 
 <a id="skills-and-skill-indexes"></a>
