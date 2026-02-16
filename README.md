@@ -59,6 +59,7 @@ OpenClaw is an open-source, self-hosted AI agent framework that connects LLMs to
 - [puremachinery/carapace](https://github.com/puremachinery/carapace) - Security-focused assistant with sandboxing and plugin isolation. ![GitHub stars](https://img.shields.io/github/stars/puremachinery/carapace?style=social)
 - [sipeed/picoclaw](https://github.com/sipeed/picoclaw) - Go implementation that runs on $10 hardware with <10MB RAM. ![GitHub stars](https://img.shields.io/github/stars/sipeed/picoclaw?style=social)
 - [ysz/nanoClaw](https://github.com/ysz/nanoClaw) - Lightweight secure assistant with rapid setup. ![GitHub stars](https://img.shields.io/github/stars/ysz/nanoClaw?style=social)
+- [vincenzodomina/supaclaw](https://github.com/vincenzodomina/supaclaw) - A basic version of OpenClaw but built entirely on Supabase. ![GitHub stars](https://img.shields.io/github/stars/vincenzodomina/supaclaw?style=social)
 
 ## Official Resources
 
