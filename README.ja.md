@@ -1,4 +1,4 @@
-# Awesome OpenClaw [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![CI](https://img.shields.io/github/actions/workflow/status/vincentkoc/awesome-openclaw/ci.yml?label=CI)](https://github.com/vincentkoc/awesome-openclaw/actions/workflows/ci.yml) [![Link Check](https://img.shields.io/github/actions/workflow/status/vincentkoc/awesome-openclaw/ci.yml?label=Link%20Check)](https://github.com/vincentkoc/awesome-openclaw/actions/workflows/ci.yml) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+# Awesome OpenClaw [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) [![CI](https://img.shields.io/github/actions/workflow/status/vincentkoc/awesome-openclaw/ci.yml?label=CI)](https://github.com/vincentkoc/awesome-openclaw/actions/workflows/ci.yml) [![Link Check](https://img.shields.io/github/actions/workflow/status/vincentkoc/awesome-openclaw/ci.yml?label=Link%20Check)](https://github.com/vincentkoc/awesome-openclaw/actions/workflows/ci.yml) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 **[English](README.md) | [简体中文](README.zh-CN.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Español](README.es.md) | [Deutsch](README.de.md) | [Français](README.fr.md) | [Русский](README.ru.md)**
 
@@ -41,11 +41,11 @@ OpenClaw は、LLM をツール・メッセージチャネル・メモリと接�
 ## コミュニティチャネル
 
 - [4claw.org](https://www.4claw.org) - エージェントの自律会話向け4chan風イメージボード。
-- [Clawk](https://clawk.ai) - エージェントが短文を投稿・フォロー・いいね・再投稿できるTwitter風SNS。
+- [Clawk](https://www.clawk.ai/) - エージェントが短文を投稿・フォロー・いいね・再投稿できるTwitter風SNS。
 - [GitHub Discussions](https://github.com/openclaw/openclaw/discussions) - ヘルプ、アイデア共有、事例紹介のためのコミュニティ掲示板。 🎖️
 - [GitHub Issues](https://github.com/openclaw/openclaw/issues) - OpenClawコアのバグ報告と機能要望。 🎖️
 - [Lobchan](https://lobchan.ai) - スレッドが短命な、OpenClawエージェント向け匿名イメージボード。
-- [MoltBook](https://moltbook.com) - より広いMoltエコシステムに接続された、エージェント中心のソーシャル。
+- [MoltBook](https://www.moltbook.com/) - より広いMoltエコシステムに接続された、エージェント中心のソーシャル。
 - [Moltbook](https://moltbookai.net) - 人間は閲覧のみ可能な、AIエージェント向けReddit風ソーシャル。
 - [Moltbook Town](https://moltbooktown.xyz) - エージェントが生活・交流する2D/3D仮想空間。
 - [MoltHub](https://moithub.com/) - 成人向けモデルをテーマにしたエージェントプラットフォーム。
@@ -58,7 +58,7 @@ OpenClaw は、LLM をツール・メッセージチャネル・メモリと接�
 
 ## 代替アーキテクチャ
 
-- [gavrielc/nanoclaw](https://github.com/gavrielc/nanoclaw) - OpenClawエコシステム内の軽量な代替アーキテクチャ/実装。 ![GitHub stars](https://img.shields.io/github/stars/gavrielc/nanoclaw?style=social)
+- [gavrielc/nanoclaw](https://github.com/qwibitai/nanoclaw) - OpenClawエコシステム内の軽量な代替アーキテクチャ/実装。 ![GitHub stars](https://img.shields.io/github/stars/qwibitai/nanoclaw?style=social)
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - 超軽量なパーソナルAIアシスタント実装。 ![GitHub stars](https://img.shields.io/github/stars/HKUDS/nanobot?style=social)
 - [jlia0/tinyclaw](https://github.com/jlia0/tinyclaw) - 400行コードで実装されたOpenClaw。 ![GitHub stars](https://img.shields.io/github/stars/jlia0/tinyclaw?style=social)
 - [microclaw/microclaw](https://github.com/microclaw/microclaw) - ツール実行に対応したRust製アシスタント。 ![GitHub stars](https://img.shields.io/github/stars/microclaw/microclaw?style=social)
@@ -75,7 +75,7 @@ OpenClaw は、LLM をツール・メッセージチャネル・メモリと接�
 - [OpenClaw Website](https://openclaw.ai) - 製品とプロジェクトの公式ホームページ。 🎖️
 - [OpenClaw Docs](https://docs.openclaw.ai) - 公式ドキュメントのメインポータル。 🎖️
 - [Getting Started](https://docs.openclaw.ai/start/getting-started) - 最短で動作環境を構築するガイド。 🎖️
-- [Plugin Docs](https://docs.openclaw.ai/plugin) - 公式プラグイン開発/実行ガイド。 🎖️
+- [Plugin Docs](https://docs.openclaw.ai/tools/plugin) - 公式プラグイン開発/実行ガイド。 🎖️
 - [Skills Docs](https://docs.openclaw.ai/tools/skills) - 公式スキルモデルと利用ドキュメント。 🎖️
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - コアアシスタントフレームワークリポジトリ。 🎖️ ![GitHub stars](https://img.shields.io/github/stars/openclaw/openclaw?style=social)
 - [openclaw/clawhub](https://github.com/openclaw/clawhub) - Official skill registry source. 🎖️ ![GitHub stars](https://img.shields.io/github/stars/openclaw/clawhub?style=social)
@@ -93,7 +93,7 @@ OpenClaw は、LLM をツール・メッセージチャネル・メモリと接�
 ## スキルとインデックス
 
 - [BankrBot/openclaw-skills](https://github.com/BankrBot/openclaw-skills) - 自動化と金融に重点を置くコミュニティスキル集。 ![GitHub stars](https://img.shields.io/github/stars/BankrBot/openclaw-skills?style=social)
-- [clawdbot/skills](https://github.com/clawdbot/skills) - 歴史的スキルアーカイブへのレガシー別名パス。 ![GitHub stars](https://img.shields.io/github/stars/clawdbot/skills?style=social)
+- [clawdbot/skills](https://github.com/openclaw/skills) - 歴史的スキルアーカイブへのレガシー別名パス。 ![GitHub stars](https://img.shields.io/github/stars/openclaw/skills?style=social)
 - [jdrhyne/agent-skills](https://github.com/jdrhyne/agent-skills) - エージェント向けスキルパックと再利用可能なワークフロー拡張。 ![GitHub stars](https://img.shields.io/github/stars/jdrhyne/agent-skills?style=social)
 - [lekt9/unbrowse-openclaw](https://github.com/lekt9/unbrowse-openclaw) - 取得したWeb/APIトラフィックからAPIスキルを生成するワークフロー。 ![GitHub stars](https://img.shields.io/github/stars/lekt9/unbrowse-openclaw?style=social)
 - [openclaw/clawhub](https://github.com/openclaw/clawhub) - 公式スキルディレクトリと探索入口。 🎖️ ![GitHub stars](https://img.shields.io/github/stars/openclaw/clawhub?style=social)
@@ -191,10 +191,9 @@ OpenClaw は、LLM をツール・メッセージチャネル・メモリと接�
 - [Agent37](https://www.agent37.com/openclaw) - 高速プロビジョニング対応のマネージド OpenClaw インスタンス。 💵
 - [ClawCloud](https://www.clawcloud.sh/) - 自動更新とバックアップを備えたマネージド OpenClaw ホスティング。 💵
 - [ClawSimple](https://clawsimple.com/en) - シンプルなプランで使えるマネージド OpenClaw ホスティング。 💵
-- [Contabo OpenClaw](https://contabo.com/en/openclaw-hosting/) - 価格が読みやすい VPS ベースの OpenClaw ホスティング。 💵
+- [Contabo OpenClaw](https://contabo.com/en-us/openclaw-hosting/) - 価格が読みやすい VPS ベースの OpenClaw ホスティング。 💵
 - [EasyClaw](https://www.easyclaw.pro/en) - 複数モデル対応のマネージド OpenClaw セットアップ。 💵
 - [GetClawHelp](https://getclawhelp.com/) - あなたの VPS で OpenClaw を構築する有料 1:1 セットアップ支援。 💵
-- [get-open-claw.com](https://www.get-open-claw.com/) - バックアップ/監視オプション付きのマネージド OpenClaw セットアップ。 💵
 - [Kilo Claw](https://kilo.ai/kiloclaw) - SSO と監査機能を備えたマネージド OpenClaw プラットフォーム。 💵
 - [MyClaw.ai](https://myclaw.ai/pricing) - 即時セットアップとバックアップ対応のマネージド OpenClaw インスタンス。 💵
 - [Myclawhost](https://www.myclawhost.com/) - 段階プランを備えたマネージド OpenClaw ホスティング。 💵
@@ -222,7 +221,7 @@ OpenClaw は、LLM をツール・メッセージチャネル・メモリと接�
 - [MoltBunker](https://moltbunker.com) - エージェント向けの安全な永続化/ストレージ層。
 - [MoltCities](https://moltcities.org) - ハンドルと鍵ベースIDを提供するエージェントのID/居住レイヤー。
 - [Moltline](https://www.moltline.com) - 永続ハンドルと受信箱のためのプライベートメッセージング基盤。
-- [Moltroad](https://moltroad.com) - サービス/スキル/デジタル商品を扱うマーケット（マイクロペイメント）。
+- [Moltroad](https://www.moltroad.com/) - サービス/スキル/デジタル商品を扱うマーケット（マイクロペイメント）。
 - [molt-bot/openclaw-trading-assistant](https://github.com/molt-bot/openclaw-trading-assistant) - OpenClaw上に構築されたトレーディング特化アシスタントセットアップ。 ![GitHub stars](https://img.shields.io/github/stars/molt-bot/openclaw-trading-assistant?style=social)
 - [MyDeadInternet.com](https://mydeadinternet.com) - エージェントが記憶断片を寄せ集めて共有アウトプットを作る集合プラットフォーム。
 - [Openwork](https://openwork.bot) - タスク調整とオンチェーン決済のためのエージェント専用労働マーケット。

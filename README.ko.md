@@ -1,4 +1,4 @@
-# Awesome OpenClaw [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![CI](https://img.shields.io/github/actions/workflow/status/vincentkoc/awesome-openclaw/ci.yml?label=CI)](https://github.com/vincentkoc/awesome-openclaw/actions/workflows/ci.yml) [![Link Check](https://img.shields.io/github/actions/workflow/status/vincentkoc/awesome-openclaw/ci.yml?label=Link%20Check)](https://github.com/vincentkoc/awesome-openclaw/actions/workflows/ci.yml) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+# Awesome OpenClaw [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) [![CI](https://img.shields.io/github/actions/workflow/status/vincentkoc/awesome-openclaw/ci.yml?label=CI)](https://github.com/vincentkoc/awesome-openclaw/actions/workflows/ci.yml) [![Link Check](https://img.shields.io/github/actions/workflow/status/vincentkoc/awesome-openclaw/ci.yml?label=Link%20Check)](https://github.com/vincentkoc/awesome-openclaw/actions/workflows/ci.yml) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 **[English](README.md) | [简体中文](README.zh-CN.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Español](README.es.md) | [Deutsch](README.de.md) | [Français](README.fr.md) | [Русский](README.ru.md)**
 
@@ -41,11 +41,11 @@ OpenClaw는 LLM을 도구, 메시징 채널, 메모리 시스템에 연결해 �
 ## 커뮤니티 채널
 
 - [4claw.org](https://www.4claw.org) - 에이전트 자율 대화를 위한 4chan 스타일 이미지보드.
-- [Clawk](https://clawk.ai) - 에이전트가 짧은 글을 게시/팔로우/좋아요/리포스트하는 트위터 스타일 SNS.
+- [Clawk](https://www.clawk.ai/) - 에이전트가 짧은 글을 게시/팔로우/좋아요/리포스트하는 트위터 스타일 SNS.
 - [GitHub Discussions](https://github.com/openclaw/openclaw/discussions) - 도움, 아이디어, 사례 공유를 위한 커뮤니티 토론 포럼. 🎖️
 - [GitHub Issues](https://github.com/openclaw/openclaw/issues) - OpenClaw 코어 버그 리포트 및 기능 요청. 🎖️
 - [Lobchan](https://lobchan.ai) - 스레드가 짧게 유지되는 OpenClaw 에이전트용 익명 이미지보드.
-- [MoltBook](https://moltbook.com) - 더 넓은 Molt 생태계와 연결된 에이전트 중심 소셜 플랫폼.
+- [MoltBook](https://www.moltbook.com/) - 더 넓은 Molt 생태계와 연결된 에이전트 중심 소셜 플랫폼.
 - [Moltbook](https://moltbookai.net) - 사람은 관찰만 가능한 AI 에이전트용 Reddit 스타일 소셜 네트워크.
 - [Moltbook Town](https://moltbooktown.xyz) - 에이전트가 거주하고 상호작용하는 2D/3D 가상 환경.
 - [MoltHub](https://moithub.com/) - 성인 모델 지향의 에이전트 플랫폼.
@@ -58,7 +58,7 @@ OpenClaw는 LLM을 도구, 메시징 채널, 메모리 시스템에 연결해 �
 
 ## 대체 아키텍처
 
-- [gavrielc/nanoclaw](https://github.com/gavrielc/nanoclaw) - OpenClaw 생태계의 경량 대체 아키텍처/구현. ![GitHub stars](https://img.shields.io/github/stars/gavrielc/nanoclaw?style=social)
+- [gavrielc/nanoclaw](https://github.com/qwibitai/nanoclaw) - OpenClaw 생태계의 경량 대체 아키텍처/구현. ![GitHub stars](https://img.shields.io/github/stars/qwibitai/nanoclaw?style=social)
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - 초경량 개인 AI 어시스턴트 구현. ![GitHub stars](https://img.shields.io/github/stars/HKUDS/nanobot?style=social)
 - [jlia0/tinyclaw](https://github.com/jlia0/tinyclaw) - 400줄 코드로 구현한 OpenClaw. ![GitHub stars](https://img.shields.io/github/stars/jlia0/tinyclaw?style=social)
 - [microclaw/microclaw](https://github.com/microclaw/microclaw) - 도구 실행을 지원하는 Rust 기반 어시스턴트. ![GitHub stars](https://img.shields.io/github/stars/microclaw/microclaw?style=social)
@@ -75,7 +75,7 @@ OpenClaw는 LLM을 도구, 메시징 채널, 메모리 시스템에 연결해 �
 - [OpenClaw Website](https://openclaw.ai) - 제품 및 프로젝트 홈페이지. 🎖️
 - [OpenClaw Docs](https://docs.openclaw.ai) - 공식 문서 메인 포털. 🎖️
 - [Getting Started](https://docs.openclaw.ai/start/getting-started) - 가장 빠른 설치/초기 설정 가이드. 🎖️
-- [Plugin Docs](https://docs.openclaw.ai/plugin) - 공식 플러그인 개발 및 런타임 가이드. 🎖️
+- [Plugin Docs](https://docs.openclaw.ai/tools/plugin) - 공식 플러그인 개발 및 런타임 가이드. 🎖️
 - [Skills Docs](https://docs.openclaw.ai/tools/skills) - 공식 스킬 모델 및 사용 문서. 🎖️
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - 코어 어시스턴트 프레임워크 저장소. 🎖️ ![GitHub stars](https://img.shields.io/github/stars/openclaw/openclaw?style=social)
 - [openclaw/clawhub](https://github.com/openclaw/clawhub) - Official skill registry source. 🎖️ ![GitHub stars](https://img.shields.io/github/stars/openclaw/clawhub?style=social)
@@ -93,7 +93,7 @@ OpenClaw는 LLM을 도구, 메시징 채널, 메모리 시스템에 연결해 �
 ## 스킬 및 인덱스
 
 - [BankrBot/openclaw-skills](https://github.com/BankrBot/openclaw-skills) - 자동화와 금융 중심의 커뮤니티 스킬 라이브러리. ![GitHub stars](https://img.shields.io/github/stars/BankrBot/openclaw-skills?style=social)
-- [clawdbot/skills](https://github.com/clawdbot/skills) - 역사적 스킬 아카이브로의 레거시 별칭 경로. ![GitHub stars](https://img.shields.io/github/stars/clawdbot/skills?style=social)
+- [clawdbot/skills](https://github.com/openclaw/skills) - 역사적 스킬 아카이브로의 레거시 별칭 경로. ![GitHub stars](https://img.shields.io/github/stars/openclaw/skills?style=social)
 - [jdrhyne/agent-skills](https://github.com/jdrhyne/agent-skills) - 에이전트 스킬 팩과 재사용 가능한 워크플로 확장. ![GitHub stars](https://img.shields.io/github/stars/jdrhyne/agent-skills?style=social)
 - [lekt9/unbrowse-openclaw](https://github.com/lekt9/unbrowse-openclaw) - 캡처한 웹/API 트래픽으로부터 API 스킬을 생성하는 워크플로. ![GitHub stars](https://img.shields.io/github/stars/lekt9/unbrowse-openclaw?style=social)
 - [openclaw/clawhub](https://github.com/openclaw/clawhub) - 공식 스킬 디렉터리 및 탐색 허브. 🎖️ ![GitHub stars](https://img.shields.io/github/stars/openclaw/clawhub?style=social)
@@ -191,10 +191,9 @@ OpenClaw는 LLM을 도구, 메시징 채널, 메모리 시스템에 연결해 �
 - [Agent37](https://www.agent37.com/openclaw) - 빠른 프로비저닝을 제공하는 관리형 OpenClaw 인스턴스. 💵
 - [ClawCloud](https://www.clawcloud.sh/) - 자동 업데이트/백업을 제공하는 관리형 OpenClaw 호스팅. 💵
 - [ClawSimple](https://clawsimple.com/en) - 간단한 요금제로 제공되는 관리형 OpenClaw 호스팅. 💵
-- [Contabo OpenClaw](https://contabo.com/en/openclaw-hosting/) - 예측 가능한 가격의 VPS 기반 OpenClaw 호스팅 옵션. 💵
+- [Contabo OpenClaw](https://contabo.com/en-us/openclaw-hosting/) - 예측 가능한 가격의 VPS 기반 OpenClaw 호스팅 옵션. 💵
 - [EasyClaw](https://www.easyclaw.pro/en) - 멀티 모델 지원 관리형 OpenClaw 셋업. 💵
 - [GetClawHelp](https://getclawhelp.com/) - 내 VPS에 OpenClaw를 설치해주는 유료 1:1 셋업 지원. 💵
-- [get-open-claw.com](https://www.get-open-claw.com/) - 백업/모니터링 옵션이 있는 관리형 OpenClaw 셋업. 💵
 - [Kilo Claw](https://kilo.ai/kiloclaw) - SSO 및 감사 기능을 제공하는 관리형 OpenClaw 플랫폼. 💵
 - [MyClaw.ai](https://myclaw.ai/pricing) - 즉시 셋업과 백업을 제공하는 관리형 OpenClaw 인스턴스. 💵
 - [Myclawhost](https://www.myclawhost.com/) - 단계별 요금제를 제공하는 관리형 OpenClaw 호스팅. 💵
@@ -222,7 +221,7 @@ OpenClaw는 LLM을 도구, 메시징 채널, 메모리 시스템에 연결해 �
 - [MoltBunker](https://moltbunker.com) - 에이전트용 안전한 영속화/스토리지 레이어.
 - [MoltCities](https://moltcities.org) - 핸들과 키 기반 아이덴티티를 제공하는 에이전트 ID/거주 레이어.
 - [Moltline](https://www.moltline.com) - 영속 핸들과 인박스를 위한 프라이빗 메시징 인프라.
-- [Moltroad](https://moltroad.com) - 서비스/스킬/디지털 상품 마켓플레이스(마이크로페이먼트 플로우).
+- [Moltroad](https://www.moltroad.com/) - 서비스/스킬/디지털 상품 마켓플레이스(마이크로페이먼트 플로우).
 - [molt-bot/openclaw-trading-assistant](https://github.com/molt-bot/openclaw-trading-assistant) - OpenClaw 기반 트레이딩 특화 어시스턴트 셋업. ![GitHub stars](https://img.shields.io/github/stars/molt-bot/openclaw-trading-assistant?style=social)
 - [MyDeadInternet.com](https://mydeadinternet.com) - 에이전트가 메모리 조각을 기여해 공유 산출물을 만드는 집단 플랫폼.
 - [Openwork](https://openwork.bot) - 태스크 협업과 온체인 정산을 위한 에이전트 전용 노동 마켓.

@@ -1,4 +1,4 @@
-# Awesome OpenClaw [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![CI](https://img.shields.io/github/actions/workflow/status/vincentkoc/awesome-openclaw/ci.yml?label=CI)](https://github.com/vincentkoc/awesome-openclaw/actions/workflows/ci.yml) [![Link Check](https://img.shields.io/github/actions/workflow/status/vincentkoc/awesome-openclaw/ci.yml?label=Link%20Check)](https://github.com/vincentkoc/awesome-openclaw/actions/workflows/ci.yml) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+# Awesome OpenClaw [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) [![CI](https://img.shields.io/github/actions/workflow/status/vincentkoc/awesome-openclaw/ci.yml?label=CI)](https://github.com/vincentkoc/awesome-openclaw/actions/workflows/ci.yml) [![Link Check](https://img.shields.io/github/actions/workflow/status/vincentkoc/awesome-openclaw/ci.yml?label=Link%20Check)](https://github.com/vincentkoc/awesome-openclaw/actions/workflows/ci.yml) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 **[English](README.md) | [简体中文](README.zh-CN.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Español](README.es.md) | [Deutsch](README.de.md) | [Français](README.fr.md) | [Русский](README.ru.md)**
 
@@ -35,11 +35,11 @@ OpenClaw is an open-source, self-hosted AI agent framework that connects LLMs to
 ## Community Channels
 
 - [4claw.org](https://www.4claw.org) - 4chan-style image board for autonomous agent conversations.
-- [Clawk](https://clawk.ai) - Twitter-style social network where agents post, follow, like, and repost short-form updates.
+- [Clawk](https://www.clawk.ai/) - Twitter-style social network where agents post, follow, like, and repost short-form updates.
 - [GitHub Discussions](https://github.com/openclaw/openclaw/discussions) - Community discussion forum for help, ideas, and showcase posts. 🎖️
 - [GitHub Issues](https://github.com/openclaw/openclaw/issues) - Bug reports and feature requests for OpenClaw core. 🎖️
 - [Lobchan](https://lobchan.ai) - Anonymous imageboard-style discussion platform for OpenClaw agents with ephemeral threads.
-- [MoltBook](https://moltbook.com) - Agent-first social platform connected to the broader Molt ecosystem.
+- [MoltBook](https://www.moltbook.com/) - Agent-first social platform connected to the broader Molt ecosystem.
 - [Moltbook](https://moltbookai.net) - Reddit-style social network for AI agents where humans can observe agent-to-agent activity.
 - [Moltbook Town](https://moltbooktown.xyz) - 2D/3D virtual environment where agents live and interact.
 - [MoltHub](https://moithub.com/) - Adult-model-oriented agent platform.
@@ -50,7 +50,7 @@ OpenClaw is an open-source, self-hosted AI agent framework that connects LLMs to
 
 ## Alternative Architectures
 
-- [gavrielc/nanoclaw](https://github.com/gavrielc/nanoclaw) - Lightweight alternative architecture/framework in the OpenClaw ecosystem. ![GitHub stars](https://img.shields.io/github/stars/gavrielc/nanoclaw?style=social)
+- [gavrielc/nanoclaw](https://github.com/qwibitai/nanoclaw) - Lightweight alternative architecture/framework in the OpenClaw ecosystem. ![GitHub stars](https://img.shields.io/github/stars/qwibitai/nanoclaw?style=social)
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Ultra-lightweight personal AI assistant implementation. ![GitHub stars](https://img.shields.io/github/stars/HKUDS/nanobot?style=social)
 - [jlia0/tinyclaw](https://github.com/jlia0/tinyclaw) - OpenClaw in 400 lines of code. ![GitHub stars](https://img.shields.io/github/stars/jlia0/tinyclaw?style=social)
 - [microclaw/microclaw](https://github.com/microclaw/microclaw) - Rust-based assistant with tool execution. ![GitHub stars](https://img.shields.io/github/stars/microclaw/microclaw?style=social)
@@ -65,7 +65,7 @@ OpenClaw is an open-source, self-hosted AI agent framework that connects LLMs to
 - [OpenClaw Website](https://openclaw.ai) - Product and project homepage. 🎖️
 - [OpenClaw Docs](https://docs.openclaw.ai) - Main documentation portal. 🎖️
 - [Getting Started](https://docs.openclaw.ai/start/getting-started) - Fastest path to a working setup. 🎖️
-- [Plugin Docs](https://docs.openclaw.ai/plugin) - Official plugin authoring and runtime guide. 🎖️
+- [Plugin Docs](https://docs.openclaw.ai/tools/plugin) - Official plugin authoring and runtime guide. 🎖️
 - [Skills Docs](https://docs.openclaw.ai/tools/skills) - Official skill model and usage docs. 🎖️
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Core assistant framework repository. 🎖️ ![GitHub stars](https://img.shields.io/github/stars/openclaw/openclaw?style=social)
 - [openclaw/clawhub](https://github.com/openclaw/clawhub) - Official skill registry source. 🎖️ ![GitHub stars](https://img.shields.io/github/stars/openclaw/clawhub?style=social)
@@ -79,7 +79,7 @@ OpenClaw is an open-source, self-hosted AI agent framework that connects LLMs to
 ## Skills and Skill Indexes
 
 - [BankrBot/openclaw-skills](https://github.com/BankrBot/openclaw-skills) - Community skill library focused on automation and finance. ![GitHub stars](https://img.shields.io/github/stars/BankrBot/openclaw-skills?style=social)
-- [clawdbot/skills](https://github.com/clawdbot/skills) - Legacy alias path to historical skill archive content. ![GitHub stars](https://img.shields.io/github/stars/clawdbot/skills?style=social)
+- [clawdbot/skills](https://github.com/openclaw/skills) - Legacy alias path to historical skill archive content. ![GitHub stars](https://img.shields.io/github/stars/openclaw/skills?style=social)
 - [jdrhyne/agent-skills](https://github.com/jdrhyne/agent-skills) - Agent skill packs and reusable workflow extensions. ![GitHub stars](https://img.shields.io/github/stars/jdrhyne/agent-skills?style=social)
 - [lekt9/unbrowse-openclaw](https://github.com/lekt9/unbrowse-openclaw) - API-skill generation workflow from captured web/API traffic. ![GitHub stars](https://img.shields.io/github/stars/lekt9/unbrowse-openclaw?style=social)
 - [openclaw/clawhub](https://github.com/openclaw/clawhub) - Official skill directory and discovery surface. 🎖️ ![GitHub stars](https://img.shields.io/github/stars/openclaw/clawhub?style=social)
@@ -165,10 +165,9 @@ These providers handle the setup for you: no Docker, no terminal, no DevOps requ
 - [Agent37](https://www.agent37.com/openclaw) - Managed OpenClaw instance with near-instant provisioning. 💵
 - [ClawCloud](https://www.clawcloud.sh/) - Managed OpenClaw hosting with auto-updates and backups. 💵
 - [ClawSimple](https://clawsimple.com/en) - Managed OpenClaw hosting with simple plans and setup. 💵
-- [Contabo OpenClaw](https://contabo.com/en/openclaw-hosting/) - VPS-based OpenClaw hosting option with predictable pricing. 💵
+- [Contabo OpenClaw](https://contabo.com/en-us/openclaw-hosting/) - VPS-based OpenClaw hosting option with predictable pricing. 💵
 - [EasyClaw](https://www.easyclaw.pro/en) - Managed OpenClaw setup with multi-model support. 💵
 - [GetClawHelp](https://getclawhelp.com/) - One-time 1-on-1 assisted setup for OpenClaw on your VPS. 💵
-- [get-open-claw.com](https://www.get-open-claw.com/) - Managed OpenClaw setup with backups and monitoring options. 💵
 - [Kilo Claw](https://kilo.ai/kiloclaw) - Managed OpenClaw platform with SSO and audit features. 💵
 - [MyClaw.ai](https://myclaw.ai/pricing) - Managed OpenClaw instance with instant setup and backups. 💵
 - [Myclawhost](https://www.myclawhost.com/) - Managed OpenClaw hosting with tiered plans. 💵
@@ -196,7 +195,7 @@ These providers handle the setup for you: no Docker, no terminal, no DevOps requ
 - [MoltBunker](https://moltbunker.com) - Secure persistence and storage layer for agents.
 - [MoltCities](https://moltcities.org) - Identity and residence layer with handles and key-based identity.
 - [Moltline](https://www.moltline.com) - Private messaging infrastructure for persistent handles and inboxes.
-- [Moltroad](https://moltroad.com) - Marketplace for services, skills, and digital goods with micropayment flows.
+- [Moltroad](https://www.moltroad.com/) - Marketplace for services, skills, and digital goods with micropayment flows.
 - [molt-bot/openclaw-trading-assistant](https://github.com/molt-bot/openclaw-trading-assistant) - Trading-focused assistant setup built on OpenClaw. ![GitHub stars](https://img.shields.io/github/stars/molt-bot/openclaw-trading-assistant?style=social)
 - [MyDeadInternet.com](https://mydeadinternet.com) - Collective platform where agents contribute memory fragments to shared outputs.
 - [Openwork](https://openwork.bot) - Agent-only labor marketplace for autonomous task coordination and on-chain settlement.

@@ -1,4 +1,4 @@
-# Awesome OpenClaw [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![CI](https://img.shields.io/github/actions/workflow/status/vincentkoc/awesome-openclaw/ci.yml?label=CI)](https://github.com/vincentkoc/awesome-openclaw/actions/workflows/ci.yml) [![Link Check](https://img.shields.io/github/actions/workflow/status/vincentkoc/awesome-openclaw/ci.yml?label=Link%20Check)](https://github.com/vincentkoc/awesome-openclaw/actions/workflows/ci.yml) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+# Awesome OpenClaw [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) [![CI](https://img.shields.io/github/actions/workflow/status/vincentkoc/awesome-openclaw/ci.yml?label=CI)](https://github.com/vincentkoc/awesome-openclaw/actions/workflows/ci.yml) [![Link Check](https://img.shields.io/github/actions/workflow/status/vincentkoc/awesome-openclaw/ci.yml?label=Link%20Check)](https://github.com/vincentkoc/awesome-openclaw/actions/workflows/ci.yml) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 **[English](README.md) | [简体中文](README.zh-CN.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Español](README.es.md) | [Deutsch](README.de.md) | [Français](README.fr.md) | [Русский](README.ru.md)**
 
@@ -41,11 +41,11 @@ OpenClaw 是一个开源、自托管的 AI Agent 框架，可将大模型与工�
 ## 社区渠道
 
 - [4claw.org](https://www.4claw.org) - 4chan 风格的匿名板块，用于 Agent 自主对话。
-- [Clawk](https://clawk.ai) - 类 Twitter 的社交网络，Agent 可发布、关注、点赞与转发短内容。
+- [Clawk](https://www.clawk.ai/) - 类 Twitter 的社交网络，Agent 可发布、关注、点赞与转发短内容。
 - [GitHub Discussions](https://github.com/openclaw/openclaw/discussions) - 用于求助、交流想法和展示成果的社区讨论区。 🎖️
 - [GitHub Issues](https://github.com/openclaw/openclaw/issues) - OpenClaw 核心的缺陷反馈与功能请求入口。 🎖️
 - [Lobchan](https://lobchan.ai) - 面向 OpenClaw Agent 的匿名 imageboard 讨论平台，线程较为短暂。
-- [MoltBook](https://moltbook.com) - 以 Agent 为中心的社交平台，连接更广泛的 Molt 生态。
+- [MoltBook](https://www.moltbook.com/) - 以 Agent 为中心的社交平台，连接更广泛的 Molt 生态。
 - [Moltbook](https://moltbookai.net) - 类 Reddit 的 AI Agent 社交网络，人类仅可观察 Agent 之间互动。
 - [Moltbook Town](https://moltbooktown.xyz) - 2D/3D 虚拟空间，Agent 在其中生活与互动。
 - [MoltHub](https://moithub.com/) - 面向成人模特主题的 Agent 平台。
@@ -58,7 +58,7 @@ OpenClaw 是一个开源、自托管的 AI Agent 框架，可将大模型与工�
 
 ## 替代架构
 
-- [gavrielc/nanoclaw](https://github.com/gavrielc/nanoclaw) - OpenClaw 生态中的轻量替代架构/实现。 ![GitHub stars](https://img.shields.io/github/stars/gavrielc/nanoclaw?style=social)
+- [gavrielc/nanoclaw](https://github.com/qwibitai/nanoclaw) - OpenClaw 生态中的轻量替代架构/实现。 ![GitHub stars](https://img.shields.io/github/stars/qwibitai/nanoclaw?style=social)
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - 超轻量个人 AI 助手实现。 ![GitHub stars](https://img.shields.io/github/stars/HKUDS/nanobot?style=social)
 - [jlia0/tinyclaw](https://github.com/jlia0/tinyclaw) - 400 行代码实现的 OpenClaw。 ![GitHub stars](https://img.shields.io/github/stars/jlia0/tinyclaw?style=social)
 - [microclaw/microclaw](https://github.com/microclaw/microclaw) - Rust 实现的助手，支持工具执行。 ![GitHub stars](https://img.shields.io/github/stars/microclaw/microclaw?style=social)
@@ -75,7 +75,7 @@ OpenClaw 是一个开源、自托管的 AI Agent 框架，可将大模型与工�
 - [OpenClaw Website](https://openclaw.ai) - 产品与项目官网主页。 🎖️
 - [OpenClaw Docs](https://docs.openclaw.ai) - 官方文档主入口。 🎖️
 - [Getting Started](https://docs.openclaw.ai/start/getting-started) - 最快上手可用环境的指南。 🎖️
-- [Plugin Docs](https://docs.openclaw.ai/plugin) - 官方插件开发与运行指南。 🎖️
+- [Plugin Docs](https://docs.openclaw.ai/tools/plugin) - 官方插件开发与运行指南。 🎖️
 - [Skills Docs](https://docs.openclaw.ai/tools/skills) - 官方技能模型与使用文档。 🎖️
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - 核心助手框架仓库。 🎖️ ![GitHub stars](https://img.shields.io/github/stars/openclaw/openclaw?style=social)
 - [openclaw/clawhub](https://github.com/openclaw/clawhub) - Official skill registry source. 🎖️ ![GitHub stars](https://img.shields.io/github/stars/openclaw/clawhub?style=social)
@@ -93,7 +93,7 @@ OpenClaw 是一个开源、自托管的 AI Agent 框架，可将大模型与工�
 ## 技能与索引
 
 - [BankrBot/openclaw-skills](https://github.com/BankrBot/openclaw-skills) - 聚焦自动化与金融场景的社区技能库。 ![GitHub stars](https://img.shields.io/github/stars/BankrBot/openclaw-skills?style=social)
-- [clawdbot/skills](https://github.com/clawdbot/skills) - 历史技能归档的旧别名路径。 ![GitHub stars](https://img.shields.io/github/stars/clawdbot/skills?style=social)
+- [clawdbot/skills](https://github.com/openclaw/skills) - 历史技能归档的旧别名路径。 ![GitHub stars](https://img.shields.io/github/stars/openclaw/skills?style=social)
 - [jdrhyne/agent-skills](https://github.com/jdrhyne/agent-skills) - Agent 技能包与可复用工作流扩展。 ![GitHub stars](https://img.shields.io/github/stars/jdrhyne/agent-skills?style=social)
 - [lekt9/unbrowse-openclaw](https://github.com/lekt9/unbrowse-openclaw) - 基于抓取到的 Web/API 流量生成 API 技能的工作流。 ![GitHub stars](https://img.shields.io/github/stars/lekt9/unbrowse-openclaw?style=social)
 - [openclaw/clawhub](https://github.com/openclaw/clawhub) - 官方技能目录与发现入口。 🎖️ ![GitHub stars](https://img.shields.io/github/stars/openclaw/clawhub?style=social)
@@ -191,10 +191,9 @@ OpenClaw 是一个开源、自托管的 AI Agent 框架，可将大模型与工�
 - [Agent37](https://www.agent37.com/openclaw) - 托管 OpenClaw 实例，支持快速开通。 💵
 - [ClawCloud](https://www.clawcloud.sh/) - 托管 OpenClaw，提供自动更新与备份。 💵
 - [ClawSimple](https://clawsimple.com/en) - 托管 OpenClaw，提供简洁套餐与快速配置。 💵
-- [Contabo OpenClaw](https://contabo.com/en/openclaw-hosting/) - 基于 VPS 的 OpenClaw 托管方案，定价可预期。 💵
+- [Contabo OpenClaw](https://contabo.com/en-us/openclaw-hosting/) - 基于 VPS 的 OpenClaw 托管方案，定价可预期。 💵
 - [EasyClaw](https://www.easyclaw.pro/en) - 托管 OpenClaw 配置，支持多模型。 💵
 - [GetClawHelp](https://getclawhelp.com/) - 付费 1 对 1 指导，在你的 VPS 上完成 OpenClaw 部署。 💵
-- [get-open-claw.com](https://www.get-open-claw.com/) - 托管 OpenClaw 配置，含备份与监控选项。 💵
 - [Kilo Claw](https://kilo.ai/kiloclaw) - 托管 OpenClaw 平台，支持 SSO 与审计能力。 💵
 - [MyClaw.ai](https://myclaw.ai/pricing) - 托管 OpenClaw 实例，支持即刻开通与备份。 💵
 - [Myclawhost](https://www.myclawhost.com/) - 托管 OpenClaw，提供分层套餐。 💵
@@ -222,7 +221,7 @@ OpenClaw 是一个开源、自托管的 AI Agent 框架，可将大模型与工�
 - [MoltBunker](https://moltbunker.com) - Agent 的安全持久化与存储层。
 - [MoltCities](https://moltcities.org) - 身份与居住层：handle 与基于密钥的身份。
 - [Moltline](https://www.moltline.com) - 私信基础设施：持久 handle 与收件箱。
-- [Moltroad](https://moltroad.com) - 服务/技能/数字商品的市场（含微支付流程）。
+- [Moltroad](https://www.moltroad.com/) - 服务/技能/数字商品的市场（含微支付流程）。
 - [molt-bot/openclaw-trading-assistant](https://github.com/molt-bot/openclaw-trading-assistant) - 基于 OpenClaw 的交易型助手配置。 ![GitHub stars](https://img.shields.io/github/stars/molt-bot/openclaw-trading-assistant?style=social)
 - [MyDeadInternet.com](https://mydeadinternet.com) - 集合平台：Agent 贡献记忆片段生成共享产出。
 - [Openwork](https://openwork.bot) - Agent 专属劳务市场：任务协作与链上结算。
