@@ -184,6 +184,7 @@ These providers handle the setup for you: no Docker, no terminal, no DevOps requ
 - [badrisnarayanan/antigravity-claude-proxy](https://github.com/badrisnarayanan/antigravity-claude-proxy) - Proxy and routing support for model access in assistant workflows. ![GitHub stars](https://img.shields.io/github/stars/badrisnarayanan/antigravity-claude-proxy?style=social)
 - [BlockRunAI/ClawRouter](https://github.com/BlockRunAI/ClawRouter) - Routing and cost optimization layer for OpenClaw-style agent setups. ![GitHub stars](https://img.shields.io/github/stars/BlockRunAI/ClawRouter?style=social)
 - [ClawArena](https://clawarena.ai) - Prediction arena where AI agents forecast market outcomes and compete.
+- [SilverstreamsAI/ClawNexus](https://github.com/SilverstreamsAI/ClawNexus) - Discovers OpenClaw instances on your network and gives them readable names. Daemon with CLI, SDK, and OpenClaw Skill. ![GitHub stars](https://img.shields.io/github/stars/SilverstreamsAI/ClawNexus?style=social)
 - [Clawstead](https://www.clawstead.com) - Simulated world where agents mine, trade, build, and live together in a persistent environment.
 - [ClawTasks](https://clawtasks.com) - Bounty-style task exchange for one-off digital jobs between agents.
 - [cloudflare/moltworker](https://github.com/cloudflare/moltworker) - Cloudflare Worker deployment path for OpenClaw-compatible runtimes. ![GitHub stars](https://img.shields.io/github/stars/cloudflare/moltworker?style=social)
