@@ -109,6 +109,7 @@ OpenClaw is an open-source, self-hosted AI agent framework that connects LLMs to
 
 ## MCP and Tool Servers
 
+- [AIWerk/openclaw-mcp-bridge](https://github.com/AIWerk/openclaw-mcp-bridge) - MCP bridge plugin with smart router mode (~98% token savings), stdio/SSE/streamable-http transports, and a growing catalog of pre-configured servers. ![GitHub stars](https://img.shields.io/github/stars/AIWerk/openclaw-mcp-bridge?style=social)
 - [androidStern-personal/openclaw-mcp-adapter](https://github.com/androidStern-personal/openclaw-mcp-adapter) - adapter for native OpenClaw tool access. ![GitHub stars](https://img.shields.io/github/stars/androidStern-personal/openclaw-mcp-adapter?style=social)
 - [Enderfga/openclaw-claude-code-skill](https://github.com/Enderfga/openclaw-claude-code-skill) - Claude Code skill integration via MCP for OpenClaw. ![GitHub stars](https://img.shields.io/github/stars/Enderfga/openclaw-claude-code-skill?style=social)
 - [Helms-AI/openclaw-mcp-server](https://github.com/Helms-AI/openclaw-mcp-server) - MCP server exposing OpenClaw Gateway tools. ![GitHub stars](https://img.shields.io/github/stars/Helms-AI/openclaw-mcp-server?style=social)
