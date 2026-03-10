@@ -89,6 +89,7 @@ OpenClaw is an open-source, self-hosted AI agent framework that connects LLMs to
 - [runkids/skillshare](https://github.com/runkids/skillshare) - Share and synchronize skill packs across AI coding tools. ![GitHub stars](https://img.shields.io/github/stars/runkids/skillshare?style=social)
 - [Skills.sh OpenClaw Directory](https://skills.sh/openclaw/openclaw) - Third-party OpenClaw skill discovery directory.
 - [Virtual-Protocol/openclaw-acp](https://github.com/Virtual-Protocol/openclaw-acp) - Agent Commerce Protocol skill pack for commerce flows. ![GitHub stars](https://img.shields.io/github/stars/Virtual-Protocol/openclaw-acp?style=social)
+- [Xquik-dev/x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper) - X API & Twitter scraper skill for AI coding agents with 40+ tools — tweet search, user lookup, follower extraction, engagement metrics, giveaway draws, trending topics, and write actions. ![GitHub stars](https://img.shields.io/github/stars/Xquik-dev/x-twitter-scraper?style=social)
 
 ## Plugins and Integrations
 
