@@ -106,6 +106,7 @@ OpenClaw is an open-source, self-hosted AI agent framework that connects LLMs to
 - [rickybloomfield/OuraClaw](https://github.com/rickybloomfield/OuraClaw) - Oura integration plugin for readiness, sleep, and activity summaries. ![GitHub stars](https://img.shields.io/github/stars/rickybloomfield/OuraClaw?style=social)
 - [soimy/openclaw-channel-dingtalk](https://github.com/soimy/openclaw-channel-dingtalk) - DingTalk enterprise channel plugin with stream support. ![GitHub stars](https://img.shields.io/github/stars/soimy/openclaw-channel-dingtalk?style=social)
 - [techartdev/OpenClawHomeAssistant](https://github.com/techartdev/OpenClawHomeAssistant) - Home Assistant add-on with entity-level integration. ![GitHub stars](https://img.shields.io/github/stars/techartdev/OpenClawHomeAssistant?style=social)
+- [Xquik-dev/tweetclaw](https://github.com/Xquik-dev/tweetclaw) - X/Twitter automation plugin for posting tweets, replying, liking, retweeting, following, and DMs via Xquik. ![GitHub stars](https://img.shields.io/github/stars/Xquik-dev/tweetclaw?style=social)
 
 ## MCP and Tool Servers
 
