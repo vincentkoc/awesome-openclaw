@@ -232,3 +232,7 @@ MIT. See [`LICENSE`](LICENSE).
 ---
 
 Made with 💙 by <a href="https://github.com/vincentkoc">Vincent Koc</a> · <a href="LICENSE">MIT</a>
+
+### 晴晴终极套件
+- [wd041216-bit/openclaw-ultimate-suite](https://github.com/wd041216-bit/openclaw-ultimate-suite) - OpenClaw 终极技能整合套件 - 29 个技能一站式整合 × 61 个专业 Agent × 安全内置 × 自动激活 × 飞书集成
+
