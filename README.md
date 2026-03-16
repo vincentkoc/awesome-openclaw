@@ -155,6 +155,7 @@ OpenClaw is an open-source, self-hosted AI agent framework that connects LLMs to
 - [rdsthomas/mission-control](https://github.com/rdsthomas/mission-control) - Kanban dashboard for task management in OpenClaw workflows. ![GitHub stars](https://img.shields.io/github/stars/rdsthomas/mission-control?style=social)
 - [refly-ai/refly](https://github.com/refly-ai/refly) - Skills and workflow builder ecosystem with overlap for agent tooling. ![GitHub stars](https://img.shields.io/github/stars/refly-ai/refly?style=social)
 - [shanselman/openclaw-windows-hub](https://github.com/shanselman/openclaw-windows-hub) - Windows companion hub for desktop intergration. ![GitHub stars](https://img.shields.io/github/stars/shanselman/openclaw-windows-hub?style=social)
+- [cheapestinference/silos](https://github.com/cheapestinference/silos) - Open-source dashboard for OpenClaw — manage agents, sessions, channels (WhatsApp, Telegram, Discord, Slack), cron jobs, and analytics. React/TypeScript, i18n, dark/light theme. Also available as managed hosting at [silosplatform.com](https://silosplatform.com). ![GitHub stars](https://img.shields.io/github/stars/cheapestinference/silos?style=social)
 - [Unbrowse](https://www.unbrowse.ai/) - Platform for converting browser workflows into API integrations and agent skills.
 
 ## Deployment and Operations
