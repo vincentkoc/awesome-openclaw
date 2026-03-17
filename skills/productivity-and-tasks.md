@@ -1,0 +1,1 @@
+- [openclaw-ultimate-suite](https://github.com/wd041216-bit/openclaw-ultimate-suite) - **晴晴终极套件** - 30 个技能一站式整合 × 61 个专业 Agent × 自动激活 × 多模型并行。适合开发者、产品经理、运营人员、研究人员。

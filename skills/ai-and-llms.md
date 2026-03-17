@@ -1,0 +1,1 @@
+- [openclaw-ultimate-suite](https://github.com/wd041216-bit/openclaw-ultimate-suite) - **晴晴终极套件** - 30 个技能一站式整合 × 61 个专业 Agent × 自动激活 × 多模型并行。自动识别复杂任务，分解为子任务，并行分配给最优模型，2.7x 速度提升。包含办公效率、生活助手、社交媒体、信息收集、AI 代理、安全守护全类别。
