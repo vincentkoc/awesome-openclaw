@@ -120,6 +120,7 @@ OpenClaw — это open-source фреймворк self-hosted AI-агентов
 - [MemTensor/MemOS-Cloud-OpenClaw-Plugin](https://github.com/MemTensor/MemOS-Cloud-OpenClaw-Plugin) - Облачная память для постоянного воспоминания контекста. ![GitHub stars](https://img.shields.io/github/stars/MemTensor/MemOS-Cloud-OpenClaw-Plugin?style=social)
 - [rickybloomfield/OuraClaw](https://github.com/rickybloomfield/OuraClaw) - Плагин интеграции Oura: сон, readiness и сводки активности. ![GitHub stars](https://img.shields.io/github/stars/rickybloomfield/OuraClaw?style=social)
 - [soimy/openclaw-channel-dingtalk](https://github.com/soimy/openclaw-channel-dingtalk) - Плагин корпоративного канала DingTalk с поддержкой стриминга. ![GitHub stars](https://img.shields.io/github/stars/soimy/openclaw-channel-dingtalk?style=social)
+- [teyou/openclaw-googlechatpubsub-plugin](https://github.com/teyou/openclaw-googlechatpubsub-plugin) - Google Chat channel plugin using Pub/Sub push subscriptions for reliable message delivery without public webhook endpoints. ![GitHub stars](https://img.shields.io/github/stars/teyou/openclaw-googlechatpubsub-plugin?style=social)
 - [techartdev/OpenClawHomeAssistant](https://github.com/techartdev/OpenClawHomeAssistant) - Дополнение Home Assistant с интеграцией на уровне сущностей. ![GitHub stars](https://img.shields.io/github/stars/techartdev/OpenClawHomeAssistant?style=social)
 
 <a id="mcp-and-tool-servers"></a>

@@ -120,6 +120,7 @@ OpenClaw ist ein Open-Source-, selbst gehostetes KI-Agenten-Framework, das LLMs 
 - [MemTensor/MemOS-Cloud-OpenClaw-Plugin](https://github.com/MemTensor/MemOS-Cloud-OpenClaw-Plugin) - Cloud-Speicher fuer persistentes Erinnern. ![GitHub stars](https://img.shields.io/github/stars/MemTensor/MemOS-Cloud-OpenClaw-Plugin?style=social)
 - [rickybloomfield/OuraClaw](https://github.com/rickybloomfield/OuraClaw) - Oura-Integration fuer Readiness-, Schlaf- und Aktivitaets-Summaries. ![GitHub stars](https://img.shields.io/github/stars/rickybloomfield/OuraClaw?style=social)
 - [soimy/openclaw-channel-dingtalk](https://github.com/soimy/openclaw-channel-dingtalk) - DingTalk-Enterprise-Channel-Plugin mit Stream-Unterstuetzung. ![GitHub stars](https://img.shields.io/github/stars/soimy/openclaw-channel-dingtalk?style=social)
+- [teyou/openclaw-googlechatpubsub-plugin](https://github.com/teyou/openclaw-googlechatpubsub-plugin) - Google Chat channel plugin using Pub/Sub push subscriptions for reliable message delivery without public webhook endpoints. ![GitHub stars](https://img.shields.io/github/stars/teyou/openclaw-googlechatpubsub-plugin?style=social)
 - [techartdev/OpenClawHomeAssistant](https://github.com/techartdev/OpenClawHomeAssistant) - Home-Assistant-Add-on mit Integration auf Entitaetsebene. ![GitHub stars](https://img.shields.io/github/stars/techartdev/OpenClawHomeAssistant?style=social)
 
 <a id="mcp-and-tool-servers"></a>
