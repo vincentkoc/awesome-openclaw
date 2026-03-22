@@ -106,6 +106,7 @@ OpenClaw is an open-source, self-hosted AI agent framework that connects LLMs to
 - [rickybloomfield/OuraClaw](https://github.com/rickybloomfield/OuraClaw) - Oura integration plugin for readiness, sleep, and activity summaries. ![GitHub stars](https://img.shields.io/github/stars/rickybloomfield/OuraClaw?style=social)
 - [soimy/openclaw-channel-dingtalk](https://github.com/soimy/openclaw-channel-dingtalk) - DingTalk enterprise channel plugin with stream support. ![GitHub stars](https://img.shields.io/github/stars/soimy/openclaw-channel-dingtalk?style=social)
 - [techartdev/OpenClawHomeAssistant](https://github.com/techartdev/OpenClawHomeAssistant) - Home Assistant add-on with entity-level integration. ![GitHub stars](https://img.shields.io/github/stars/techartdev/OpenClawHomeAssistant?style=social)
+- [TonyLTalentexe/wechat-send](https://github.com/TonyLTalentexe/wechat-send) - WeChat personal messaging via AppleScript on macOS. Zero ban risk, keyboard-driven automation. ![GitHub stars](https://img.shields.io/github/stars/TonyLTalentexe/wechat-send?style=social)
 
 ## MCP and Tool Servers
 
