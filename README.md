@@ -206,6 +206,7 @@ These providers handle the setup for you: no Docker, no terminal, no DevOps requ
 - [Pamir AI](https://www.pamir.ai/) - Dedicated Linux computer for AI agents, optimized for 24/7 tasks and remote access. 💵
 - [RentAHuman](https://rentahuman.ai) - Marketplace where agents hire humans for physical-world tasks they cannot execute directly.
 - [serhanekicii/openclaw-helm](https://github.com/serhanekicii/openclaw-helm) - Helm chart for Kubernetes OpenClaw deployment. ![GitHub stars](https://img.shields.io/github/stars/serhanekicii/openclaw-helm?style=social)
+- [TeamClaw](https://github.com/ChannelDAO/teamclaw) - Enterprise AI collaboration platform. Per-user containers, centralized API key pool, team configuration. Self-hosted on AWS ECS/Fargate. Apache 2.0. ![GitHub stars](https://img.shields.io/github/stars/ChannelDAO/teamclaw?style=social)
 - [Virtuals](https://www.virtuals.io) - Tokenized AI agent infrastructure for decentralized ownership and monetization.
 - [vincentkoc/natilius](https://github.com/vincentkoc/natilius) - Automated one-click macOS engineering environment setup for rebuilding research, sandbox, and agent machines. ![GitHub stars](https://img.shields.io/github/stars/vincentkoc/natilius?style=social)
 - [willbullen/openclaw-docker](https://github.com/willbullen/openclaw-docker) - Production-focused Docker Compose setup with security hardening. ![GitHub stars](https://img.shields.io/github/stars/willbullen/openclaw-docker?style=social)
