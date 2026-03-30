@@ -86,6 +86,7 @@ OpenClaw es un framework de agentes de IA, open source y autoalojado, que conect
 ## Colecciones curadas
 
 - [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) - Patrones de uso reales y ejemplos por dominio. ![GitHub stars](https://img.shields.io/github/stars/hesamsheikh/awesome-openclaw-usecases?style=social)
+- [TravisLeeeeee/awesome-openclaw-personas](https://github.com/TravisLeeeeee/awesome-openclaw-personas) - 214+ paquetes de persona OpenClaw listos para producción en 34 categorías con configuraciones completas de SOUL.md, AGENTS.md y SKILL.md. [![GitHub stars](https://img.shields.io/github/stars/TravisLeeeeee/awesome-openclaw-personas?style=social)](https://github.com/TravisLeeeeee/awesome-openclaw-personas)
 - [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - Indice comunitario principal de skills de OpenClaw (con contexto de renombrados). ![GitHub stars](https://img.shields.io/github/stars/VoltAgent/awesome-openclaw-skills?style=social)
 
 <a id="skills-and-skill-indexes"></a>

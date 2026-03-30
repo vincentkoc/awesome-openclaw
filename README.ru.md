@@ -86,6 +86,7 @@ OpenClaw — это open-source фреймворк self-hosted AI-агентов
 ## Подборки
 
 - [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) - Реальные паттерны использования и примеры по доменам. ![GitHub stars](https://img.shields.io/github/stars/hesamsheikh/awesome-openclaw-usecases?style=social)
+- [TravisLeeeeee/awesome-openclaw-personas](https://github.com/TravisLeeeeee/awesome-openclaw-personas) - 214+ готовых к продакшену пакетов персон OpenClaw в 34 категориях с полной конфигурацией SOUL.md, AGENTS.md и SKILL.md. [![GitHub stars](https://img.shields.io/github/stars/TravisLeeeeee/awesome-openclaw-personas?style=social)](https://github.com/TravisLeeeeee/awesome-openclaw-personas)
 - [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - Крупный индекс навыков OpenClaw от сообщества (с контекстом переименований). ![GitHub stars](https://img.shields.io/github/stars/VoltAgent/awesome-openclaw-skills?style=social)
 
 <a id="skills-and-skill-indexes"></a>

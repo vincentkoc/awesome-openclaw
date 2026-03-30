@@ -75,6 +75,7 @@ OpenClaw is an open-source, self-hosted AI agent framework that connects LLMs to
 ## Curated Collections
 
 - [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) - Real-world usage patterns and domain examples. ![GitHub stars](https://img.shields.io/github/stars/hesamsheikh/awesome-openclaw-usecases?style=social)
+- [TravisLeeeeee/awesome-openclaw-personas](https://github.com/TravisLeeeeee/awesome-openclaw-personas) - 214+ production-ready OpenClaw persona packages across 34 categories with complete SOUL.md, AGENTS.md, and SKILL.md configurations. [![GitHub stars](https://img.shields.io/github/stars/TravisLeeeeee/awesome-openclaw-personas?style=social)](https://github.com/TravisLeeeeee/awesome-openclaw-personas)
 - [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - Major community index of OpenClaw skills with rename-lineage context. ![GitHub stars](https://img.shields.io/github/stars/VoltAgent/awesome-openclaw-skills?style=social)
 
 ## Skills and Skill Indexes
