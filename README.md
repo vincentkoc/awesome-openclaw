@@ -87,6 +87,7 @@ OpenClaw is an open-source, self-hosted AI agent framework that connects LLMs to
 - [openclaw/skills](https://github.com/openclaw/skills) - Archived versions of skills published on ClawHub. 🎖️ ![GitHub stars](https://img.shields.io/github/stars/openclaw/skills?style=social)
 - [pors/skill-audit](https://github.com/pors/skill-audit) - Skill auditing toolkit for validating and hardening skill quality. ![GitHub stars](https://img.shields.io/github/stars/pors/skill-audit?style=social)
 - [runkids/skillshare](https://github.com/runkids/skillshare) - Share and synchronize skill packs across AI coding tools. ![GitHub stars](https://img.shields.io/github/stars/runkids/skillshare?style=social)
+- [SeeleAI/skill-taxonomy](https://github.com/SeeleAI/skill-taxonomy) - Analyze, classify, and visualize OpenClaw skill libraries with interactive reports for dependencies, routing conflicts, duplicates, and missing abstractions. ![GitHub stars](https://img.shields.io/github/stars/SeeleAI/skill-taxonomy?style=social)
 - [Skills.sh OpenClaw Directory](https://skills.sh/openclaw/openclaw) - Third-party OpenClaw skill discovery directory.
 - [Virtual-Protocol/openclaw-acp](https://github.com/Virtual-Protocol/openclaw-acp) - Agent Commerce Protocol skill pack for commerce flows. ![GitHub stars](https://img.shields.io/github/stars/Virtual-Protocol/openclaw-acp?style=social)
 
