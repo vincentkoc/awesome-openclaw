@@ -132,6 +132,7 @@ OpenClaw is an open-source, self-hosted AI agent framework that connects LLMs to
 - [supermemoryai/openclaw-supermemory](https://github.com/supermemoryai/openclaw-supermemory) - Supermemory-backed long-term memory plugin. 💵 ![GitHub stars](https://img.shields.io/github/stars/supermemoryai/openclaw-supermemory?style=social)
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem/) - Minimal memory layer for Claude/OpenClaw context persistence. ![GitHub stars](https://img.shields.io/github/stars/thedotmack/claude-mem?style=social)
 - [tobi/qmd](https://github.com/tobi/qmd) - Markdown-native memory and knowledge workflows for persistent agent context. ![GitHub stars](https://img.shields.io/github/stars/tobi/qmd?style=social)
+- [CortexReach/memory-lancedb-pro](https://github.com/CortexReach/memory-lancedb-pro) - Enhanced LanceDB memory plugin for OpenClaw with hybrid retrieval (vector + BM25), cross-encoder reranking, multi-scope isolation, long-context chunking, and management CLI. [![npm](https://img.shields.io/npm/v/memory-lancedb-pro)](https://www.npmjs.com/package/memory-lancedb-pro) ![GitHub stars](https://img.shields.io/github/stars/CortexReach/memory-lancedb-pro?style=social)
 
 ## Developer Tooling and Observability
 
