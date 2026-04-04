@@ -60,6 +60,7 @@ OpenClaw is an open-source, self-hosted AI agent framework that connects LLMs to
 - [sipeed/picoclaw](https://github.com/sipeed/picoclaw) - Go implementation that runs on $10 hardware with <10MB RAM. ![GitHub stars](https://img.shields.io/github/stars/sipeed/picoclaw?style=social)
 - [ysz/nanoClaw](https://github.com/ysz/nanoClaw) - Lightweight secure assistant with rapid setup. ![GitHub stars](https://img.shields.io/github/stars/ysz/nanoClaw?style=social)
 - [vincenzodomina/supaclaw](https://github.com/vincenzodomina/supaclaw) - A basic version of OpenClaw but built entirely on Supabase. ![GitHub stars](https://img.shields.io/github/stars/vincenzodomina/supaclaw?style=social)
+- [win4r/ClawTeam-OpenClaw](https://github.com/win4r/ClawTeam-OpenClaw) - OpenClaw-native multi-agent orchestration framework with intent-based prompts, Boids emergent coordination, circuit breaker resilience, cost dashboard, and per-agent model resolution. ![GitHub stars](https://img.shields.io/github/stars/win4r/ClawTeam-OpenClaw?style=social)
 
 ## Official Resources
 
@@ -106,6 +107,7 @@ OpenClaw is an open-source, self-hosted AI agent framework that connects LLMs to
 - [rickybloomfield/OuraClaw](https://github.com/rickybloomfield/OuraClaw) - Oura integration plugin for readiness, sleep, and activity summaries. ![GitHub stars](https://img.shields.io/github/stars/rickybloomfield/OuraClaw?style=social)
 - [soimy/openclaw-channel-dingtalk](https://github.com/soimy/openclaw-channel-dingtalk) - DingTalk enterprise channel plugin with stream support. ![GitHub stars](https://img.shields.io/github/stars/soimy/openclaw-channel-dingtalk?style=social)
 - [techartdev/OpenClawHomeAssistant](https://github.com/techartdev/OpenClawHomeAssistant) - Home Assistant add-on with entity-level integration. ![GitHub stars](https://img.shields.io/github/stars/techartdev/OpenClawHomeAssistant?style=social)
+- [win4r/openclaw-a2a-gateway](https://github.com/win4r/openclaw-a2a-gateway) - A2A (Agent-to-Agent) v0.3.0 protocol plugin for OpenClaw with bio-inspired routing, mDNS discovery, circuit breaker, and DevTools CLI. ![GitHub stars](https://img.shields.io/github/stars/win4r/openclaw-a2a-gateway?style=social)
 
 ## MCP and Tool Servers
 
@@ -130,6 +132,7 @@ OpenClaw is an open-source, self-hosted AI agent framework that connects LLMs to
 - [supermemoryai/openclaw-supermemory](https://github.com/supermemoryai/openclaw-supermemory) - Supermemory-backed long-term memory plugin. 💵 ![GitHub stars](https://img.shields.io/github/stars/supermemoryai/openclaw-supermemory?style=social)
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem/) - Minimal memory layer for Claude/OpenClaw context persistence. ![GitHub stars](https://img.shields.io/github/stars/thedotmack/claude-mem?style=social)
 - [tobi/qmd](https://github.com/tobi/qmd) - Markdown-native memory and knowledge workflows for persistent agent context. ![GitHub stars](https://img.shields.io/github/stars/tobi/qmd?style=social)
+- [CortexReach/memory-lancedb-pro](https://github.com/CortexReach/memory-lancedb-pro) - Enhanced LanceDB memory plugin for OpenClaw with hybrid retrieval (vector + BM25), cross-encoder reranking, multi-scope isolation, long-context chunking, and management CLI. [![npm](https://img.shields.io/npm/v/memory-lancedb-pro)](https://www.npmjs.com/package/memory-lancedb-pro) ![GitHub stars](https://img.shields.io/github/stars/CortexReach/memory-lancedb-pro?style=social)
 
 ## Developer Tooling and Observability
 
