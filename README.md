@@ -94,6 +94,7 @@ OpenClaw is an open-source, self-hosted AI agent framework that connects LLMs to
 
 - [11haonb/wecom-openclaw-plugin](https://github.com/11haonb/wecom-openclaw-plugin) - WeCom (WeChat Work) enterprise messaging plugin. ![GitHub stars](https://img.shields.io/github/stars/11haonb/wecom-openclaw-plugin?style=social)
 - [AlexAnys/feishu-openclaw](https://github.com/AlexAnys/feishu-openclaw) - Feishu/Lark integration plugin with streamlined self-hosted setup. ![GitHub stars](https://img.shields.io/github/stars/AlexAnys/feishu-openclaw?style=social)
+- [AliceLJY/openclaw-tunnel](https://github.com/AliceLJY/openclaw-tunnel) - Docker tunnel letting Claude Code talk to OpenClaw when they run in separate environments. ![GitHub stars](https://img.shields.io/github/stars/AliceLJY/openclaw-tunnel?style=social)
 - [ClariSortAi/openclaw-manager-plugin](https://github.com/ClariSortAi/openclaw-manager-plugin) - Lifecycle manager for install and configuration workflows. ![GitHub stars](https://img.shields.io/github/stars/ClariSortAi/openclaw-manager-plugin?style=social)
 - [Crossmint/openclaw-crossmint-plugin](https://github.com/Crossmint/openclaw-crossmint-plugin) - On-chain wallet and payments for agents. ![GitHub stars](https://img.shields.io/github/stars/Crossmint/openclaw-crossmint-plugin?style=social)
 - [DNYoussef/guardspine-openclaw](https://github.com/DNYoussef/guardspine-openclaw) - Governance plugin with deny-by-default gating and risk tiers. ![GitHub stars](https://img.shields.io/github/stars/DNYoussef/guardspine-openclaw?style=social)
@@ -106,6 +107,8 @@ OpenClaw is an open-source, self-hosted AI agent framework that connects LLMs to
 - [rickybloomfield/OuraClaw](https://github.com/rickybloomfield/OuraClaw) - Oura integration plugin for readiness, sleep, and activity summaries. ![GitHub stars](https://img.shields.io/github/stars/rickybloomfield/OuraClaw?style=social)
 - [soimy/openclaw-channel-dingtalk](https://github.com/soimy/openclaw-channel-dingtalk) - DingTalk enterprise channel plugin with stream support. ![GitHub stars](https://img.shields.io/github/stars/soimy/openclaw-channel-dingtalk?style=social)
 - [techartdev/OpenClawHomeAssistant](https://github.com/techartdev/OpenClawHomeAssistant) - Home Assistant add-on with entity-level integration. ![GitHub stars](https://img.shields.io/github/stars/techartdev/OpenClawHomeAssistant?style=social)
+- [win4r/ClawTeam-OpenClaw](https://github.com/win4r/ClawTeam-OpenClaw) - ClawTeam multi-agent swarm coordination fork fully adapted for OpenClaw. ![GitHub stars](https://img.shields.io/github/stars/win4r/ClawTeam-OpenClaw?style=social)
+- [win4r/openclaw-a2a-gateway](https://github.com/win4r/openclaw-a2a-gateway) - A2A (Agent-to-Agent) protocol v0.3.0 gateway plugin — bidirectional agent communication. ![GitHub stars](https://img.shields.io/github/stars/win4r/openclaw-a2a-gateway?style=social)
 
 ## MCP and Tool Servers
 
@@ -119,6 +122,8 @@ OpenClaw is an open-source, self-hosted AI agent framework that connects LLMs to
 
 ## Memory and Context Systems
 
+- [AliceLJY/recallnest](https://github.com/AliceLJY/recallnest) - Persistent memory MCP server for AI coding agents with hybrid retrieval, knowledge graph, and session checkpoint/resume. ![GitHub stars](https://img.shields.io/github/stars/AliceLJY/recallnest?style=social)
+- [CortexReach/memory-lancedb-pro](https://github.com/CortexReach/memory-lancedb-pro) - Enhanced LanceDB memory plugin for OpenClaw — hybrid retrieval (vector + BM25), cross-encoder rerank, multi-scope isolation, management CLI. ![GitHub stars](https://img.shields.io/github/stars/CortexReach/memory-lancedb-pro?style=social)
 - [Mem0 persistent OpenClaw memory](https://docs.mem0.ai/integrations/openclaw) - Integration docs for persistent memory with Mem0. 💵
 - [memovai/memov](https://github.com/memovai/memov) - Memory layer and retrieval toolkit for persistent OpenClaw context. ![GitHub stars](https://img.shields.io/github/stars/memovai/memov?style=social)
 - [MemTensor/MemOS](https://github.com/MemTensor/MemOS) - Memory operating system with OpenClaw ecosystem adoption. ![GitHub stars](https://img.shields.io/github/stars/MemTensor/MemOS?style=social)
@@ -133,6 +138,8 @@ OpenClaw is an open-source, self-hosted AI agent framework that connects LLMs to
 
 ## Developer Tooling and Observability
 
+- [AliceLJY/cc-cabin](https://github.com/AliceLJY/cc-cabin) - Claude Code workflow cabin — one-click setup for memory, writing, publishing, and remote control. ![GitHub stars](https://img.shields.io/github/stars/AliceLJY/cc-cabin?style=social)
+- [AliceLJY/telegram-ai-bridge](https://github.com/AliceLJY/telegram-ai-bridge) - Remote-control Claude Code, Codex, or Gemini CLI from Telegram — no VPN, no SSH. ![GitHub stars](https://img.shields.io/github/stars/AliceLJY/telegram-ai-bridge?style=social)
 - [bokonon23/clawdbot-cost-monitor](https://github.com/bokonon23/clawdbot-cost-monitor) - Cost and spending monitor for OpenClaw/Clawdbot usage. ![GitHub stars](https://img.shields.io/github/stars/bokonon23/clawdbot-cost-monitor?style=social)
 - [ClawFOMO](https://clawfomo.com) - Real-time trend and sentiment monitor for ecosystem activity.
 - [ClawScan](https://clawscan.io) - Tool directory and project index for ecosystem resources.
