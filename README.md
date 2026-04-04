@@ -79,6 +79,9 @@ OpenClaw is an open-source, self-hosted AI agent framework that connects LLMs to
 
 ## Skills and Skill Indexes
 
+- [AliceLJY/content-alchemy](https://github.com/AliceLJY/content-alchemy) - 5-stage Claude Code skill that transforms raw ideas into professional articles — topic mining, source extraction, analysis, cross-reference, and humanized writing. ![GitHub stars](https://img.shields.io/github/stars/AliceLJY/content-alchemy?style=social)
+- [AliceLJY/content-publisher](https://github.com/AliceLJY/content-publisher) - Image generation, layout formatting, and WeChat Official Account publishing pipeline — takes a finished article and produces a styled WeChat draft. ![GitHub stars](https://img.shields.io/github/stars/AliceLJY/content-publisher?style=social)
+- [AliceLJY/digital-clone-skill](https://github.com/AliceLJY/digital-clone-skill) - 6-stage Claude Code skill to create digital clones from corpus data — clone yourself or build AI mentors from public figures. ![GitHub stars](https://img.shields.io/github/stars/AliceLJY/digital-clone-skill?style=social)
 - [BankrBot/openclaw-skills](https://github.com/BankrBot/openclaw-skills) - Community skill library focused on automation and finance. ![GitHub stars](https://img.shields.io/github/stars/BankrBot/openclaw-skills?style=social)
 - [clawdbot/skills](https://github.com/openclaw/skills) - Legacy alias path to historical skill archive content. ![GitHub stars](https://img.shields.io/github/stars/openclaw/skills?style=social)
 - [jdrhyne/agent-skills](https://github.com/jdrhyne/agent-skills) - Agent skill packs and reusable workflow extensions. ![GitHub stars](https://img.shields.io/github/stars/jdrhyne/agent-skills?style=social)
