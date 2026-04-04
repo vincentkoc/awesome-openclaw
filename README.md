@@ -139,6 +139,7 @@ OpenClaw is an open-source, self-hosted AI agent framework that connects LLMs to
 ## Developer Tooling and Observability
 
 - [AliceLJY/cc-cabin](https://github.com/AliceLJY/cc-cabin) - Claude Code workflow cabin — one-click setup for memory, writing, publishing, and remote control. ![GitHub stars](https://img.shields.io/github/stars/AliceLJY/cc-cabin?style=social)
+- [AliceLJY/claude-code-studio](https://github.com/AliceLJY/claude-code-studio) - Multi-session collaboration studio for Claude Code — run multiple CC instances as a coordinated team. ![GitHub stars](https://img.shields.io/github/stars/AliceLJY/claude-code-studio?style=social)
 - [AliceLJY/telegram-ai-bridge](https://github.com/AliceLJY/telegram-ai-bridge) - Remote-control Claude Code, Codex, or Gemini CLI from Telegram — no VPN, no SSH. ![GitHub stars](https://img.shields.io/github/stars/AliceLJY/telegram-ai-bridge?style=social)
 - [bokonon23/clawdbot-cost-monitor](https://github.com/bokonon23/clawdbot-cost-monitor) - Cost and spending monitor for OpenClaw/Clawdbot usage. ![GitHub stars](https://img.shields.io/github/stars/bokonon23/clawdbot-cost-monitor?style=social)
 - [ClawFOMO](https://clawfomo.com) - Real-time trend and sentiment monitor for ecosystem activity.
