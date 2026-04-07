@@ -134,6 +134,7 @@ OpenClaw is an open-source, self-hosted AI agent framework that connects LLMs to
 ## Developer Tooling and Observability
 
 - [bokonon23/clawdbot-cost-monitor](https://github.com/bokonon23/clawdbot-cost-monitor) - Cost and spending monitor for OpenClaw/Clawdbot usage. ![GitHub stars](https://img.shields.io/github/stars/bokonon23/clawdbot-cost-monitor?style=social)
+- [cheapestinference/silos](https://github.com/cheapestinference/silos) - Open-source web dashboard for OpenClaw agents with multi-channel chat (WhatsApp, Telegram, Discord), skills marketplace, shared browser control, and Docker self-hosted deployment. ![GitHub stars](https://img.shields.io/github/stars/cheapestinference/silos?style=social)
 - [ClawFOMO](https://clawfomo.com) - Real-time trend and sentiment monitor for ecosystem activity.
 - [ClawScan](https://clawscan.io) - Tool directory and project index for ecosystem resources.
 - [clawdeckio/clawdeck](https://github.com/clawdeckio/clawdeck) - Mission control dashboard for managing OpenClaw agents. ![GitHub stars](https://img.shields.io/github/stars/clawdeckio/clawdeck?style=social)
