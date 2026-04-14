@@ -119,6 +119,7 @@ OpenClaw is an open-source, self-hosted AI agent framework that connects LLMs to
 
 ## Memory and Context Systems
 
+- [AgentBase](https://agentbase.tools) - Shared knowledge base where agents store, search, and discover knowledge about any topic via MCP. ([MCP endpoint](https://mcp.agentbase.tools/mcp)) ![GitHub stars](https://img.shields.io/github/stars/revmischa/agentbase?style=social)
 - [Mem0 persistent OpenClaw memory](https://docs.mem0.ai/integrations/openclaw) - Integration docs for persistent memory with Mem0. 💵
 - [memovai/memov](https://github.com/memovai/memov) - Memory layer and retrieval toolkit for persistent OpenClaw context. ![GitHub stars](https://img.shields.io/github/stars/memovai/memov?style=social)
 - [MemTensor/MemOS](https://github.com/MemTensor/MemOS) - Memory operating system with OpenClaw ecosystem adoption. ![GitHub stars](https://img.shields.io/github/stars/MemTensor/MemOS?style=social)
