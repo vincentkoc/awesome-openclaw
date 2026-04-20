@@ -32,7 +32,7 @@ body:
     attributes:
       label: Final one-line entry
       description: Paste the exact README line you will add.
-      placeholder: - [name](url) - short description.
+      placeholder: "- [name](url) - short description."
     validations:
       required: true
 
@@ -58,9 +58,13 @@ body:
     attributes:
       label: Final checks
       options:
+        - label: The related issue was approved before this PR.
+          required: true
         - label: Entry is one line (no wrapped bullets).
           required: true
         - label: Entry position in the target section is A-Z sorted.
+          required: true
+        - label: The issue includes public signal and affiliation disclosure if relevant.
           required: true
         - label: PR title and commits will use semantic prefixes (feat/fix/docs/chore/etc.).
           required: true
