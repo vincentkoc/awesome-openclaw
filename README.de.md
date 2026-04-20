@@ -88,7 +88,7 @@ Nur Eintraege mit `🎖️` sind offiziell von OpenClaw gepflegte Ressourcen. Co
 ## Kuratierte Sammlungen
 
 - [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) - Praxisnahe Usage-Patterns und Domain-Beispiele. ![GitHub stars](https://img.shields.io/github/stars/hesamsheikh/awesome-openclaw-usecases?style=social)
-- [TravisLeeeeee/awesome-openclaw-personas](https://github.com/TravisLeeeeee/awesome-openclaw-personas) - 214+ produktionsreife OpenClaw-Persona-Pakete in 34 Kategorien mit vollständiger SOUL.md-, AGENTS.md- und SKILL.md-Konfiguration. [![GitHub stars](https://img.shields.io/github/stars/TravisLeeeeee/awesome-openclaw-personas?style=social)](https://github.com/TravisLeeeeee/awesome-openclaw-personas)
+- [TravisLeeeeee/awesome-openclaw-personas](https://github.com/TravisLeeeeee/awesome-openclaw-personas) - Kuratiertes Verzeichnis produktionsreifer OpenClaw-Persona-Pakete mit SOUL.md-, AGENTS.md- und SKILL.md-Konfigurationen. ![GitHub stars](https://img.shields.io/github/stars/TravisLeeeeee/awesome-openclaw-personas?style=social)
 - [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - Grosses Community-Index fuer OpenClaw-Skills (inkl. Rename-Lineage). ![GitHub stars](https://img.shields.io/github/stars/VoltAgent/awesome-openclaw-skills?style=social)
 
 <a id="skills-and-skill-indexes"></a>
