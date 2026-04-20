@@ -34,6 +34,12 @@ OpenClaw es un framework de agentes de IA, open source y autoalojado, que conect
 - 🎖️ Recurso oficial mantenido por OpenClaw (repo de la organización, docs oficiales o canales oficiales).
 - 💵 Puede requerir servicio o plan de pago para uso completo.
 
+## Nota de seguridad
+
+Los plugins, skills, servidores MCP e integraciones de la comunidad pueden ejecutar código, manejar credenciales, enviar mensajes o acceder a sistemas externos. Trátalos como no confiables por defecto.
+
+Solo las entradas marcadas con `🎖️` son recursos oficiales mantenidos por OpenClaw. Las entradas de la comunidad se incluyen para descubrimiento, no como revisión de seguridad ni respaldo oficial. Revisa el código fuente, los permisos, los pasos de instalación y el estado de mantenimiento antes de usarlas.
+
 ---
 
 <a id="community-channels"></a>
@@ -42,14 +48,10 @@ OpenClaw es un framework de agentes de IA, open source y autoalojado, que conect
 
 - [4claw.org](https://www.4claw.org) - Tablon estilo 4chan para conversaciones de agentes autonomos.
 - [Clawk](https://www.clawk.ai/) - Red social estilo Twitter donde los agentes publican, siguen, dan "me gusta" y republican actualizaciones cortas.
-- [GitHub Discussions](https://github.com/openclaw/openclaw/discussions) - Foro de discusion para ayuda, ideas y proyectos destacados. 🎖️
 - [GitHub Issues](https://github.com/openclaw/openclaw/issues) - Reportes de errores y solicitudes de funciones para el core de OpenClaw. 🎖️
-- [Lobchan](https://lobchan.ai) - Plataforma anonima tipo imageboard para agentes de OpenClaw, con hilos efimeros.
 - [MoltBook](https://www.moltbook.com/) - Plataforma social centrada en agentes conectada al ecosistema Molt.
 - [Moltbook](https://moltbookai.net) - Red social estilo Reddit para agentes de IA donde los humanos pueden observar la actividad entre agentes.
-- [Moltbook Town](https://moltbooktown.xyz) - Entorno virtual 2D/3D donde los agentes viven e interactuan.
 - [MoltHub](https://moithub.com/) - Plataforma orientada a modelos para adultos operada por agentes.
-- [MoltOverflow](https://moltoverflow.me) - Plataforma tipo Stack Overflow donde los agentes comparten soluciones validadas a bloqueos tecnicos.
 - [MoltThreats](https://promptintel.novahunting.ai/molt) - Primer feed de inteligencia de amenazas para agentes de IA: comparte amenazas recientes y recibe proteccion automatizada.
 - [Moltx](https://moltx.io/) - Feed social estilo X con respuestas, "me gusta" y seguidores.
 - [Shellmates](https://www.shellmates.app) - Plataforma de emparejamiento para correspondencia entre agentes a corto y largo plazo.
@@ -92,6 +94,8 @@ OpenClaw es un framework de agentes de IA, open source y autoalojado, que conect
 
 ## Skills e índices
 
+La mayoría de las entradas de abajo son mantenidas por la comunidad y no están validadas por OpenClaw. Solo las entradas con `🎖️` son oficiales.
+
 - [BankrBot/openclaw-skills](https://github.com/BankrBot/openclaw-skills) - Biblioteca comunitaria de skills centrada en automatizacion y finanzas. ![GitHub stars](https://img.shields.io/github/stars/BankrBot/openclaw-skills?style=social)
 - [clawdbot/skills](https://github.com/openclaw/skills) - Ruta alias heredada hacia el archivo historico de skills. ![GitHub stars](https://img.shields.io/github/stars/openclaw/skills?style=social)
 - [jdrhyne/agent-skills](https://github.com/jdrhyne/agent-skills) - Paquetes de skills y extensiones reutilizables de flujos de trabajo. ![GitHub stars](https://img.shields.io/github/stars/jdrhyne/agent-skills?style=social)
@@ -107,12 +111,12 @@ OpenClaw es un framework de agentes de IA, open source y autoalojado, que conect
 
 ## Plugins e integraciones
 
+La mayoría de las entradas de abajo son mantenidas por la comunidad y no están validadas por OpenClaw. Solo las entradas con `🎖️` son oficiales.
+
 - [11haonb/wecom-openclaw-plugin](https://github.com/11haonb/wecom-openclaw-plugin) - Plugin de mensajeria empresarial para WeCom (WeChat Work). ![GitHub stars](https://img.shields.io/github/stars/11haonb/wecom-openclaw-plugin?style=social)
 - [AlexAnys/feishu-openclaw](https://github.com/AlexAnys/feishu-openclaw) - Plugin de integracion con Feishu/Lark con configuracion self-hosted simplificada. ![GitHub stars](https://img.shields.io/github/stars/AlexAnys/feishu-openclaw?style=social)
 - [ClariSortAi/openclaw-manager-plugin](https://github.com/ClariSortAi/openclaw-manager-plugin) - Gestor de ciclo de vida para instalacion y configuracion. ![GitHub stars](https://img.shields.io/github/stars/ClariSortAi/openclaw-manager-plugin?style=social)
-- [Crossmint/openclaw-crossmint-plugin](https://github.com/Crossmint/openclaw-crossmint-plugin) - Billetera on-chain y pagos para agentes. ![GitHub stars](https://img.shields.io/github/stars/Crossmint/openclaw-crossmint-plugin?style=social)
 - [DNYoussef/guardspine-openclaw](https://github.com/DNYoussef/guardspine-openclaw) - Plugin de gobernanza con control deny-by-default y niveles de riesgo. ![GitHub stars](https://img.shields.io/github/stars/DNYoussef/guardspine-openclaw?style=social)
-- [lekt9/openclaw-foundry](https://github.com/lekt9/openclaw-foundry) - Metaextension para generar y evolucionar skills a partir de flujos de trabajo. ![GitHub stars](https://img.shields.io/github/stars/lekt9/openclaw-foundry?style=social)
 - [hyperspell/hyperspell-openclaw](https://github.com/hyperspell/hyperspell-openclaw) - Integracion del plugin HyperSpell para flujos de OpenClaw. ![GitHub stars](https://img.shields.io/github/stars/hyperspell/hyperspell-openclaw?style=social)
 - [limouren01/openclaw_qq_plugin](https://github.com/limouren01/openclaw_qq_plugin) - Plugin de canal de mensajeria QQ para integracion con plataformas chinas. ![GitHub stars](https://img.shields.io/github/stars/limouren01/openclaw_qq_plugin?style=social)
 - [m1heng/clawdbot-feishu](https://github.com/m1heng/clawdbot-feishu) - Plugin de canal Feishu/Lark con soporte para bots empresariales. ![GitHub stars](https://img.shields.io/github/stars/m1heng/clawdbot-feishu?style=social)
@@ -158,7 +162,6 @@ OpenClaw es un framework de agentes de IA, open source y autoalojado, que conect
 
 - [bokonon23/clawdbot-cost-monitor](https://github.com/bokonon23/clawdbot-cost-monitor) - Monitor de costes y gasto para uso de OpenClaw/Clawdbot. ![GitHub stars](https://img.shields.io/github/stars/bokonon23/clawdbot-cost-monitor?style=social)
 - [ClawFOMO](https://clawfomo.com) - Monitor en tiempo real de tendencias y sentimiento de actividad del ecosistema.
-- [ClawScan](https://clawscan.io) - Directorio de herramientas e indice de proyectos del ecosistema.
 - [clawdeckio/clawdeck](https://github.com/clawdeckio/clawdeck) - Panel tipo mission control para gestionar agentes de OpenClaw. ![GitHub stars](https://img.shields.io/github/stars/clawdeckio/clawdeck?style=social)
 - [crshdn/mission-control](https://github.com/crshdn/mission-control) - Panel de orquestacion multiagente para flujos del Gateway de OpenClaw. ![GitHub stars](https://img.shields.io/github/stars/crshdn/mission-control?style=social)
 - [grp06/openclaw-studio](https://github.com/grp06/openclaw-studio) - IDE web tipo studio y UI de gestion para flujos de OpenClaw. ![GitHub stars](https://img.shields.io/github/stars/grp06/openclaw-studio?style=social)
@@ -208,7 +211,6 @@ Estos proveedores se encargan de la puesta en marcha: sin Docker, sin terminal y
 
 - [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - Panel de servidor self-hosted usado a menudo para despliegues de OpenClaw. ![GitHub stars](https://img.shields.io/github/stars/1Panel-dev/1Panel?style=social)
 - [badrisnarayanan/antigravity-claude-proxy](https://github.com/badrisnarayanan/antigravity-claude-proxy) - Proxy y routing para acceso a modelos en flujos de asistentes. ![GitHub stars](https://img.shields.io/github/stars/badrisnarayanan/antigravity-claude-proxy?style=social)
-- [BlockRunAI/ClawRouter](https://github.com/BlockRunAI/ClawRouter) - Capa de routing y optimizacion de costes para setups de agentes tipo OpenClaw. ![GitHub stars](https://img.shields.io/github/stars/BlockRunAI/ClawRouter?style=social)
 - [ClawArena](https://clawarena.ai) - Arena de prediccion donde agentes de IA pronostican resultados de mercado y compiten.
 - [Clawstead](https://www.clawstead.com) - Mundo simulado persistente donde agentes minan, comercian, construyen y viven.
 - [ClawTasks](https://clawtasks.com) - Intercambio de tareas tipo bounty para trabajos digitales puntuales.
@@ -222,7 +224,6 @@ Estos proveedores se encargan de la puesta en marcha: sin Docker, sin terminal y
 - [MoltCities](https://moltcities.org) - Capa de identidad y residencia con handles e identidad basada en claves.
 - [Moltline](https://www.moltline.com) - Infraestructura de mensajeria privada para handles persistentes y bandejas de entrada.
 - [Moltroad](https://www.moltroad.com/) - Marketplace de servicios, skills y bienes digitales con flujos de micropagos.
-- [molt-bot/openclaw-trading-assistant](https://github.com/molt-bot/openclaw-trading-assistant) - Setup de asistente enfocado en trading construido sobre OpenClaw. ![GitHub stars](https://img.shields.io/github/stars/molt-bot/openclaw-trading-assistant?style=social)
 - [MyDeadInternet.com](https://mydeadinternet.com) - Plataforma colectiva donde agentes aportan fragmentos de memoria para salidas compartidas.
 - [Openwork](https://openwork.bot) - Marketplace solo para agentes para coordinar tareas y liquidar on-chain.
 - [openclaw/clawdinators](https://github.com/openclaw/clawdinators) - Patron declarativo de despliegue con NixOS y AWS. 🎖️ ![GitHub stars](https://img.shields.io/github/stars/openclaw/clawdinators?style=social)
@@ -233,7 +234,6 @@ Estos proveedores se encargan de la puesta en marcha: sin Docker, sin terminal y
 - [serhanekicii/openclaw-helm](https://github.com/serhanekicii/openclaw-helm) - Chart Helm para despliegue de OpenClaw en Kubernetes. ![GitHub stars](https://img.shields.io/github/stars/serhanekicii/openclaw-helm?style=social)
 - [Virtuals](https://www.virtuals.io) - Infraestructura tokenizada de agentes de IA para propiedad y monetizacion descentralizadas.
 - [vincentkoc/natilius](https://github.com/vincentkoc/natilius) - Configuracion automatizada en un clic de entornos de ingenieria en macOS para reconstruir maquinas de investigacion, sandbox y agentes. ![GitHub stars](https://img.shields.io/github/stars/vincentkoc/natilius?style=social)
-- [willbullen/openclaw-docker](https://github.com/willbullen/openclaw-docker) - Docker Compose orientado a produccion con hardening de seguridad. ![GitHub stars](https://img.shields.io/github/stars/willbullen/openclaw-docker?style=social)
 
 <a id="localization-and-regional-forks"></a>
 
