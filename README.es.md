@@ -88,6 +88,7 @@ Solo las entradas marcadas con `🎖️` son recursos oficiales mantenidos por O
 ## Colecciones curadas
 
 - [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) - Patrones de uso reales y ejemplos por dominio. ![GitHub stars](https://img.shields.io/github/stars/hesamsheikh/awesome-openclaw-usecases?style=social)
+- [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) - Colección comunitaria de plantillas de agentes OpenClaw listas para producción para PM, redacción, SEO, DevOps y más. ![GitHub stars](https://img.shields.io/github/stars/mergisi/awesome-openclaw-agents?style=social)
 - [TravisLeeeeee/awesome-openclaw-personas](https://github.com/TravisLeeeeee/awesome-openclaw-personas) - Colección curada de paquetes de persona OpenClaw listos para producción con configuraciones de SOUL.md, AGENTS.md y SKILL.md. ![GitHub stars](https://img.shields.io/github/stars/TravisLeeeeee/awesome-openclaw-personas?style=social)
 - [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - Indice comunitario principal de skills de OpenClaw (con contexto de renombrados). ![GitHub stars](https://img.shields.io/github/stars/VoltAgent/awesome-openclaw-skills?style=social)
 
@@ -123,6 +124,7 @@ La mayoría de las entradas de abajo son mantenidas por la comunidad y no están
 - [m1heng/clawdbot-feishu](https://github.com/m1heng/clawdbot-feishu) - Plugin de canal Feishu/Lark con soporte para bots empresariales. ![GitHub stars](https://img.shields.io/github/stars/m1heng/clawdbot-feishu?style=social)
 - [marshallrichards/ClawPhone](https://github.com/marshallrichards/ClawPhone) - Companero movil con interfaz pensada para el telefono. ![GitHub stars](https://img.shields.io/github/stars/marshallrichards/ClawPhone?style=social)
 - [MemTensor/MemOS-Cloud-OpenClaw-Plugin](https://github.com/MemTensor/MemOS-Cloud-OpenClaw-Plugin) - Memoria en la nube para recuerdo persistente. ![GitHub stars](https://img.shields.io/github/stars/MemTensor/MemOS-Cloud-OpenClaw-Plugin?style=social)
+- [onecli/onecli](https://github.com/onecli/onecli) - Bóveda de credenciales para agentes de IA con una pasarela HTTP en Rust que inyecta secretos sin exponer claves API en bruto. ![GitHub stars](https://img.shields.io/github/stars/onecli/onecli?style=social)
 - [rickybloomfield/OuraClaw](https://github.com/rickybloomfield/OuraClaw) - Plugin de integracion con Oura para resumenes de descanso, sueno y actividad. ![GitHub stars](https://img.shields.io/github/stars/rickybloomfield/OuraClaw?style=social)
 - [soimy/openclaw-channel-dingtalk](https://github.com/soimy/openclaw-channel-dingtalk) - Plugin de canal empresarial de DingTalk con soporte de streaming. ![GitHub stars](https://img.shields.io/github/stars/soimy/openclaw-channel-dingtalk?style=social)
 - [techartdev/OpenClawHomeAssistant](https://github.com/techartdev/OpenClawHomeAssistant) - Complemento de Home Assistant con integracion a nivel de entidad. ![GitHub stars](https://img.shields.io/github/stars/techartdev/OpenClawHomeAssistant?style=social)

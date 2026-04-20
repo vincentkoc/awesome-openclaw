@@ -88,6 +88,7 @@ OpenClaw — это open-source фреймворк self-hosted AI-агентов
 ## Подборки
 
 - [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) - Реальные паттерны использования и примеры по доменам. ![GitHub stars](https://img.shields.io/github/stars/hesamsheikh/awesome-openclaw-usecases?style=social)
+- [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) - Коллекция сообщества с готовыми к продакшену шаблонами OpenClaw-агентов для PM, написания текстов, SEO, DevOps и других задач. ![GitHub stars](https://img.shields.io/github/stars/mergisi/awesome-openclaw-agents?style=social)
 - [TravisLeeeeee/awesome-openclaw-personas](https://github.com/TravisLeeeeee/awesome-openclaw-personas) - Подборка готовых к продакшену пакетов персон OpenClaw с конфигурациями SOUL.md, AGENTS.md и SKILL.md. ![GitHub stars](https://img.shields.io/github/stars/TravisLeeeeee/awesome-openclaw-personas?style=social)
 - [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - Крупный индекс навыков OpenClaw от сообщества (с контекстом переименований). ![GitHub stars](https://img.shields.io/github/stars/VoltAgent/awesome-openclaw-skills?style=social)
 
@@ -123,6 +124,7 @@ OpenClaw — это open-source фреймворк self-hosted AI-агентов
 - [m1heng/clawdbot-feishu](https://github.com/m1heng/clawdbot-feishu) - Плагин канала Feishu/Lark с поддержкой enterprise-ботов. ![GitHub stars](https://img.shields.io/github/stars/m1heng/clawdbot-feishu?style=social)
 - [marshallrichards/ClawPhone](https://github.com/marshallrichards/ClawPhone) - Мобильный компаньон с phone-first интерфейсом для workflow. ![GitHub stars](https://img.shields.io/github/stars/marshallrichards/ClawPhone?style=social)
 - [MemTensor/MemOS-Cloud-OpenClaw-Plugin](https://github.com/MemTensor/MemOS-Cloud-OpenClaw-Plugin) - Облачная память для постоянного воспоминания контекста. ![GitHub stars](https://img.shields.io/github/stars/MemTensor/MemOS-Cloud-OpenClaw-Plugin?style=social)
+- [onecli/onecli](https://github.com/onecli/onecli) - Хранилище учетных данных для AI-агентов с HTTP-шлюзом на Rust, который подставляет секреты без раскрытия сырых API-ключей. ![GitHub stars](https://img.shields.io/github/stars/onecli/onecli?style=social)
 - [rickybloomfield/OuraClaw](https://github.com/rickybloomfield/OuraClaw) - Плагин интеграции Oura: сон, readiness и сводки активности. ![GitHub stars](https://img.shields.io/github/stars/rickybloomfield/OuraClaw?style=social)
 - [soimy/openclaw-channel-dingtalk](https://github.com/soimy/openclaw-channel-dingtalk) - Плагин корпоративного канала DingTalk с поддержкой стриминга. ![GitHub stars](https://img.shields.io/github/stars/soimy/openclaw-channel-dingtalk?style=social)
 - [techartdev/OpenClawHomeAssistant](https://github.com/techartdev/OpenClawHomeAssistant) - Дополнение Home Assistant с интеграцией на уровне сущностей. ![GitHub stars](https://img.shields.io/github/stars/techartdev/OpenClawHomeAssistant?style=social)

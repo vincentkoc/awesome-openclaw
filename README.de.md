@@ -88,6 +88,7 @@ Nur Eintraege mit `🎖️` sind offiziell von OpenClaw gepflegte Ressourcen. Co
 ## Kuratierte Sammlungen
 
 - [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) - Praxisnahe Usage-Patterns und Domain-Beispiele. ![GitHub stars](https://img.shields.io/github/stars/hesamsheikh/awesome-openclaw-usecases?style=social)
+- [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) - Community-Sammlung produktionsreifer OpenClaw-Agent-Templates fuer PM, Writing, SEO, DevOps und mehr. ![GitHub stars](https://img.shields.io/github/stars/mergisi/awesome-openclaw-agents?style=social)
 - [TravisLeeeeee/awesome-openclaw-personas](https://github.com/TravisLeeeeee/awesome-openclaw-personas) - Kuratiertes Verzeichnis produktionsreifer OpenClaw-Persona-Pakete mit SOUL.md-, AGENTS.md- und SKILL.md-Konfigurationen. ![GitHub stars](https://img.shields.io/github/stars/TravisLeeeeee/awesome-openclaw-personas?style=social)
 - [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - Grosses Community-Index fuer OpenClaw-Skills (inkl. Rename-Lineage). ![GitHub stars](https://img.shields.io/github/stars/VoltAgent/awesome-openclaw-skills?style=social)
 
@@ -123,6 +124,7 @@ Die meisten folgenden Eintraege werden von der Community gepflegt und nicht von 
 - [m1heng/clawdbot-feishu](https://github.com/m1heng/clawdbot-feishu) - Feishu/Lark-Channel-Plugin mit Enterprise-Bot-Support. ![GitHub stars](https://img.shields.io/github/stars/m1heng/clawdbot-feishu?style=social)
 - [marshallrichards/ClawPhone](https://github.com/marshallrichards/ClawPhone) - Mobiler Begleiter mit phone-first Workflow-UI. ![GitHub stars](https://img.shields.io/github/stars/marshallrichards/ClawPhone?style=social)
 - [MemTensor/MemOS-Cloud-OpenClaw-Plugin](https://github.com/MemTensor/MemOS-Cloud-OpenClaw-Plugin) - Cloud-Speicher fuer persistentes Erinnern. ![GitHub stars](https://img.shields.io/github/stars/MemTensor/MemOS-Cloud-OpenClaw-Plugin?style=social)
+- [onecli/onecli](https://github.com/onecli/onecli) - Credential-Vault fuer KI-Agenten mit einem Rust-HTTP-Gateway, das Secrets injiziert, ohne rohe API-Keys offenzulegen. ![GitHub stars](https://img.shields.io/github/stars/onecli/onecli?style=social)
 - [rickybloomfield/OuraClaw](https://github.com/rickybloomfield/OuraClaw) - Oura-Integration fuer Readiness-, Schlaf- und Aktivitaets-Summaries. ![GitHub stars](https://img.shields.io/github/stars/rickybloomfield/OuraClaw?style=social)
 - [soimy/openclaw-channel-dingtalk](https://github.com/soimy/openclaw-channel-dingtalk) - DingTalk-Enterprise-Channel-Plugin mit Stream-Unterstuetzung. ![GitHub stars](https://img.shields.io/github/stars/soimy/openclaw-channel-dingtalk?style=social)
 - [techartdev/OpenClawHomeAssistant](https://github.com/techartdev/OpenClawHomeAssistant) - Home-Assistant-Add-on mit Integration auf Entitaetsebene. ![GitHub stars](https://img.shields.io/github/stars/techartdev/OpenClawHomeAssistant?style=social)
