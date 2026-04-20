@@ -88,6 +88,7 @@ Nur Eintraege mit `🎖️` sind offiziell von OpenClaw gepflegte Ressourcen. Co
 ## Kuratierte Sammlungen
 
 - [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) - Praxisnahe Usage-Patterns und Domain-Beispiele. ![GitHub stars](https://img.shields.io/github/stars/hesamsheikh/awesome-openclaw-usecases?style=social)
+- [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) - Community-Sammlung produktionsreifer OpenClaw-Agent-Templates fuer PM, Writing, SEO, DevOps und mehr. ![GitHub stars](https://img.shields.io/github/stars/mergisi/awesome-openclaw-agents?style=social)
 - [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - Grosses Community-Index fuer OpenClaw-Skills (inkl. Rename-Lineage). ![GitHub stars](https://img.shields.io/github/stars/VoltAgent/awesome-openclaw-skills?style=social)
 
 <a id="skills-and-skill-indexes"></a>
