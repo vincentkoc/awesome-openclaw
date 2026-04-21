@@ -169,6 +169,7 @@ Most entries below are community-maintained and are not vetted by OpenClaw. Only
 
 These providers handle the setup for you: no Docker, no terminal, no DevOps required.
 
+- [Remote OpenClaw](https://remoteopenclaw.com) - Managed OpenClaw hosting on dedicated infrastructure with 12-step security hardening, Tailscale networking, workflow configuration, and ongoing maintenance. 💵
 - [Agent37](https://www.agent37.com/openclaw) - Managed OpenClaw instance with near-instant provisioning. 💵
 - [ClawCloud](https://www.clawcloud.sh/) - Managed OpenClaw hosting with auto-updates and backups. 💵
 - [ClawSimple](https://clawsimple.com/en) - Managed OpenClaw hosting with simple plans and setup. 💵
