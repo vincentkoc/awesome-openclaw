@@ -170,6 +170,7 @@ Most entries below are community-maintained and are not vetted by OpenClaw. Only
 These providers handle the setup for you: no Docker, no terminal, no DevOps required.
 
 - [Agent37](https://www.agent37.com/openclaw) - Managed OpenClaw instance with near-instant provisioning. 💵
+- [AnveVoice](https://anvevoice.app) - Voice AI agent for websites with agentic DOM actions — navigates pages, fills forms, clicks buttons autonomously. 50+ languages, <700ms latency, one-line embed. MCP support. Free tier.
 - [ClawCloud](https://www.clawcloud.sh/) - Managed OpenClaw hosting with auto-updates and backups. 💵
 - [ClawSimple](https://clawsimple.com/en) - Managed OpenClaw hosting with simple plans and setup. 💵
 - [Contabo OpenClaw](https://contabo.com/en-us/openclaw-hosting/) - VPS-based OpenClaw hosting option with predictable pricing. 💵
