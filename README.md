@@ -141,6 +141,7 @@ Most entries below are community-maintained and are not vetted by OpenClaw. Only
 ## Developer Tooling and Observability
 
 - [bokonon23/clawdbot-cost-monitor](https://github.com/bokonon23/clawdbot-cost-monitor) - Cost and spending monitor for OpenClaw/Clawdbot usage. ![GitHub stars](https://img.shields.io/github/stars/bokonon23/clawdbot-cost-monitor?style=social)
+- [Ylsssq926/clawclip](https://github.com/Ylsssq926/clawclip) - Session replay and version comparison tool for OpenClaw cost analysis. Step-by-step debugging, decision diff, and cross-framework comparison. ![GitHub stars](https://img.shields.io/github/stars/Ylsssq926/clawclip?style=social)
 - [ClawFOMO](https://clawfomo.com) - Real-time trend and sentiment monitor for ecosystem activity.
 - [clawdeckio/clawdeck](https://github.com/clawdeckio/clawdeck) - Mission control dashboard for managing OpenClaw agents. ![GitHub stars](https://img.shields.io/github/stars/clawdeckio/clawdeck?style=social)
 - [crshdn/mission-control](https://github.com/crshdn/mission-control) - Multi-agent orchestration dashboard for OpenClaw gateway workflows. ![GitHub stars](https://img.shields.io/github/stars/crshdn/mission-control?style=social)
