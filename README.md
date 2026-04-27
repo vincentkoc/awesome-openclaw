@@ -156,6 +156,7 @@ Most entries below are community-maintained and are not vetted by OpenClaw. Only
 - [MoltMatch](https://moltmatch.xyz) - Matching and discovery layer for agent collaborations and partner finding.
 - [merciagents/riphook](https://github.com/merciagents/riphook) - Webhook and event bridge tooling for agent-driven automations. ![GitHub stars](https://img.shields.io/github/stars/merciagents/riphook?style=social)
 - [openclaw/lobster](https://github.com/openclaw/lobster) - Workflow shell for composing OpenClaw tools and automations. 🎖️ ![GitHub stars](https://img.shields.io/github/stars/openclaw/lobster?style=social)
+- [Onepilot](https://onepilotapp.com) - iOS and iPadOS SSH client that deploys, runs, and chats with OpenClaw agents on a remote machine. Also supports Hermes, Claude Code, and Codex CLI.
 - [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) - Planning workflow skill pattern used in agentic repos. ![GitHub stars](https://img.shields.io/github/stars/OthmanAdi/planning-with-files?style=social)
 - [prompt-security/clawsec](https://github.com/prompt-security/clawsec) - Security skill suite with drift detection, audits, and skill integrity checks. ![GitHub stars](https://img.shields.io/github/stars/prompt-security/clawsec?style=social)
 - [rdsthomas/mission-control](https://github.com/rdsthomas/mission-control) - Kanban dashboard for task management in OpenClaw workflows. ![GitHub stars](https://img.shields.io/github/stars/rdsthomas/mission-control?style=social)
