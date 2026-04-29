@@ -126,6 +126,7 @@ Most entries below are community-maintained and are not vetted by OpenClaw. Only
 
 ## Memory and Context Systems
 
+- [GuyMannDude/mnemo-cortex](https://github.com/GuyMannDude/mnemo-cortex) - Local-first persistent memory with ~70ms recall, tiered retrieval (FTS5 + embeddings), multi-agent lanes, optional Mem0 cloud fallback, and seven integration guides (Claude Code, Claude Desktop, OpenClaw, LM Studio, AnythingLLM, Agent Zero, Ollama). Ships with [The Lane Protocol](https://github.com/GuyMannDude/mnemo-cortex/blob/master/THE-LANE-PROTOCOL.md) session ritual and [mnemo-plan](https://github.com/GuyMannDude/mnemo-plan) project-context templates. ![GitHub stars](https://img.shields.io/github/stars/GuyMannDude/mnemo-cortex?style=social)
 - [Mem0 persistent OpenClaw memory](https://docs.mem0.ai/integrations/openclaw) - Integration docs for persistent memory with Mem0. 💵
 - [memovai/memov](https://github.com/memovai/memov) - Memory layer and retrieval toolkit for persistent OpenClaw context. ![GitHub stars](https://img.shields.io/github/stars/memovai/memov?style=social)
 - [MemTensor/MemOS](https://github.com/MemTensor/MemOS) - Memory operating system with OpenClaw ecosystem adoption. ![GitHub stars](https://img.shields.io/github/stars/MemTensor/MemOS?style=social)
