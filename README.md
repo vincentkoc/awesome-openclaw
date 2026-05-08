@@ -25,6 +25,9 @@ OpenClaw is an open-source, self-hosted AI agent framework that connects LLMs to
 - [Plugins and Integrations](#plugins-and-integrations)
 - [Skills and Skill Indexes](#skills-and-skill-indexes)
 
+
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor): Real-time monitoring dashboard for OpenClaw agents — tracks sessions, tokens, message trends. Vue 3 + WebSocket.
+
 ## Status Markers
 
 - 🎖️ Official OpenClaw-maintained resource (org repo, official docs, or official channels).
