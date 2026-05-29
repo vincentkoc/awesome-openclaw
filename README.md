@@ -101,6 +101,7 @@ Most entries below are community-maintained and are not vetted by OpenClaw. Only
 Most entries below are community-maintained and are not vetted by OpenClaw. Only `🎖️` entries are official.
 
 - [11haonb/wecom-openclaw-plugin](https://github.com/11haonb/wecom-openclaw-plugin) - WeCom (WeChat Work) enterprise messaging plugin. ![GitHub stars](https://img.shields.io/github/stars/11haonb/wecom-openclaw-plugin?style=social)
+- [1clawAI/1claw-openclaw-plugin](https://github.com/1clawAI/1claw-openclaw-plugin) - HSM-backed secret management, transaction signing, and Shroud TEE LLM proxy for OpenClaw agents. ![GitHub stars](https://img.shields.io/github/stars/1clawAI/1claw-openclaw-plugin?style=social)
 - [AlexAnys/feishu-openclaw](https://github.com/AlexAnys/feishu-openclaw) - Feishu/Lark integration plugin with streamlined self-hosted setup. ![GitHub stars](https://img.shields.io/github/stars/AlexAnys/feishu-openclaw?style=social)
 - [ClariSortAi/openclaw-manager-plugin](https://github.com/ClariSortAi/openclaw-manager-plugin) - Lifecycle manager for install and configuration workflows. ![GitHub stars](https://img.shields.io/github/stars/ClariSortAi/openclaw-manager-plugin?style=social)
 - [DNYoussef/guardspine-openclaw](https://github.com/DNYoussef/guardspine-openclaw) - Governance plugin with deny-by-default gating and risk tiers. ![GitHub stars](https://img.shields.io/github/stars/DNYoussef/guardspine-openclaw?style=social)
