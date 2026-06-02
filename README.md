@@ -162,6 +162,7 @@ Most entries below are community-maintained and are not vetted by OpenClaw. Only
 - [refly-ai/refly](https://github.com/refly-ai/refly) - Skills and workflow builder ecosystem with overlap for agent tooling. ![GitHub stars](https://img.shields.io/github/stars/refly-ai/refly?style=social)
 - [shanselman/openclaw-windows-hub](https://github.com/shanselman/openclaw-windows-hub) - Windows companion hub for desktop intergration. ![GitHub stars](https://img.shields.io/github/stars/shanselman/openclaw-windows-hub?style=social)
 - [Unbrowse](https://www.unbrowse.ai/) - Platform for converting browser workflows into API integrations and agent skills.
+- [claw-lens](https://github.com/msfirebird/claw-lens) — Dashboard combining observability, cost analytics, and debugging for OpenClaw.
 
 ## Deployment and Operations
 
