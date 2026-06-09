@@ -140,6 +140,8 @@ Most entries below are community-maintained and are not vetted by OpenClaw. Only
 
 ## Developer Tooling and Observability
 
+- [iclawapp/iclaw](https://github.com/iclawapp/iclaw) — Local-first AI workspace with sandbox isolation. Files are analyzed in containers before reaching your system. Detects malware, credential theft, and exfiltration. npm: `@iclawapp/iclaw`
+
 - [bokonon23/clawdbot-cost-monitor](https://github.com/bokonon23/clawdbot-cost-monitor) - Cost and spending monitor for OpenClaw/Clawdbot usage. ![GitHub stars](https://img.shields.io/github/stars/bokonon23/clawdbot-cost-monitor?style=social)
 - [ClawFOMO](https://clawfomo.com) - Real-time trend and sentiment monitor for ecosystem activity.
 - [clawdeckio/clawdeck](https://github.com/clawdeckio/clawdeck) - Mission control dashboard for managing OpenClaw agents. ![GitHub stars](https://img.shields.io/github/stars/clawdeckio/clawdeck?style=social)
