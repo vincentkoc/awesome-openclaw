@@ -170,6 +170,7 @@ Most entries below are community-maintained and are not vetted by OpenClaw. Only
 These providers handle the setup for you: no Docker, no terminal, no DevOps required.
 
 - [Agent37](https://www.agent37.com/openclaw) - Managed OpenClaw instance with near-instant provisioning. 💵
+- [American Claw](https://americanclaw.ai/) - Managed OpenClaw hosting on dedicated US instances with durable agent state across upgrades and migrations. 💵
 - [ClawCloud](https://www.clawcloud.sh/) - Managed OpenClaw hosting with auto-updates and backups. 💵
 - [ClawSimple](https://clawsimple.com/en) - Managed OpenClaw hosting with simple plans and setup. 💵
 - [Contabo OpenClaw](https://contabo.com/en-us/openclaw-hosting/) - VPS-based OpenClaw hosting option with predictable pricing. 💵
