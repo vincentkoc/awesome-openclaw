@@ -142,6 +142,7 @@ Most entries below are community-maintained and are not vetted by OpenClaw. Only
 
 - [bokonon23/clawdbot-cost-monitor](https://github.com/bokonon23/clawdbot-cost-monitor) - Cost and spending monitor for OpenClaw/Clawdbot usage. ![GitHub stars](https://img.shields.io/github/stars/bokonon23/clawdbot-cost-monitor?style=social)
 - [ClawFOMO](https://clawfomo.com) - Real-time trend and sentiment monitor for ecosystem activity.
+- [flik2002/openclaw-monitor](https://github.com/flik2002/openclaw-monitor) - Real-time AI agent monitoring dashboard — token usage, session tracking, 7-day trends, multi-model support. Vue 3 + ECharts, self-hosted. ![GitHub stars](https://img.shields.io/github/stars/flik2002/openclaw-monitor?style=social)
 - [clawdeckio/clawdeck](https://github.com/clawdeckio/clawdeck) - Mission control dashboard for managing OpenClaw agents. ![GitHub stars](https://img.shields.io/github/stars/clawdeckio/clawdeck?style=social)
 - [crshdn/mission-control](https://github.com/crshdn/mission-control) - Multi-agent orchestration dashboard for OpenClaw gateway workflows. ![GitHub stars](https://img.shields.io/github/stars/crshdn/mission-control?style=social)
 - [grp06/openclaw-studio](https://github.com/grp06/openclaw-studio) - Studio-style web IDE and management UI for OpenClaw workflows. ![GitHub stars](https://img.shields.io/github/stars/grp06/openclaw-studio?style=social)
