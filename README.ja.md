@@ -34,6 +34,12 @@ OpenClaw は、LLM をツール・メッセージチャネル・メモリと接�
 - 🎖️ OpenClaw 公式が管理（組織リポジトリ、公式ドキュメント、公式チャネル）。
 - 💵 有料サービスまたは有料プランが必要な場合があります。
 
+## セーフティノート
+
+コミュニティ製のプラグイン、スキル、MCP サーバー、連携は、コード実行、認証情報の取り扱い、メッセージ送信、外部システムへのアクセスを行う場合があります。既定では信頼しないものとして扱ってください。
+
+`🎖️` が付いた項目だけが OpenClaw 公式管理リソースです。コミュニティ項目は発見のための掲載であり、セキュリティレビューや公式な推奨を意味しません。利用前にソース、権限、導入手順、保守状況を確認してください。
+
 ---
 
 <a id="community-channels"></a>
@@ -42,14 +48,10 @@ OpenClaw は、LLM をツール・メッセージチャネル・メモリと接�
 
 - [4claw.org](https://www.4claw.org) - エージェントの自律会話向け4chan風イメージボード。
 - [Clawk](https://www.clawk.ai/) - エージェントが短文を投稿・フォロー・いいね・再投稿できるTwitter風SNS。
-- [GitHub Discussions](https://github.com/openclaw/openclaw/discussions) - ヘルプ、アイデア共有、事例紹介のためのコミュニティ掲示板。 🎖️
 - [GitHub Issues](https://github.com/openclaw/openclaw/issues) - OpenClawコアのバグ報告と機能要望。 🎖️
-- [Lobchan](https://lobchan.ai) - スレッドが短命な、OpenClawエージェント向け匿名イメージボード。
 - [MoltBook](https://www.moltbook.com/) - より広いMoltエコシステムに接続された、エージェント中心のソーシャル。
 - [Moltbook](https://moltbookai.net) - 人間は閲覧のみ可能な、AIエージェント向けReddit風ソーシャル。
-- [Moltbook Town](https://moltbooktown.xyz) - エージェントが生活・交流する2D/3D仮想空間。
 - [MoltHub](https://moithub.com/) - 成人向けモデルをテーマにしたエージェントプラットフォーム。
-- [MoltOverflow](https://moltoverflow.me) - 技術的な詰まりに対する検証済み解決策を共有するStack Overflow風サイト。
 - [MoltThreats](https://promptintel.novahunting.ai/molt) - AIエージェント向け初の脅威インテリジェンスフィード。最新脅威の共有と自動保護を提供。
 - [Moltx](https://moltx.io/) - 返信・いいね・フォローを備えたX風タイムライン。
 - [Shellmates](https://www.shellmates.app) - 短期/長期の文通相手をエージェント同士でマッチングするサービス。
@@ -86,11 +88,15 @@ OpenClaw は、LLM をツール・メッセージチャネル・メモリと接�
 ## キュレーション集
 
 - [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) - 実運用のユースケースとドメイン別パターン集。 ![GitHub stars](https://img.shields.io/github/stars/hesamsheikh/awesome-openclaw-usecases?style=social)
+- [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) - PM、ライティング、SEO、DevOps などに向けた本番対応 OpenClaw エージェントテンプレートのコミュニティ集。 ![GitHub stars](https://img.shields.io/github/stars/mergisi/awesome-openclaw-agents?style=social)
+- [TravisLeeeeee/awesome-openclaw-personas](https://github.com/TravisLeeeeee/awesome-openclaw-personas) - SOUL.md、AGENTS.md、SKILL.md 構成を備えた本番対応 OpenClaw ペルソナパッケージのキュレーション集。 ![GitHub stars](https://img.shields.io/github/stars/TravisLeeeeee/awesome-openclaw-personas?style=social)
 - [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - OpenClawスキルの大規模コミュニティ索引（改名の系譜を含む）。 ![GitHub stars](https://img.shields.io/github/stars/VoltAgent/awesome-openclaw-skills?style=social)
 
 <a id="skills-and-skill-indexes"></a>
 
 ## スキルとインデックス
+
+以下の多くはコミュニティ管理で、OpenClaw による審査はされていません。`🎖️` の項目だけが公式です。
 
 - [BankrBot/openclaw-skills](https://github.com/BankrBot/openclaw-skills) - 自動化と金融に重点を置くコミュニティスキル集。 ![GitHub stars](https://img.shields.io/github/stars/BankrBot/openclaw-skills?style=social)
 - [clawdbot/skills](https://github.com/openclaw/skills) - 歴史的スキルアーカイブへのレガシー別名パス。 ![GitHub stars](https://img.shields.io/github/stars/openclaw/skills?style=social)
@@ -107,17 +113,18 @@ OpenClaw は、LLM をツール・メッセージチャネル・メモリと接�
 
 ## プラグインと連携
 
+以下の多くはコミュニティ管理で、OpenClaw による審査はされていません。`🎖️` の項目だけが公式です。
+
 - [11haonb/wecom-openclaw-plugin](https://github.com/11haonb/wecom-openclaw-plugin) - WeCom（WeChat Work）向け企業メッセージングプラグイン。 ![GitHub stars](https://img.shields.io/github/stars/11haonb/wecom-openclaw-plugin?style=social)
 - [AlexAnys/feishu-openclaw](https://github.com/AlexAnys/feishu-openclaw) - セルフホストの導入を簡略化するFeishu/Lark統合プラグイン。 ![GitHub stars](https://img.shields.io/github/stars/AlexAnys/feishu-openclaw?style=social)
 - [ClariSortAi/openclaw-manager-plugin](https://github.com/ClariSortAi/openclaw-manager-plugin) - インストールと設定フロー向けのライフサイクル管理プラグイン。 ![GitHub stars](https://img.shields.io/github/stars/ClariSortAi/openclaw-manager-plugin?style=social)
-- [Crossmint/openclaw-crossmint-plugin](https://github.com/Crossmint/openclaw-crossmint-plugin) - エージェント向けオンチェーンウォレットと決済。 ![GitHub stars](https://img.shields.io/github/stars/Crossmint/openclaw-crossmint-plugin?style=social)
 - [DNYoussef/guardspine-openclaw](https://github.com/DNYoussef/guardspine-openclaw) - deny-by-defaultのゲーティングとリスク階層を備えたガバナンスプラグイン。 ![GitHub stars](https://img.shields.io/github/stars/DNYoussef/guardspine-openclaw?style=social)
-- [lekt9/openclaw-foundry](https://github.com/lekt9/openclaw-foundry) - ワークフローからスキルを生成・進化させるメタ拡張。 ![GitHub stars](https://img.shields.io/github/stars/lekt9/openclaw-foundry?style=social)
 - [hyperspell/hyperspell-openclaw](https://github.com/hyperspell/hyperspell-openclaw) - OpenClawワークフロー向けHyperSpellプラグイン統合。 ![GitHub stars](https://img.shields.io/github/stars/hyperspell/hyperspell-openclaw?style=social)
 - [limouren01/openclaw_qq_plugin](https://github.com/limouren01/openclaw_qq_plugin) - 中国向けQQメッセージングのチャネルプラグイン。 ![GitHub stars](https://img.shields.io/github/stars/limouren01/openclaw_qq_plugin?style=social)
 - [m1heng/clawdbot-feishu](https://github.com/m1heng/clawdbot-feishu) - 企業ボット対応のFeishu/Larkチャネルプラグイン。 ![GitHub stars](https://img.shields.io/github/stars/m1heng/clawdbot-feishu?style=social)
 - [marshallrichards/ClawPhone](https://github.com/marshallrichards/ClawPhone) - ワークフロー向けのphone-firstモバイルコンパニオン。 ![GitHub stars](https://img.shields.io/github/stars/marshallrichards/ClawPhone?style=social)
 - [MemTensor/MemOS-Cloud-OpenClaw-Plugin](https://github.com/MemTensor/MemOS-Cloud-OpenClaw-Plugin) - 永続リコールのためのクラウドメモリ。 ![GitHub stars](https://img.shields.io/github/stars/MemTensor/MemOS-Cloud-OpenClaw-Plugin?style=social)
+- [onecli/onecli](https://github.com/onecli/onecli) - 生の API キーを公開せずにシークレットを注入する Rust 製 HTTP ゲートウェイ付きの AI エージェント向け認証情報ボルト。 ![GitHub stars](https://img.shields.io/github/stars/onecli/onecli?style=social)
 - [rickybloomfield/OuraClaw](https://github.com/rickybloomfield/OuraClaw) - 睡眠・Readiness・活動の要約を提供するOura統合プラグイン。 ![GitHub stars](https://img.shields.io/github/stars/rickybloomfield/OuraClaw?style=social)
 - [soimy/openclaw-channel-dingtalk](https://github.com/soimy/openclaw-channel-dingtalk) - ストリーム対応の DingTalk 企業チャネルプラグイン。 ![GitHub stars](https://img.shields.io/github/stars/soimy/openclaw-channel-dingtalk?style=social)
 - [techartdev/OpenClawHomeAssistant](https://github.com/techartdev/OpenClawHomeAssistant) - エンティティレベル統合対応の Home Assistant アドオン。 ![GitHub stars](https://img.shields.io/github/stars/techartdev/OpenClawHomeAssistant?style=social)
@@ -158,7 +165,6 @@ OpenClaw は、LLM をツール・メッセージチャネル・メモリと接�
 
 - [bokonon23/clawdbot-cost-monitor](https://github.com/bokonon23/clawdbot-cost-monitor) - OpenClaw/Clawdbotのコスト・支出モニター。 ![GitHub stars](https://img.shields.io/github/stars/bokonon23/clawdbot-cost-monitor?style=social)
 - [ClawFOMO](https://clawfomo.com) - エコシステム活動のトレンド/センチメントをリアルタイム監視。
-- [ClawScan](https://clawscan.io) - エコシステム向けツールディレクトリとプロジェクト索引。
 - [clawdeckio/clawdeck](https://github.com/clawdeckio/clawdeck) - OpenClawエージェントを管理するMission Controlダッシュボード。 ![GitHub stars](https://img.shields.io/github/stars/clawdeckio/clawdeck?style=social)
 - [crshdn/mission-control](https://github.com/crshdn/mission-control) - OpenClaw Gatewayワークフロー向けマルチエージェント編成ダッシュボード。 ![GitHub stars](https://img.shields.io/github/stars/crshdn/mission-control?style=social)
 - [grp06/openclaw-studio](https://github.com/grp06/openclaw-studio) - OpenClawワークフロー向けStudio風Web IDE/管理UI。 ![GitHub stars](https://img.shields.io/github/stars/grp06/openclaw-studio?style=social)
@@ -208,7 +214,6 @@ OpenClaw は、LLM をツール・メッセージチャネル・メモリと接�
 
 - [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - OpenClawデプロイで使われることの多いセルフホストのサーバーパネル。 ![GitHub stars](https://img.shields.io/github/stars/1Panel-dev/1Panel?style=social)
 - [badrisnarayanan/antigravity-claude-proxy](https://github.com/badrisnarayanan/antigravity-claude-proxy) - アシスタントワークフロー向けのモデルアクセス用プロキシ/ルーティング。 ![GitHub stars](https://img.shields.io/github/stars/badrisnarayanan/antigravity-claude-proxy?style=social)
-- [BlockRunAI/ClawRouter](https://github.com/BlockRunAI/ClawRouter) - OpenClaw系エージェントのルーティング/コスト最適化レイヤー。 ![GitHub stars](https://img.shields.io/github/stars/BlockRunAI/ClawRouter?style=social)
 - [ClawArena](https://clawarena.ai) - AIエージェントが市場結果を予測して競う予測アリーナ。
 - [Clawstead](https://www.clawstead.com) - エージェントが採掘・取引・建築・生活する永続シミュレーション世界。
 - [ClawTasks](https://clawtasks.com) - 単発のデジタル作業を交換するバウンティ型タスク市場。
@@ -222,7 +227,6 @@ OpenClaw は、LLM をツール・メッセージチャネル・メモリと接�
 - [MoltCities](https://moltcities.org) - ハンドルと鍵ベースIDを提供するエージェントのID/居住レイヤー。
 - [Moltline](https://www.moltline.com) - 永続ハンドルと受信箱のためのプライベートメッセージング基盤。
 - [Moltroad](https://www.moltroad.com/) - サービス/スキル/デジタル商品を扱うマーケット（マイクロペイメント）。
-- [molt-bot/openclaw-trading-assistant](https://github.com/molt-bot/openclaw-trading-assistant) - OpenClaw上に構築されたトレーディング特化アシスタントセットアップ。 ![GitHub stars](https://img.shields.io/github/stars/molt-bot/openclaw-trading-assistant?style=social)
 - [MyDeadInternet.com](https://mydeadinternet.com) - エージェントが記憶断片を寄せ集めて共有アウトプットを作る集合プラットフォーム。
 - [Openwork](https://openwork.bot) - タスク調整とオンチェーン決済のためのエージェント専用労働マーケット。
 - [openclaw/clawdinators](https://github.com/openclaw/clawdinators) - 宣言的な NixOS / AWS デプロイパターン。 🎖️ ![GitHub stars](https://img.shields.io/github/stars/openclaw/clawdinators?style=social)
@@ -233,7 +237,6 @@ OpenClaw は、LLM をツール・メッセージチャネル・メモリと接�
 - [serhanekicii/openclaw-helm](https://github.com/serhanekicii/openclaw-helm) - Kubernetes 向け OpenClaw デプロイ用 Helm チャート。 ![GitHub stars](https://img.shields.io/github/stars/serhanekicii/openclaw-helm?style=social)
 - [Virtuals](https://www.virtuals.io) - 分散所有/収益化のためのトークン化AIエージェント基盤。
 - [vincentkoc/natilius](https://github.com/vincentkoc/natilius) - 研究/サンドボックス/エージェント用macOS環境をワンクリックで再構築。 ![GitHub stars](https://img.shields.io/github/stars/vincentkoc/natilius?style=social)
-- [willbullen/openclaw-docker](https://github.com/willbullen/openclaw-docker) - セキュリティ強化付きの本番向けDocker Composeセットアップ。 ![GitHub stars](https://img.shields.io/github/stars/willbullen/openclaw-docker?style=social)
 
 <a id="localization-and-regional-forks"></a>
 

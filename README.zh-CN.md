@@ -34,6 +34,12 @@ OpenClaw 是一个开源、自托管的 AI Agent 框架，可将大模型与工�
 - 🎖️ 由 OpenClaw 官方维护（组织仓库、官方文档或官方渠道）。
 - 💵 通常需要付费服务或付费套餐。
 
+## 安全提示
+
+社区插件、技能、MCP 服务器与集成可能会执行代码、处理凭据、发送消息或访问外部系统。默认应将其视为不受信任。
+
+只有标记 `🎖️` 的条目才是 OpenClaw 官方维护资源。社区条目仅用于发现，不代表已通过安全审查或官方背书。使用前请检查源码、权限、安装步骤与维护状态。
+
 ---
 
 <a id="community-channels"></a>
@@ -42,14 +48,10 @@ OpenClaw 是一个开源、自托管的 AI Agent 框架，可将大模型与工�
 
 - [4claw.org](https://www.4claw.org) - 4chan 风格的匿名板块，用于 Agent 自主对话。
 - [Clawk](https://www.clawk.ai/) - 类 Twitter 的社交网络，Agent 可发布、关注、点赞与转发短内容。
-- [GitHub Discussions](https://github.com/openclaw/openclaw/discussions) - 用于求助、交流想法和展示成果的社区讨论区。 🎖️
 - [GitHub Issues](https://github.com/openclaw/openclaw/issues) - OpenClaw 核心的缺陷反馈与功能请求入口。 🎖️
-- [Lobchan](https://lobchan.ai) - 面向 OpenClaw Agent 的匿名 imageboard 讨论平台，线程较为短暂。
 - [MoltBook](https://www.moltbook.com/) - 以 Agent 为中心的社交平台，连接更广泛的 Molt 生态。
 - [Moltbook](https://moltbookai.net) - 类 Reddit 的 AI Agent 社交网络，人类仅可观察 Agent 之间互动。
-- [Moltbook Town](https://moltbooktown.xyz) - 2D/3D 虚拟空间，Agent 在其中生活与互动。
 - [MoltHub](https://moithub.com/) - 面向成人模特主题的 Agent 平台。
-- [MoltOverflow](https://moltoverflow.me) - 类 Stack Overflow 的平台，Agent 分享已验证的技术解决方案。
 - [MoltThreats](https://promptintel.novahunting.ai/molt) - 面向 AI Agent 的首个威胁情报源：共享最新威胁并获得自动化防护。
 - [Moltx](https://moltx.io/) - 类 X 的时间线社交信息流，支持回复、点赞与关注。
 - [Shellmates](https://www.shellmates.app) - Agent 匹配平台，用于短期或长期通信/笔友式互动。
@@ -86,11 +88,15 @@ OpenClaw 是一个开源、自托管的 AI Agent 框架，可将大模型与工�
 ## 精选集合
 
 - [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) - 真实世界用法模式与领域示例集合。 ![GitHub stars](https://img.shields.io/github/stars/hesamsheikh/awesome-openclaw-usecases?style=social)
+- [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) - 面向 PM、写作、SEO、DevOps 等场景的生产就绪 OpenClaw Agent 模板社区合集。 ![GitHub stars](https://img.shields.io/github/stars/mergisi/awesome-openclaw-agents?style=social)
+- [TravisLeeeeee/awesome-openclaw-personas](https://github.com/TravisLeeeeee/awesome-openclaw-personas) - 精选的生产就绪 OpenClaw 人格包集合，附带 SOUL.md、AGENTS.md 和 SKILL.md 配置。 ![GitHub stars](https://img.shields.io/github/stars/TravisLeeeeee/awesome-openclaw-personas?style=social)
 - [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - OpenClaw 技能的社区大型索引（含更名脉络）。 ![GitHub stars](https://img.shields.io/github/stars/VoltAgent/awesome-openclaw-skills?style=social)
 
 <a id="skills-and-skill-indexes"></a>
 
 ## 技能与索引
+
+以下条目大多由社区维护，未经过 OpenClaw 官方审查。只有 `🎖️` 条目是官方资源。
 
 - [BankrBot/openclaw-skills](https://github.com/BankrBot/openclaw-skills) - 聚焦自动化与金融场景的社区技能库。 ![GitHub stars](https://img.shields.io/github/stars/BankrBot/openclaw-skills?style=social)
 - [clawdbot/skills](https://github.com/openclaw/skills) - 历史技能归档的旧别名路径。 ![GitHub stars](https://img.shields.io/github/stars/openclaw/skills?style=social)
@@ -107,17 +113,18 @@ OpenClaw 是一个开源、自托管的 AI Agent 框架，可将大模型与工�
 
 ## 插件与集成
 
+以下条目大多由社区维护，未经过 OpenClaw 官方审查。只有 `🎖️` 条目是官方资源。
+
 - [11haonb/wecom-openclaw-plugin](https://github.com/11haonb/wecom-openclaw-plugin) - WeCom（企业微信）企业消息渠道插件。 ![GitHub stars](https://img.shields.io/github/stars/11haonb/wecom-openclaw-plugin?style=social)
 - [AlexAnys/feishu-openclaw](https://github.com/AlexAnys/feishu-openclaw) - 飞书/ Lark 集成插件，简化自托管接入。 ![GitHub stars](https://img.shields.io/github/stars/AlexAnys/feishu-openclaw?style=social)
 - [ClariSortAi/openclaw-manager-plugin](https://github.com/ClariSortAi/openclaw-manager-plugin) - 用于安装与配置流程的生命周期管理插件。 ![GitHub stars](https://img.shields.io/github/stars/ClariSortAi/openclaw-manager-plugin?style=social)
-- [Crossmint/openclaw-crossmint-plugin](https://github.com/Crossmint/openclaw-crossmint-plugin) - 面向 Agent 的链上钱包与支付。 ![GitHub stars](https://img.shields.io/github/stars/Crossmint/openclaw-crossmint-plugin?style=social)
 - [DNYoussef/guardspine-openclaw](https://github.com/DNYoussef/guardspine-openclaw) - 治理插件：默认拒绝的工具门控与风险分级。 ![GitHub stars](https://img.shields.io/github/stars/DNYoussef/guardspine-openclaw?style=social)
-- [lekt9/openclaw-foundry](https://github.com/lekt9/openclaw-foundry) - 从工作流中生成并演化技能/扩展的元扩展。 ![GitHub stars](https://img.shields.io/github/stars/lekt9/openclaw-foundry?style=social)
 - [hyperspell/hyperspell-openclaw](https://github.com/hyperspell/hyperspell-openclaw) - 面向 OpenClaw 工作流的 HyperSpell 插件集成。 ![GitHub stars](https://img.shields.io/github/stars/hyperspell/hyperspell-openclaw?style=social)
 - [limouren01/openclaw_qq_plugin](https://github.com/limouren01/openclaw_qq_plugin) - QQ 消息渠道插件（中文平台集成）。 ![GitHub stars](https://img.shields.io/github/stars/limouren01/openclaw_qq_plugin?style=social)
 - [m1heng/clawdbot-feishu](https://github.com/m1heng/clawdbot-feishu) - 飞书/ Lark 渠道插件（企业机器人支持）。 ![GitHub stars](https://img.shields.io/github/stars/m1heng/clawdbot-feishu?style=social)
 - [marshallrichards/ClawPhone](https://github.com/marshallrichards/ClawPhone) - 面向手机的 OpenClaw 工作流伴侣/移动端界面。 ![GitHub stars](https://img.shields.io/github/stars/marshallrichards/ClawPhone?style=social)
 - [MemTensor/MemOS-Cloud-OpenClaw-Plugin](https://github.com/MemTensor/MemOS-Cloud-OpenClaw-Plugin) - 用于持久回忆的云端记忆能力。 ![GitHub stars](https://img.shields.io/github/stars/MemTensor/MemOS-Cloud-OpenClaw-Plugin?style=social)
+- [onecli/onecli](https://github.com/onecli/onecli) - 面向 AI Agent 的凭据金库，配套 Rust HTTP 网关可注入密钥而不暴露原始 API Key。 ![GitHub stars](https://img.shields.io/github/stars/onecli/onecli?style=social)
 - [rickybloomfield/OuraClaw](https://github.com/rickybloomfield/OuraClaw) - Oura 集成插件：睡眠、恢复度与活动摘要。 ![GitHub stars](https://img.shields.io/github/stars/rickybloomfield/OuraClaw?style=social)
 - [soimy/openclaw-channel-dingtalk](https://github.com/soimy/openclaw-channel-dingtalk) - 支持流式输出的钉钉企业渠道插件。 ![GitHub stars](https://img.shields.io/github/stars/soimy/openclaw-channel-dingtalk?style=social)
 - [techartdev/OpenClawHomeAssistant](https://github.com/techartdev/OpenClawHomeAssistant) - 支持实体级集成的 Home Assistant 插件。 ![GitHub stars](https://img.shields.io/github/stars/techartdev/OpenClawHomeAssistant?style=social)
@@ -158,7 +165,6 @@ OpenClaw 是一个开源、自托管的 AI Agent 框架，可将大模型与工�
 
 - [bokonon23/clawdbot-cost-monitor](https://github.com/bokonon23/clawdbot-cost-monitor) - OpenClaw/Clawdbot 成本与花费监控。 ![GitHub stars](https://img.shields.io/github/stars/bokonon23/clawdbot-cost-monitor?style=social)
 - [ClawFOMO](https://clawfomo.com) - 生态活动趋势与情绪的实时监测。
-- [ClawScan](https://clawscan.io) - 生态工具目录与项目索引。
 - [clawdeckio/clawdeck](https://github.com/clawdeckio/clawdeck) - OpenClaw Agent 管理的 Mission Control 面板。 ![GitHub stars](https://img.shields.io/github/stars/clawdeckio/clawdeck?style=social)
 - [crshdn/mission-control](https://github.com/crshdn/mission-control) - 面向 OpenClaw Gateway 工作流的多 Agent 编排面板。 ![GitHub stars](https://img.shields.io/github/stars/crshdn/mission-control?style=social)
 - [grp06/openclaw-studio](https://github.com/grp06/openclaw-studio) - Studio 风格 Web IDE 与 OpenClaw 工作流管理 UI。 ![GitHub stars](https://img.shields.io/github/stars/grp06/openclaw-studio?style=social)
@@ -208,7 +214,6 @@ OpenClaw 是一个开源、自托管的 AI Agent 框架，可将大模型与工�
 
 - [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 常用于 OpenClaw 部署的自托管服务器面板。 ![GitHub stars](https://img.shields.io/github/stars/1Panel-dev/1Panel?style=social)
 - [badrisnarayanan/antigravity-claude-proxy](https://github.com/badrisnarayanan/antigravity-claude-proxy) - 为助手工作流提供模型访问的代理与路由支持。 ![GitHub stars](https://img.shields.io/github/stars/badrisnarayanan/antigravity-claude-proxy?style=social)
-- [BlockRunAI/ClawRouter](https://github.com/BlockRunAI/ClawRouter) - OpenClaw 风格 Agent 的路由与成本优化层。 ![GitHub stars](https://img.shields.io/github/stars/BlockRunAI/ClawRouter?style=social)
 - [ClawArena](https://clawarena.ai) - 预测竞技场：AI Agent 预测市场结果并竞争。
 - [Clawstead](https://www.clawstead.com) - 持久化模拟世界：Agent 采矿、交易、建造与生活。
 - [ClawTasks](https://clawtasks.com) - 一次性数字任务的悬赏式交换平台。
@@ -222,7 +227,6 @@ OpenClaw 是一个开源、自托管的 AI Agent 框架，可将大模型与工�
 - [MoltCities](https://moltcities.org) - 身份与居住层：handle 与基于密钥的身份。
 - [Moltline](https://www.moltline.com) - 私信基础设施：持久 handle 与收件箱。
 - [Moltroad](https://www.moltroad.com/) - 服务/技能/数字商品的市场（含微支付流程）。
-- [molt-bot/openclaw-trading-assistant](https://github.com/molt-bot/openclaw-trading-assistant) - 基于 OpenClaw 的交易型助手配置。 ![GitHub stars](https://img.shields.io/github/stars/molt-bot/openclaw-trading-assistant?style=social)
 - [MyDeadInternet.com](https://mydeadinternet.com) - 集合平台：Agent 贡献记忆片段生成共享产出。
 - [Openwork](https://openwork.bot) - Agent 专属劳务市场：任务协作与链上结算。
 - [openclaw/clawdinators](https://github.com/openclaw/clawdinators) - 声明式 NixOS 与 AWS 部署模式。 🎖️ ![GitHub stars](https://img.shields.io/github/stars/openclaw/clawdinators?style=social)
@@ -233,7 +237,6 @@ OpenClaw 是一个开源、自托管的 AI Agent 框架，可将大模型与工�
 - [serhanekicii/openclaw-helm](https://github.com/serhanekicii/openclaw-helm) - 用于 Kubernetes OpenClaw 部署的 Helm Chart。 ![GitHub stars](https://img.shields.io/github/stars/serhanekicii/openclaw-helm?style=social)
 - [Virtuals](https://www.virtuals.io) - 代币化 AI Agent 基础设施：支持去中心化共持与变现。
 - [vincentkoc/natilius](https://github.com/vincentkoc/natilius) - macOS 工程环境一键重建：适合研究、沙箱与 Agent 机器。 ![GitHub stars](https://img.shields.io/github/stars/vincentkoc/natilius?style=social)
-- [willbullen/openclaw-docker](https://github.com/willbullen/openclaw-docker) - 面向生产的 Docker Compose 部署，包含安全加固。 ![GitHub stars](https://img.shields.io/github/stars/willbullen/openclaw-docker?style=social)
 
 <a id="localization-and-regional-forks"></a>
 

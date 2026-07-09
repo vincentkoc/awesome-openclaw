@@ -10,6 +10,8 @@ body:
       value: |
         Use this form to propose a new resource. Maintainers will confirm fit before PR.
 
+        This is a curated, high-signal list. Brand-new projects with no public usage, no publicity, and no visible traction are usually declined. If you are affiliated with the project, say so plainly.
+
   - type: input
     id: resource_name
     attributes:
@@ -53,6 +55,29 @@ body:
     validations:
       required: true
 
+  - type: dropdown
+    id: relationship
+    attributes:
+      label: Your relationship to this resource
+      description: Pick the closest match.
+      options:
+        - I am not affiliated
+        - I am the maintainer, founder, or builder
+        - I work for or represent the project
+        - I use it professionally or for a client
+        - Other affiliation
+    validations:
+      required: true
+
+  - type: textarea
+    id: public_signal
+    attributes:
+      label: Public signal
+      description: "Provide concrete evidence of usage, publicity, or traction. Examples: stars/forks, docs, outside mentions, community posts, tutorials, integrations, issue activity, screenshots, customers, or case studies."
+      placeholder: "120 GitHub stars, public docs, two third-party tutorials, active issue tracker, mentioned in OpenClaw Discussions..."
+    validations:
+      required: true
+
   - type: checkboxes
     id: checklist
     attributes:
@@ -61,4 +86,8 @@ body:
         - label: I checked that this resource is not already listed.
           required: true
         - label: I reviewed CONTRIBUTING.md formatting and A-Z ordering rules.
+          required: true
+        - label: The resource is public and can be evaluated from the provided link.
+          required: true
+        - label: If I am affiliated with the resource, I disclosed that above.
           required: true
