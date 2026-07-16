@@ -95,6 +95,7 @@ Most entries below are community-maintained and are not vetted by OpenClaw. Only
 - [runkids/skillshare](https://github.com/runkids/skillshare) - Share and synchronize skill packs across AI coding tools. ![GitHub stars](https://img.shields.io/github/stars/runkids/skillshare?style=social)
 - [Skills.sh OpenClaw Directory](https://skills.sh/openclaw/openclaw) - Third-party OpenClaw skill discovery directory.
 - [Virtual-Protocol/openclaw-acp](https://github.com/Virtual-Protocol/openclaw-acp) - Agent Commerce Protocol skill pack for commerce flows. ![GitHub stars](https://img.shields.io/github/stars/Virtual-Protocol/openclaw-acp?style=social)
+- [sergebulaev/linkedin-skills](https://github.com/sergebulaev/linkedin-skills) - Social media marketing skill family for 7 platforms (LinkedIn, X, Instagram, YouTube, TikTok, Threads, Facebook): corpus-validated hooks, humanizer, audience insights. On ClawHub. ![GitHub stars](https://img.shields.io/github/stars/sergebulaev/linkedin-skills?style=social)
 
 ## Plugins and Integrations
 
