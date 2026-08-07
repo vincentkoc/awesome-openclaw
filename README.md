@@ -138,6 +138,9 @@ Most entries below are community-maintained and are not vetted by OpenClaw. Only
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem/) - Minimal memory layer for Claude/OpenClaw context persistence. ![GitHub stars](https://img.shields.io/github/stars/thedotmack/claude-mem?style=social)
 - [tobi/qmd](https://github.com/tobi/qmd) - Markdown-native memory and knowledge workflows for persistent agent context. ![GitHub stars](https://img.shields.io/github/stars/tobi/qmd?style=social)
 
+#### Zero-Dependency / Local-First
+- [ElonAug7/openclaw-mnemosyne-memory-engine](https://github.com/ElonAug7/openclaw-mnemosyne-memory-engine) - Zero-dependency local memory engine: 271KB, no LLM API, no vector DB, pure Markdown, TF-IDF search, 7-way parallel retrieval, and built-in Web UI. ![GitHub stars](https://img.shields.io/github/stars/ElonAug7/openclaw-mnemosyne-memory-engine?style=social)
+
 ## Developer Tooling and Observability
 
 - [bokonon23/clawdbot-cost-monitor](https://github.com/bokonon23/clawdbot-cost-monitor) - Cost and spending monitor for OpenClaw/Clawdbot usage. ![GitHub stars](https://img.shields.io/github/stars/bokonon23/clawdbot-cost-monitor?style=social)
