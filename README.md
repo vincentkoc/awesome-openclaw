@@ -85,8 +85,8 @@ Only entries marked with `🎖️` are official OpenClaw-maintained resources. C
 
 Most entries below are community-maintained and are not vetted by OpenClaw. Only `🎖️` entries are official.
 
-- [conorbronsdon/avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) - Skill that audits and rewrites content to strip AI writing patterns; works with Claude Code, OpenClaw, Codex, and Hermes. ![GitHub stars](https://img.shields.io/github/stars/conorbronsdon/avoid-ai-writing?style=social)
 - [BankrBot/openclaw-skills](https://github.com/BankrBot/openclaw-skills) - Community skill library focused on automation and finance. ![GitHub stars](https://img.shields.io/github/stars/BankrBot/openclaw-skills?style=social)
+- [conorbronsdon/avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) - Skill that audits and rewrites content to strip AI writing patterns; works with Claude Code, OpenClaw, Codex, and Hermes. ![GitHub stars](https://img.shields.io/github/stars/conorbronsdon/avoid-ai-writing?style=social)
 - [clawdbot/skills](https://github.com/openclaw/skills) - Legacy alias path to historical skill archive content. ![GitHub stars](https://img.shields.io/github/stars/openclaw/skills?style=social)
 - [jdrhyne/agent-skills](https://github.com/jdrhyne/agent-skills) - Agent skill packs and reusable workflow extensions. ![GitHub stars](https://img.shields.io/github/stars/jdrhyne/agent-skills?style=social)
 - [lekt9/unbrowse-openclaw](https://github.com/lekt9/unbrowse-openclaw) - API-skill generation workflow from captured web/API traffic. ![GitHub stars](https://img.shields.io/github/stars/lekt9/unbrowse-openclaw?style=social)
@@ -119,7 +119,7 @@ Most entries below are community-maintained and are not vetted by OpenClaw. Only
 ## MCP and Tool Servers
 
 - [androidStern-personal/openclaw-mcp-adapter](https://github.com/androidStern-personal/openclaw-mcp-adapter) - adapter for native OpenClaw tool access. ![GitHub stars](https://img.shields.io/github/stars/androidStern-personal/openclaw-mcp-adapter?style=social)
-- [conorbronsdon/gws-mcp-server](https://github.com/conorbronsdon/gws-mcp-server) - Curated MCP server for Google Workspace (Gmail, Calendar, Drive, Sheets, Docs, Tasks) via the gws CLI, with 39 focused tools and declared side effects. ![GitHub stars](https://img.shields.io/github/stars/conorbronsdon/gws-mcp-server?style=social)
+- [conorbronsdon/substack-mcp](https://github.com/conorbronsdon/substack-mcp) - MCP server for reading Substack publication data and managing drafts; long-form posts are draft-only, while Notes publish immediately. ![GitHub stars](https://img.shields.io/github/stars/conorbronsdon/substack-mcp?style=social)
 - [Enderfga/openclaw-claude-code-skill](https://github.com/Enderfga/openclaw-claude-code-skill) - Claude Code skill integration via MCP for OpenClaw. ![GitHub stars](https://img.shields.io/github/stars/Enderfga/openclaw-claude-code-skill?style=social)
 - [freema/openclaw-mcp](https://github.com/freema/openclaw-mcp) - MCP server bridging Claude.ai to a self-hosted OpenClaw assistant with OAuth2 authentication. ![GitHub stars](https://img.shields.io/github/stars/freema/openclaw-mcp?style=social)
 - [Helms-AI/openclaw-mcp-server](https://github.com/Helms-AI/openclaw-mcp-server) - MCP server exposing OpenClaw Gateway tools. ![GitHub stars](https://img.shields.io/github/stars/Helms-AI/openclaw-mcp-server?style=social)
