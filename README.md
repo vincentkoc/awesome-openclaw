@@ -86,6 +86,7 @@ Only entries marked with `🎖️` are official OpenClaw-maintained resources. C
 Most entries below are community-maintained and are not vetted by OpenClaw. Only `🎖️` entries are official.
 
 - [BankrBot/openclaw-skills](https://github.com/BankrBot/openclaw-skills) - Community skill library focused on automation and finance. ![GitHub stars](https://img.shields.io/github/stars/BankrBot/openclaw-skills?style=social)
+- [conorbronsdon/avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) - Skill that audits and rewrites content to strip AI writing patterns; works with Claude Code, OpenClaw, Codex, and Hermes. ![GitHub stars](https://img.shields.io/github/stars/conorbronsdon/avoid-ai-writing?style=social)
 - [clawdbot/skills](https://github.com/openclaw/skills) - Legacy alias path to historical skill archive content. ![GitHub stars](https://img.shields.io/github/stars/openclaw/skills?style=social)
 - [jdrhyne/agent-skills](https://github.com/jdrhyne/agent-skills) - Agent skill packs and reusable workflow extensions. ![GitHub stars](https://img.shields.io/github/stars/jdrhyne/agent-skills?style=social)
 - [lekt9/unbrowse-openclaw](https://github.com/lekt9/unbrowse-openclaw) - API-skill generation workflow from captured web/API traffic. ![GitHub stars](https://img.shields.io/github/stars/lekt9/unbrowse-openclaw?style=social)
@@ -95,6 +96,7 @@ Most entries below are community-maintained and are not vetted by OpenClaw. Only
 - [runkids/skillshare](https://github.com/runkids/skillshare) - Share and synchronize skill packs across AI coding tools. ![GitHub stars](https://img.shields.io/github/stars/runkids/skillshare?style=social)
 - [Skills.sh OpenClaw Directory](https://skills.sh/openclaw/openclaw) - Third-party OpenClaw skill discovery directory.
 - [Virtual-Protocol/openclaw-acp](https://github.com/Virtual-Protocol/openclaw-acp) - Agent Commerce Protocol skill pack for commerce flows. ![GitHub stars](https://img.shields.io/github/stars/Virtual-Protocol/openclaw-acp?style=social)
+- [zscole/model-hierarchy-skill](https://github.com/zscole/model-hierarchy-skill) - OpenClaw skill for cost-optimized model routing based on task complexity. ![GitHub stars](https://img.shields.io/github/stars/zscole/model-hierarchy-skill?style=social)
 
 ## Plugins and Integrations
 
@@ -117,7 +119,9 @@ Most entries below are community-maintained and are not vetted by OpenClaw. Only
 ## MCP and Tool Servers
 
 - [androidStern-personal/openclaw-mcp-adapter](https://github.com/androidStern-personal/openclaw-mcp-adapter) - adapter for native OpenClaw tool access. ![GitHub stars](https://img.shields.io/github/stars/androidStern-personal/openclaw-mcp-adapter?style=social)
+- [conorbronsdon/substack-mcp](https://github.com/conorbronsdon/substack-mcp) - MCP server for reading Substack publication data and managing drafts; long-form posts are draft-only, while Notes publish immediately. ![GitHub stars](https://img.shields.io/github/stars/conorbronsdon/substack-mcp?style=social)
 - [Enderfga/openclaw-claude-code-skill](https://github.com/Enderfga/openclaw-claude-code-skill) - Claude Code skill integration via MCP for OpenClaw. ![GitHub stars](https://img.shields.io/github/stars/Enderfga/openclaw-claude-code-skill?style=social)
+- [freema/openclaw-mcp](https://github.com/freema/openclaw-mcp) - MCP server bridging Claude.ai to a self-hosted OpenClaw assistant with OAuth2 authentication. ![GitHub stars](https://img.shields.io/github/stars/freema/openclaw-mcp?style=social)
 - [Helms-AI/openclaw-mcp-server](https://github.com/Helms-AI/openclaw-mcp-server) - MCP server exposing OpenClaw Gateway tools. ![GitHub stars](https://img.shields.io/github/stars/Helms-AI/openclaw-mcp-server?style=social)
 
 ## Media and Papers
@@ -126,12 +130,14 @@ Most entries below are community-maintained and are not vetted by OpenClaw. Only
 
 ## Memory and Context Systems
 
+- [agent-memory-kit](https://github.com/conorbronsdon/agent-memory-kit) - File-based memory curation loop that finds rot and contradictions in agent memory and proposes evidence-cited diffs for review. ![GitHub stars](https://img.shields.io/github/stars/conorbronsdon/agent-memory-kit?style=social)
 - [Mem0 persistent OpenClaw memory](https://docs.mem0.ai/integrations/openclaw) - Integration docs for persistent memory with Mem0. 💵
 - [memovai/memov](https://github.com/memovai/memov) - Memory layer and retrieval toolkit for persistent OpenClaw context. ![GitHub stars](https://img.shields.io/github/stars/memovai/memov?style=social)
 - [MemTensor/MemOS](https://github.com/MemTensor/MemOS) - Memory operating system with OpenClaw ecosystem adoption. ![GitHub stars](https://img.shields.io/github/stars/MemTensor/MemOS?style=social)
 - [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) - Agent memory layer for long-lived assistants. ![GitHub stars](https://img.shields.io/github/stars/NevaMind-AI/memU?style=social)
 - [nhevers/MoltBrain](https://github.com/nhevers/MoltBrain) - Long-term memory layer for OpenClaw and MoltBook agent workflows. ![GitHub stars](https://img.shields.io/github/stars/nhevers/MoltBrain?style=social)
 - [oceanbase/powermem](https://github.com/oceanbase/powermem) - Long-term memory for OpenClawd plugin flows. ![GitHub stars](https://img.shields.io/github/stars/oceanbase/powermem?style=social)
+- [ourmem/omem](https://github.com/ourmem/omem) - Shared persistent memory for AI agents with Space-based sharing across agents and teams; plugins for OpenCode, Claude Code, OpenClaw, and MCP. ![GitHub stars](https://img.shields.io/github/stars/ourmem/omem?style=social)
 - [vincentkoc/openamnesia](https://github.com/vincentkoc/openamnesia) - Continual learning context engine that extracts secure memory from real activity for strong agent cold-starts. ![GitHub stars](https://img.shields.io/github/stars/vincentkoc/openamnesia?style=social)
 - [supermemory OpenClaw Integration Docs](https://supermemory.ai/docs/integrations/openclaw) - Official guide for deploying Supermemory with OpenClaw. 💵
 - [supermemoryai/openclaw-supermemory](https://github.com/supermemoryai/openclaw-supermemory) - Supermemory-backed long-term memory plugin. 💵 ![GitHub stars](https://img.shields.io/github/stars/supermemoryai/openclaw-supermemory?style=social)
