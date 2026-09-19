@@ -198,6 +198,7 @@ These providers handle the setup for you: no Docker, no terminal, no DevOps requ
 - [khal3d/openclaw](https://github.com/khal3d/openclaw) - Container and Helm deployment stack for OpenClaw. ![GitHub stars](https://img.shields.io/github/stars/khal3d/openclaw?style=social)
 - [miantiao-me/cloud-claw](https://github.com/miantiao-me/cloud-claw) - Cloudflare Containers deployment for personal openclaw. ![GitHub stars](https://img.shields.io/github/stars/miantiao-me/cloud-claw?style=social)
 - [miaoxworld/OpenClawInstaller](https://github.com/miaoxworld/OpenClawInstaller) - Installer and setup automation helper. ![GitHub stars](https://img.shields.io/github/stars/miaoxworld/OpenClawInstaller?style=social)
+- [mlamplugh-max/clawhire-openclaw-gateway](https://github.com/mlamplugh-max/clawhire-openclaw-gateway) - Multi-tenant worker for running OpenClaw agents for many tenants, with per-agent OS sandboxes, brokered short-lived credentials and an enforced monthly cost cap. ![GitHub stars](https://img.shields.io/github/stars/mlamplugh-max/clawhire-openclaw-gateway?style=social)
 - [MoltBunker](https://moltbunker.com) - Secure persistence and storage layer for agents.
 - [MoltCities](https://moltcities.org) - Identity and residence layer with handles and key-based identity.
 - [Moltline](https://www.moltline.com) - Private messaging infrastructure for persistent handles and inboxes.
