@@ -113,6 +113,7 @@ Most entries below are community-maintained and are not vetted by OpenClaw. Only
 - [rickybloomfield/OuraClaw](https://github.com/rickybloomfield/OuraClaw) - Oura integration plugin for readiness, sleep, and activity summaries. ![GitHub stars](https://img.shields.io/github/stars/rickybloomfield/OuraClaw?style=social)
 - [soimy/openclaw-channel-dingtalk](https://github.com/soimy/openclaw-channel-dingtalk) - DingTalk enterprise channel plugin with stream support. ![GitHub stars](https://img.shields.io/github/stars/soimy/openclaw-channel-dingtalk?style=social)
 - [techartdev/OpenClawHomeAssistant](https://github.com/techartdev/OpenClawHomeAssistant) - Home Assistant add-on with entity-level integration. ![GitHub stars](https://img.shields.io/github/stars/techartdev/OpenClawHomeAssistant?style=social)
+- [verdeoc/reply-push-v2](https://github.com/verdeoc/reply-push-v2) - Native per-category iOS push notifications for OpenClaw. ![GitHub stars](https://img.shields.io/github/stars/verdeoc/reply-push-v2?style=social)
 
 ## MCP and Tool Servers
 
