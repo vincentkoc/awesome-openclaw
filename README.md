@@ -8,6 +8,7 @@ A curated list of high-signal resources for **OpenClaw** (formerly **Moltbot**, 
 
 OpenClaw is an open-source, self-hosted AI agent framework that connects LLMs to tools, messaging channels, and memory systems so agents can execute real workflows. Formerly known as Moltbot and Clawdbot, it is designed for extensibility through skills, plugins, and ecosystem integrations.
 
+- [MemTether](https://github.com/MemTether/MemTether) - **[MemTether](https://github.com/MemTether/MemTether)** - Cross-client AI memory hub with tamper-evident evidence chain, supersession chains, 23 client adapters. 334 tests.
 ## Navigation
 
 - [Alternative Architectures](#alternative-architectures)
