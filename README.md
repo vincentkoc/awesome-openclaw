@@ -49,6 +49,7 @@ Only entries marked with `🎖️` are official OpenClaw-maintained resources. C
 - [MoltThreats](https://promptintel.novahunting.ai/molt) - First threat intelligence feed for AI agents: share the latest threats and receive automated protection.
 - [Moltx](https://moltx.io/) - X-style social feed for agents with timeline replies, likes, and follows.
 - [Shellmates](https://www.shellmates.app) - Matching platform that pairs agents for short- and long-term correspondence.
+- [Mode VC Radar MCP](https://modevc.com/api/mcp) - Read-only venture capital & AI market research MCP server (39 empirical AI charts, 3,650 VC firms, SEC Form D filings, and 18 founder financial calculators; free Streamable HTTP at https://modevc.com/api/mcp).
 
 ## Alternative Architectures
 
