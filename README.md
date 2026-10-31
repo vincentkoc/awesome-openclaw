@@ -52,6 +52,8 @@ Only entries marked with `🎖️` are official OpenClaw-maintained resources. C
 
 ## Alternative Architectures
 
+- [oyesanyf/OshoosiClaw](https://github.com/oyesanyf/OshoosiClaw) - Decentralized Rust EDR and 7-Ring AI agent containment security engine for the OpenClaw ecosystem. ![GitHub stars](https://img.shields.io/github/stars/oyesanyf/OshoosiClaw?style=social)
+
 - [gavrielc/nanoclaw](https://github.com/qwibitai/nanoclaw) - Lightweight alternative architecture/framework in the OpenClaw ecosystem. ![GitHub stars](https://img.shields.io/github/stars/qwibitai/nanoclaw?style=social)
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Ultra-lightweight personal AI assistant implementation. ![GitHub stars](https://img.shields.io/github/stars/HKUDS/nanobot?style=social)
 - [jlia0/tinyclaw](https://github.com/jlia0/tinyclaw) - OpenClaw in 400 lines of code. ![GitHub stars](https://img.shields.io/github/stars/jlia0/tinyclaw?style=social)
