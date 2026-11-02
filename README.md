@@ -137,6 +137,7 @@ Most entries below are community-maintained and are not vetted by OpenClaw. Only
 - [supermemoryai/openclaw-supermemory](https://github.com/supermemoryai/openclaw-supermemory) - Supermemory-backed long-term memory plugin. 💵 ![GitHub stars](https://img.shields.io/github/stars/supermemoryai/openclaw-supermemory?style=social)
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem/) - Minimal memory layer for Claude/OpenClaw context persistence. ![GitHub stars](https://img.shields.io/github/stars/thedotmack/claude-mem?style=social)
 - [tobi/qmd](https://github.com/tobi/qmd) - Markdown-native memory and knowledge workflows for persistent agent context. ![GitHub stars](https://img.shields.io/github/stars/tobi/qmd?style=social)
+- [vshulcz/deja-vu](https://github.com/vshulcz/deja-vu) - Cross-agent coding session memory with native OpenClaw `before_prompt_build` recall hook and MCP server (`@vshulcz/openclaw-deja`). ![GitHub stars](https://img.shields.io/github/stars/vshulcz/deja-vu?style=social)
 
 ## Developer Tooling and Observability
 
